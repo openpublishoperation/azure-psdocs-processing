@@ -1,5 +1,5 @@
-- name: Index
-  href: ../conceptual/0.8.33/index.md
+- name: get-start
+  href: ../conceptual/0.8.33/get-start.md
 - name: ElasticDatabaseJobs
   href: ElasticDatabaseJobs\ElasticDatabaseJobs.md
   items:

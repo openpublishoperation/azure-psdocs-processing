@@ -1,5 +1,5 @@
-- name: Index
-  href: ../conceptual/2.0.0.52/index.md
+- name: get-start
+  href: ../conceptual/2.0.0.52/get-start.md
 - name: AzureAD
   href: AzureAD\AzureActiveDirectory.md
   items:

@@ -1,5 +1,5 @@
-- name: Index
-  href: ../conceptual/3.6.0/index.md
+- name: get-start
+  href: ../conceptual/3.6.0/get-start.md
 - name: AzureRM.AnalysisServices
   href: AzureRM.AnalysisServices\AzureRM.AnalysisServices.md
   items:
