@@ -6,8 +6,8 @@
           "**/*.yml",
           "**/*.md"
         ],
-        "src": "azrmps/3.7.0",
-        "version": "azrmps-3.7.0",
+        "src": "azrmps/3.6.0",
+        "version": "azrmps-3.6.0",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -22,40 +22,8 @@
           "**/*.yml",
           "**/*.md"
         ],
-        "src": "azrmps/conceptual/3.7.0",
-        "version": "azrmps-3.7.0",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
-        "dest": "azure"
-      },
-      {
-        "files": [
-          "**/*.yml",
-          "**/*.md"
-        ],
-        "src": "azrmps/2.2.0",
-        "version": "azrmps-2.2.0",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
-        "dest": "module"
-      },
-      {
-        "files": [
-          "**/*.yml",
-          "**/*.md"
-        ],
-        "src": "azrmps/conceptual/2.2.0",
-        "version": "azrmps-2.2.0",
+        "src": "azrmps/conceptual/3.6.0",
+        "version": "azrmps-3.6.0",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -84,32 +52,14 @@
           "**/obj/**",
           "**.meta"
         ],
-        "src": "azrmps/3.7.0",
-        "version": "azrmps-3.7.0",
-        "dest": "module"
-      },
-      {
-        "files": [
-          "module.page.json",
-          "codesnippet/**",
-          "langwordmapping/**"
-        ],
-        "exclude": [
-          "_site/**",
-          "**/obj/**",
-          "**.meta"
-        ],
-        "src": "azrmps/2.2.0",
-        "version": "azrmps-2.2.0",
+        "src": "azrmps/3.6.0",
+        "version": "azrmps-3.6.0",
         "dest": "module"
       }
     ],
     "versions": {
-      "azrmps-3.7.0": {
-        "dest": "azrmps-3.7.0"
-      },
-      "azrmps-2.2.0": {
-        "dest": "azrmps-2.2.0"
+      "azrmps-3.6.0": {
+        "dest": "azrmps-3.6.0"
       }
     },
     "dest": "testMultipleVersion"
