@@ -1,21 +1,21 @@
 - name: Azure PowerShell
-  href: /powershell/azure/overview
+  href: ../conceptual/3.6.0/overview.md
   items:
     - name: Install
-      href: /powershell/azure/install-azurerm-ps
+      href: ../conceptual/3.6.0/install-azurerm-ps.md
     - name: Get started
-      href: /powershell/azure/get-started-azureps
+      href: ../conceptual/3.6.0/get-started-azureps.md
     - name: Queries and formatting
-      href: /powershell/azure/queries-formatting
+      href: ../conceptual/3.6.0/queries-formatting.md
     - name: Sign into Azure
-      href: /powershell/azure/authenticate-azureps
+      href: ../conceptual/3.6.0/authenticate-azureps.md
       items:
         - name: Create a service principal
-          href: /powershell/azure/create-azure-service-principal-azureps
+          href: ../conceptual/3.6.0/create-azure-service-principal-azureps.md
     - name: Managing subscriptions
-      href: /powershell/azure/manage-subscriptions-azureps
+      href: ../conceptual/3.6.0/manage-subscriptions-azureps.md
     - name: Release notes
-      href: /powershell/azure/release-notes-azureps
+      href: ../conceptual/3.6.0/release-notes-azureps.md
     - name: Sample Scripts
       items:
         - name: Linux Virtual Machines
