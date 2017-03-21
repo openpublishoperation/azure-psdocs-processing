@@ -10,7 +10,7 @@
       items:
         - name: Create a service principal
           href: ../conceptual/3.6.0/create-azure-service-principal-azureps.md
-    - name: Queries and formatting
+    - name: Queries
       href: ../conceptual/3.6.0/queries-azureps.md
     - name: Formatting
       href: ../conceptual/3.6.0/formatting-output.md
