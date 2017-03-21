@@ -1,31 +1,31 @@
-- name: Azure PowerShell
+- name: Overview  
   href: ../conceptual/3.6.0/overview.md
   items:
     - name: Install
       href: ../conceptual/3.6.0/install-azurerm-ps.md
     - name: Get started
       href: ../conceptual/3.6.0/get-started-azureps.md
-    - name: Queries and formatting
-      href: ../conceptual/3.6.0/queries-formatting.md
-    - name: Sign into Azure
+    - name: Log in
       href: ../conceptual/3.6.0/authenticate-azureps.md
       items:
         - name: Create a service principal
           href: ../conceptual/3.6.0/create-azure-service-principal-azureps.md
-    - name: Managing subscriptions
+    - name: Queries and formatting
+      href: ../conceptual/3.6.0/queries-formatting.md
+    - name: Subscriptions
       href: ../conceptual/3.6.0/manage-subscriptions-azureps.md
     - name: Release notes
       href: ../conceptual/3.6.0/release-notes-azureps.md
-    - name: Sample Scripts
-      items:
-        - name: Linux Virtual Machines
-          href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-linux-powershell-samples?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json
-        - name: Windows Virtual Machines
-          href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-powershell-samples?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json
-        - name: Web Apps
-          href: https://docs.microsoft.com/azure/app-service-web/app-service-powershell-samples
-        - name: SQL Databases
-          href: https://docs.microsoft.com/azure/sql-database/sql-database-powershell-samples
+- name: Sample Scripts
+  items:
+    - name: Linux Virtual Machines
+      href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-linux-powershell-samples?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json
+    - name: Windows Virtual Machines
+      href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-powershell-samples?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json
+    - name: Web Apps
+      href: https://docs.microsoft.com/azure/app-service-web/app-service-powershell-samples
+    - name: SQL Databases
+      href: https://docs.microsoft.com/azure/sql-database/sql-database-powershell-samples
 - name: Reference
   items:
     - name: Analysis Services
