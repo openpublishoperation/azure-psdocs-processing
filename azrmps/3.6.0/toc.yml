@@ -11,7 +11,9 @@
         - name: Create a service principal
           href: ../conceptual/3.6.0/create-azure-service-principal-azureps.md
     - name: Queries and formatting
-      href: ../conceptual/3.6.0/queries-formatting.md
+      href: ../conceptual/3.6.0/queries-azureps.md
+    - name: Formatting
+      href: ../conceptual/3.6.0/formatting-output.md
     - name: Subscriptions
       href: ../conceptual/3.6.0/manage-subscriptions-azureps.md
     - name: Release notes
