@@ -21,13 +21,13 @@
 - name: Sample Scripts
   items:
     - name: Linux Virtual Machines
-      href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-linux-powershell-samples?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json
+      href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-linux-powershell-samples?toc=%2fpowershell%2fazure%%2ftoc.json
     - name: Windows Virtual Machines
-      href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-powershell-samples?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json
+      href: https://docs.microsoft.com/azure/virtual-machines/virtual-machines-windows-powershell-samples?toc=%2fpowershell%2fazure%%2ftoc.json
     - name: Web Apps
-      href: https://docs.microsoft.com/azure/app-service-web/app-service-powershell-samples
+      href: https://docs.microsoft.com/azure/app-service-web/app-service-powershell-samples?toc=%2fpowershell%2fazure%%2ftoc.json
     - name: SQL Databases
-      href: https://docs.microsoft.com/azure/sql-database/sql-database-powershell-samples
+      href: https://docs.microsoft.com/azure/sql-database/sql-database-powershell-samples?toc=%2fpowershell%2fazure%%2ftoc.json
 - name: Reference
   items:
     - name: Analysis Services
