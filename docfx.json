@@ -152,7 +152,7 @@
     },
     "dest": "testMultipleVersion",
     "globalMetadata": {
-      "_op_showPowerShellPicker": true      
-    },
+      "_op_showPowerShellPicker": "true"
+    }
   }
 }
