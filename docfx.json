@@ -7,7 +7,7 @@
           "**/*.md"
         ],
         "src": "azrmps/3.6.0",
-        "version": "azrmps-3.6.0",
+        "version": "azurermps-3.6.0",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -23,7 +23,7 @@
           "**/*.md"
         ],
         "src": "azrmps/conceptual/3.6.0",
-        "version": "azrmps-3.6.0",
+        "version": "azurermps-3.6.0",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -53,13 +53,13 @@
           "**.meta"
         ],
         "src": "azrmps/3.6.0",
-        "version": "azrmps-3.6.0",
+        "version": "azurermps-3.6.0",
         "dest": "module"
       }
     ],
     "versions": {
-      "azrmps-3.6.0": {
-        "dest": "azrmps-3.6.0"
+      "azurermps-3.6.0": {
+        "dest": "azurermps-3.6.0"
       }
     },
     "exportRawModel": true,
