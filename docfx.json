@@ -61,8 +61,6 @@
       "azrmps-3.6.0": {
         "dest": "azrmps-3.6.0"
       }
-    },
-    "exportRawModel": true,
-    "dest": "testMultipleVersion"
+    }
   }
 }
