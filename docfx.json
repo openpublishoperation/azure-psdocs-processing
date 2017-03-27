@@ -64,7 +64,7 @@
     },
     "exportRawModel": true,
     "globalMetadata": {
-      "_op_showPowerShellPicker": "true"
+      "showPowerShellPicker": "true"
     },
     "dest": "testMultipleVersion"
   }
