@@ -1,26 +1,26 @@
 - name: Overview
-  href: ..\conceptual\3.6.0\overview.md
+  href: ../conceptual/3.6.0/overview.md
   items:
     - name: Install
-      href: ..\conceptual\3.6.0\install-azurerm-ps.md
+      href: ../conceptual/3.6.0/install-azurerm-ps.md
       items:
         - name: Other installation methods
-          href: ..\conceptual\3.6.0\other-install.md
+          href: ../conceptual/3.6.0/other-install.md
     - name: Get started
-      href: ..\conceptual\3.6.0\get-started-azureps.md
+      href: ../conceptual/3.6.0/get-started-azureps.md
     - name: Log in
-      href: ..\conceptual\3.6.0\authenticate-azureps.md
+      href: ../conceptual/3.6.0/authenticate-azureps.md
       items:
         - name: Create a service principal
-          href: ..\conceptual\3.6.0\create-azure-service-principal-azureps.md
+          href: ../conceptual/3.6.0/create-azure-service-principal-azureps.md
     - name: Queries
-      href: ..\conceptual\3.6.0\queries-azureps.md
+      href: ../conceptual/3.6.0/queries-azureps.md
     - name: Formatting
-      href: ..\conceptual\3.6.0\formatting-output.md
+      href: ../conceptual/3.6.0/formatting-output.md
     - name: Subscriptions
-      href: ..\conceptual\3.6.0\manage-subscriptions-azureps.md
+      href: ../conceptual/3.6.0/manage-subscriptions-azureps.md
     - name: Release notes
-      href: ..\conceptual\3.6.0\release-notes-azureps.md
+      href: ../conceptual/3.6.0/release-notes-azureps.md
 - name: Sample Scripts
   items:
     - name: Linux Virtual Machines
