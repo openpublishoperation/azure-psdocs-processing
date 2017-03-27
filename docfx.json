@@ -150,6 +150,9 @@
         "dest": "azrmps-3.6.0"
       }
     },
-    "dest": "testMultipleVersion"
+    "dest": "testMultipleVersion",
+    "globalMetadata": {
+      "_op_showPowerShellPicker": true      
+    },
   }
 }
