@@ -13,7 +13,10 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "customized_template_paths": [
+        "_dependentPackages/azurecli.plugins/azurecli"
+      ]
     }
   ],
   "notification_subscribers": [],
@@ -25,6 +28,14 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "develop",
       "branch_mapping": {}
+    }
+  ],
+  "dependent_packages": [
+    {
+      "path_to_root": "_dependentPackages/azurecli.plugins",
+      "id": "opbuild.templates.azurecli",
+      "version": "latest-prerelease",
+      "nuget_feed": "https://www.myget.org/F/op-dev/api/v2"
     }
   ],
   "need_generate_pdf_url_template": false
