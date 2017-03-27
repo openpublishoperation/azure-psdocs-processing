@@ -1,203 +1,216 @@
 {
-	"build": {
-		"content": [{
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/3.7.0",
-			"version": "azurermps-3.7.0",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "module"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/conceptual/3.7.0",
-			"version": "azurermps-3.7.0",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "azure"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/2.2.0",
-			"version": "azurermps-2.2.0",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "module"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/conceptual/2.2.0",
-			"version": "azurermps-2.2.0",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "azure"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/1.7.0",
-			"version": "azurermps-1.7.0",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "module"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/conceptual/1.7.0",
-			"version": "azurermps-1.7.0",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "azure"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/1.2.9",
-			"version": "azurermps-1.2.9",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "module"
-		}, {
-			"files": [
-				"**/*.yml",
-				"**/*.md"
-			],
-			"src": "azurermps/conceptual/1.2.9",
-			"version": "azurermps-1.2.9",
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			],
-			"dest": "azure"
-		}, {
-			"files": [
-				"*.md",
-				"*.yml"
-			]
-		}],
-		"resource": [{
-			"files": [
-				"module.page.json",
-				"codesnippet/**",
-				"langwordmapping/**"
-			],
-			"exclude": [
-				"_site/**",
-				"**/obj/**",
-				"**.meta"
-			],
-			"src": "azurermps/3.7.0",
-			"version": "azurermps-3.7.0",
-			"dest": "module"
-		}, {
-			"files": [
-				"module.page.json",
-				"codesnippet/**",
-				"langwordmapping/**"
-			],
-			"exclude": [
-				"_site/**",
-				"**/obj/**",
-				"**.meta"
-			],
-			"src": "azurermps/2.2.0",
-			"version": "azurermps-2.2.0",
-			"dest": "module"
-		}, {
-			"files": [
-				"module.page.json",
-				"codesnippet/**",
-				"langwordmapping/**"
-			],
-			"exclude": [
-				"_site/**",
-				"**/obj/**",
-				"**.meta"
-			],
-			"src": "azurermps/1.7.0",
-			"version": "azurermps-1.7.0",
-			"dest": "module"
-		}, {
-			"files": [
-				"module.page.json",
-				"codesnippet/**",
-				"langwordmapping/**"
-			],
-			"exclude": [
-				"_site/**",
-				"**/obj/**",
-				"**.meta"
-			],
-			"src": "azurermps/1.2.9",
-			"version": "azurermps-1.2.9",
-			"dest": "module"
-		}],
-		"versions": {
-			"azurermps-3.7.0": {
-				"dest": "azurermps-3.7.0"
-			},
-			"azurermps-2.2.0": {
-				"dest": "azurermps-2.2.0"
-			},
-			"azurermps-1.7.0": {
-				"dest": "azurermps-1.7.0"
-			},
-			"azurermps-1.2.9": {
-				"dest": "azurermps-1.2.9"
-			}
-		},
-		"exportRawModel": true,
-		"dest": "testMultipleVersion"
-	}
+  "build": {
+    "content": [
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/3.7.0",
+      "version": "azurermps-3.7.0",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "module"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/conceptual/3.7.0",
+      "version": "azurermps-3.7.0",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "azure"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/2.2.0",
+      "version": "azurermps-2.2.0",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "module"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/conceptual/2.2.0",
+      "version": "azurermps-2.2.0",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "azure"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/1.7.0",
+      "version": "azurermps-1.7.0",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "module"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/conceptual/1.7.0",
+      "version": "azurermps-1.7.0",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "azure"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/1.2.9",
+      "version": "azurermps-1.2.9",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "module"
+    },
+    {
+      "files": [
+        "**/*.yml",
+        "**/*.md"
+      ],
+      "src": "azurermps/conceptual/1.2.9",
+      "version": "azurermps-1.2.9",
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ],
+      "dest": "azure"
+    },
+    {
+      "files": [
+        "*.md",
+        "*.yml"
+      ]
+    }],
+    "resource": [
+    {
+      "files": [
+        "module.page.json",
+        "codesnippet/**",
+        "langwordmapping/**"
+      ],
+      "exclude": [
+        "_site/**",
+        "**/obj/**",
+        "**.meta"
+      ],
+      "src": "azurermps/3.7.0",
+      "version": "azurermps-3.7.0",
+      "dest": "module"
+    },
+    {
+      "files": [
+        "module.page.json",
+        "codesnippet/**",
+        "langwordmapping/**"
+      ],
+      "exclude": [
+        "_site/**",
+        "**/obj/**",
+        "**.meta"
+      ],
+      "src": "azurermps/2.2.0",
+      "version": "azurermps-2.2.0",
+      "dest": "module"
+    },
+    {
+      "files": [
+        "module.page.json",
+        "codesnippet/**",
+        "langwordmapping/**"
+      ],
+      "exclude": [
+        "_site/**",
+        "**/obj/**",
+        "**.meta"
+      ],
+      "src": "azurermps/1.7.0",
+      "version": "azurermps-1.7.0",
+      "dest": "module"
+    },
+    {
+      "files": [
+        "module.page.json",
+        "codesnippet/**",
+        "langwordmapping/**"
+      ],
+      "exclude": [
+        "_site/**",
+        "**/obj/**",
+        "**.meta"
+      ],
+      "src": "azurermps/1.2.9",
+      "version": "azurermps-1.2.9",
+      "dest": "module"
+    }],
+    "versions": {
+      "azurermps-3.7.0": {
+        "dest": "azurermps-3.7.0"
+      },
+      "azurermps-2.2.0": {
+        "dest": "azurermps-2.2.0"
+      },
+      "azurermps-1.7.0": {
+        "dest": "azurermps-1.7.0"
+      },
+      "azurermps-1.2.9": {
+        "dest": "azurermps-1.2.9"
+      }
+    },
+    "exportRawModel": true,
+    "dest": "testMultipleVersion"
+  }
 }
