@@ -61,6 +61,7 @@
       "azrmps-3.6.0": {
         "dest": "azrmps-3.6.0"
       }
-    }
+    },
+    "dest": "sub_out_folder"
   }
 }
