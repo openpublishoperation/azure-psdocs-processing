@@ -1,0 +1,166 @@
+- name: Overview
+  href: ../conceptual/0/overview
+  items:
+    - name: Install
+      href: ../conceptual/0/install-azure-ps
+- name: Reference
+  items:
+    - name: AADRM
+      href: '/powershell-new/module/AADRM#AADRM'
+      items:
+        - name: Add-AadrmKey
+          href: AADRM/Add-AadrmKey.md
+        - name: Add-AadrmRoleBasedAdministrator
+          href: AADRM/Add-AadrmRoleBasedAdministrator.md
+        - name: Add-AadrmSuperUser
+          href: AADRM/Add-AadrmSuperUser.md
+        - name: Add-AadrmTemplate
+          href: AADRM/Add-AadrmTemplate.md
+        - name: Clear-AadrmSuperUserGroup
+          href: AADRM/Clear-AadrmSuperUserGroup.md
+        - name: Connect-AadrmService
+          href: AADRM/Connect-AadrmService.md
+        - name: Convert-AadrmKeyToKeyVault
+          href: AADRM/Convert-AadrmKeyToKeyVault.md
+        - name: Disable-Aadrm
+          href: AADRM/Disable-Aadrm.md
+        - name: Disable-AadrmDevicePlatform
+          href: AADRM/Disable-AadrmDevicePlatform.md
+        - name: Disable-AadrmDocumentTrackingFeature
+          href: AADRM/Disable-AadrmDocumentTrackingFeature.md
+        - name: Disable-AadrmIPCv3Service
+          href: AADRM/Disable-AadrmIPCv3Service.md
+        - name: Disable-AadrmSuperUserFeature
+          href: AADRM/Disable-AadrmSuperUserFeature.md
+        - name: Disable-AadrmUsageLogFeature
+          href: AADRM/Disable-AadrmUsageLogFeature.md
+        - name: Disconnect-AadrmService
+          href: AADRM/Disconnect-AadrmService.md
+        - name: Enable-Aadrm
+          href: AADRM/Enable-Aadrm.md
+        - name: Enable-AadrmDevicePlatform
+          href: AADRM/Enable-AadrmDevicePlatform.md
+        - name: Enable-AadrmDocumentTrackingFeature
+          href: AADRM/Enable-AadrmDocumentTrackingFeature.md
+        - name: Enable-AadrmIPCv3Service
+          href: AADRM/Enable-AadrmIPCv3Service.md
+        - name: Enable-AadrmSuperUserFeature
+          href: AADRM/Enable-AadrmSuperUserFeature.md
+        - name: Enable-AadrmUsageLogFeature
+          href: AADRM/Enable-AadrmUsageLogFeature.md
+        - name: Export-AadrmTemplate
+          href: AADRM/Export-AadrmTemplate.md
+        - name: Get-Aadrm
+          href: AADRM/Get-Aadrm.md
+        - name: Get-AadrmAdminLog
+          href: AADRM/Get-AadrmAdminLog.md
+        - name: Get-AadrmConfiguration
+          href: AADRM/Get-AadrmConfiguration.md
+        - name: Get-AadrmDevicePlatform
+          href: AADRM/Get-AadrmDevicePlatform.md
+        - name: Get-AadrmDocumentTrackingFeature
+          href: AADRM/Get-AadrmDocumentTrackingFeature.md
+        - name: Get-AadrmIPCv3Service
+          href: AADRM/Get-AadrmIPCv3Service.md
+        - name: Get-AadrmKeys
+          href: AADRM/Get-AadrmKeys.md
+        - name: Get-AadrmMaxUseLicenseValidityTime
+          href: AADRM/Get-AadrmMaxUseLicenseValidityTime.md
+        - name: Get-AadrmMigrationUrl
+          href: AADRM/Get-AadrmMigrationUrl.md
+        - name: Get-AadrmOnboardingControlPolicy
+          href: AADRM/Get-AadrmOnboardingControlPolicy.md
+        - name: Get-AadrmRoleBasedAdministrator
+          href: AADRM/Get-AadrmRoleBasedAdministrator.md
+        - name: Get-AadrmSuperUser
+          href: AADRM/Get-AadrmSuperUser.md
+        - name: Get-AadrmSuperUserFeature
+          href: AADRM/Get-AadrmSuperUserFeature.md
+        - name: Get-AadrmSuperUserGroup
+          href: AADRM/Get-AadrmSuperUserGroup.md
+        - name: Get-AadrmTemplate
+          href: AADRM/Get-AadrmTemplate.md
+        - name: Get-AadrmTemplateProperty
+          href: AADRM/Get-AadrmTemplateProperty.md
+        - name: Get-AadrmUsageLog
+          href: AADRM/Get-AadrmUsageLog.md
+        - name: Get-AadrmUsageLogFeature
+          href: AADRM/Get-AadrmUsageLogFeature.md
+        - name: Get-AadrmUsageLogLastCounterValue
+          href: AADRM/Get-AadrmUsageLogLastCounterValue.md
+        - name: Get-AadrmUsageLogStorageAccount
+          href: AADRM/Get-AadrmUsageLogStorageAccount.md
+        - name: Get-AadrmUserLog
+          href: AADRM/Get-AadrmUserLog.md
+        - name: Import-AadrmTemplate
+          href: AADRM/Import-AadrmTemplate.md
+        - name: Import-AadrmTpd
+          href: AADRM/Import-AadrmTpd.md
+        - name: New-AadrmRightsDefinition
+          href: AADRM/New-AadrmRightsDefinition.md
+        - name: Remove-AadrmRoleBasedAdministrator
+          href: AADRM/Remove-AadrmRoleBasedAdministrator.md
+        - name: Remove-AadrmSuperUser
+          href: AADRM/Remove-AadrmSuperUser.md
+        - name: Remove-AadrmTemplate
+          href: AADRM/Remove-AadrmTemplate.md
+        - name: Set-AadrmMaxUseLicenseValidityTime
+          href: AADRM/Set-AadrmMaxUseLicenseValidityTime.md
+        - name: Set-AadrmMigrationUrl
+          href: AADRM/Set-AadrmMigrationUrl.md
+        - name: Set-AadrmOnboardingControlPolicy
+          href: AADRM/Set-AadrmOnboardingControlPolicy.md
+        - name: Set-AadrmSuperUserGroup
+          href: AADRM/Set-AadrmSuperUserGroup.md
+        - name: Set-AadrmTemplateProperty
+          href: AADRM/Set-AadrmTemplateProperty.md
+        - name: Set-AadrmUsageLogStorageAccount
+          href: AADRM/Set-AadrmUsageLogStorageAccount.md
+        - name: Use-AadrmKeyVaultKey
+          href: AADRM/Use-AadrmKeyVaultKey.md
+    - name: AzureInformationProtection
+      href: '/powershell-new/module/AzureInformationProtection#AzureInformationProtection'
+      items:
+        - name: Clear-RMSAuthentication
+          href: AzureInformationProtection/Clear-RMSAuthentication.md
+        - name: Get-AIPFileStatus
+          href: AzureInformationProtection/Get-AIPFileStatus.md
+        - name: Get-RMSFileStatus
+          href: AzureInformationProtection/Get-RMSFileStatus.md
+        - name: Get-RMSServer
+          href: AzureInformationProtection/Get-RMSServer.md
+        - name: Get-RMSServerAuthentication
+          href: AzureInformationProtection/Get-RMSServerAuthentication.md
+        - name: Get-RMSTemplate
+          href: AzureInformationProtection/Get-RMSTemplate.md
+        - name: New-RMSProtectionLicense
+          href: AzureInformationProtection/New-RMSProtectionLicense.md
+        - name: Protect-RMSFile
+          href: AzureInformationProtection/Protect-RMSFile.md
+        - name: Set-AIPFileLabel
+          href: AzureInformationProtection/Set-AIPFileLabel.md
+        - name: Set-RMSServerAuthentication
+          href: AzureInformationProtection/Set-RMSServerAuthentication.md
+        - name: Unprotect-RMSFile
+          href: AzureInformationProtection/Unprotect-RMSFile.md
+    - name: RMSProtection
+      href: '/powershell-new/module/RMSProtection#RMSProtection'
+      items:
+        - name: Clear-RMSAuthentication
+          href: RMSProtection/Clear-RMSAuthentication.md
+        - name: Get-RMSFileStatus
+          href: RMSProtection/Get-RMSFileStatus.md
+        - name: Get-RMSServer
+          href: RMSProtection/Get-RMSServer.md
+        - name: Get-RMSServerAuthentication
+          href: RMSProtection/Get-RMSServerAuthentication.md
+        - name: Get-RMSTemplate
+          href: RMSProtection/Get-RMSTemplate.md
+        - name: New-RMSProtectionLicense
+          href: RMSProtection/New-RMSProtectionLicense.md
+        - name: Protect-RMSFile
+          href: RMSProtection/Protect-RMSFile.md
+        - name: Set-RMSServerAuthentication
+          href: RMSProtection/Set-RMSServerAuthentication.md
+        - name: Unprotect-RMSFile
+          href: RMSProtection/Unprotect-RMSFile.md
