@@ -1,8 +1,5 @@
 - name: Overview
-  href: ../conceptual/0/overview
-  items:
-    - name: Install
-      href: ../conceptual/0/install-azure-ps
+  href: ../conceptual/0/overview.md
 - name: Reference
   items:
     - name: AADRM
