@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 86D8965D-D999-48A4-A4EE-9E054E5486EE
 online version:
 schema: 2.0.0
-updated_at: 03/11/2017 02:03 AM
-ms.date: 03/11/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADUser.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADUser.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/04f63f6e685743ace2c57eb157574e34e8610b1c
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # New-AzureRmADUser
 
 ## SYNOPSIS
-Creates a new active directory user.
+Creates a new Active Directory user.
 
 ## SYNTAX
 
@@ -29,7 +29,7 @@ New-AzureRmADUser -DisplayName <String> -UserPrincipalName <String> -Password <S
 ```
 
 ## DESCRIPTION
-Creates a new active directory user (work/school account also popularly known as org-id).
+Creates a new Active Directory user (work/school account also popularly known as org-id).
 For more information: https://msdn.microsoft.com/en-us/library/azure/ad/graph/api/users-operations#CreateUser
 
 ## EXAMPLES

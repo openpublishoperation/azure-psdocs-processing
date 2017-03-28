@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 4DC26C26-6162-4A15-BFCB-4D2B6B52DD81
 online version:
 schema: 2.0.0
-updated_at: 03/11/2017 02:03 AM
-ms.date: 03/11/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Get-AzureRmADServicePrincipal.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Get-AzureRmADServicePrincipal.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/04f63f6e685743ace2c57eb157574e34e8610b1c
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # Get-AzureRmADServicePrincipal
 
 ## SYNOPSIS
-Filters active directory service principals.
+Filters Active Directory service principals.
 
 ## SYNTAX
 
@@ -47,41 +47,38 @@ Get-AzureRmADServicePrincipal -ServicePrincipalName <String> [-InformationAction
 ```
 
 ## DESCRIPTION
-Filters active directory service principals.
+The **Get-AzureRmADServicePrincipal** cmdlet filters Active Directory service principals.
 
 ## EXAMPLES
 
-### --------------------------  Filters service principals using SPN  --------------------------
-@{paragraph=PS C:\\\>}
+### Example 1: Filter service principals using an service principal name
 
 ```
 PS C:\> Get-AzureRmADServicePrincipal -SPN 36f81fc3-b00f-48cd-8218-3879f51ff39f
 ```
 
-Gets service principals with 36f81fc3-b00f-48cd-8218-3879f51ff39f SPN.
+This command gets service principals with the SPN of 36f81fc3-b00f-48cd-8218-3879f51ff39f.
 
-### --------------------------  Filters service principals using Search String  --------------------------
-@{paragraph=PS C:\\\>}
+### Example 2: Filter service principals using a Search String
 
 ```
 PS C:\> Get-AzureRmADServicePrincipal -SearchString "Web"
 ```
 
-Filters all ad service principals that have display name starting with "Web".
+This command filters all AD service principals that have display name starting with Web.
 
-### --------------------------  List AD service principals  --------------------------
-@{paragraph=PS C:\\\>}
+### Example 3: List AD service principals
 
 ```
 PS C:\> Get-AzureRmADServicePrincipal
 ```
 
-Gets all AD service principals.
+This command gets all AD service principals.
 
 ## PARAMETERS
 
 ### -ServicePrincipalName
-SPN of the service.
+Specifies the SPN of the service.
 
 ```yaml
 Type: String
@@ -147,7 +144,7 @@ Accept wildcard characters: False
 ```
 
 ### -SearchString
-Fetches all service principals that have the display name starting with this value.
+Specifies a string that this cmdlet searches all service principals that start with the display name.
 
 ```yaml
 Type: String
@@ -162,7 +159,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectId
-Object id of the service principal.
+Specifies the object ID of the service principal.
 
 ```yaml
 Type: Guid
@@ -184,13 +181,12 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[New-AzureRmADServicePrincipal]()
+[New-AzureRmADServicePrincipal](./New-AzureRmADServicePrincipal.md)
 
-[Set-AzureRmADServicePrincipal]()
+[Remove-AzureRmADServicePrincipal](./Remove-AzureRmADServicePrincipal.md)
 
-[Remove-AzureRmADServicePrincipal]()
+[Set-AzureRmADServicePrincipal](./Set-AzureRmADServicePrincipal.md)
 
-[Get-AzureRmADApplication]()
+[Get-AzureRmADApplication](./Get-AzureRmADApplication.md)
 
-[Get-AzureRmADSpCredential]()
-
+[Get-AzureRmADSpCredential](./Get-AzureRmADSpCredential.md)

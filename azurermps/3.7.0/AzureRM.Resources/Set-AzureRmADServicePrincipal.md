@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 7B8C8239-16A3-4C47-9D6F-DE31885532F4
 online version:
 schema: 2.0.0
-updated_at: 03/23/2017 19:03 PM
-ms.date: 03/23/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmADServicePrincipal.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmADServicePrincipal.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/41ada73c47a1e6470a5d53dd3067fc8dd972eb71
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # Set-AzureRmADServicePrincipal
 
 ## SYNOPSIS
-Updates an existing azure active directory service principal.
+Updates an existing azure Active Directory service principal.
 
 ## SYNTAX
 
@@ -35,7 +35,7 @@ Set-AzureRmADServicePrincipal -ServicePrincipalName <String> -DisplayName <Strin
 ```
 
 ## DESCRIPTION
-Updates an existing azure active directory service principal. 
+Updates an existing azure Active Directory service principal. 
 To update the credentials associated with this service principal, please use New-AzureRmADSpCredential cmdlet. 
 To update the properties associated with the underlying application, please use Set-AzureRmADApplication cmdlet.
 

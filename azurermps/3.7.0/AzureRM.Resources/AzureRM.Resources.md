@@ -3,11 +3,11 @@ Module Name: AzureRM.Resources
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Locale: en-US
 ms.assetid: 07AB209D-A780-4EFC-A9E7-8D035F27C7EE
-updated_at: 03/11/2017 02:03 AM
-ms.date: 03/11/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/AzureRM.Resources.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/AzureRM.Resources.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/04f63f6e685743ace2c57eb157574e34e8610b1c
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: conceptual
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -100,22 +100,22 @@ Searches for resource groups.
 Retrieves a list of credentials associated with an application.
 
 ### [Get-AzureRmADApplication](Get-AzureRmADApplication.md)
-Lists existing azure active directory applications.
+Lists existing azure Active Directory applications.
 
 ### [Get-AzureRmADGroup](Get-AzureRmADGroup.md)
-Filters active directory groups.
+Filters Active Directory groups.
 
 ### [Get-AzureRmADGroupMember](Get-AzureRmADGroupMember.md)
 Get a group members.
 
 ### [Get-AzureRmADServicePrincipal](Get-AzureRmADServicePrincipal.md)
-Filters active directory service principals.
+Filters Active Directory service principals.
 
 ### [Get-AzureRmADSpCredential](Get-AzureRmADSpCredential.md)
 Retrieves a list of credentials associated with a service principal.
 
 ### [Get-AzureRmADUser](Get-AzureRmADUser.md)
-Filters active directory users.
+Filters Active Directory users.
 
 ### [Get-AzureRmLocation](Get-AzureRmLocation.md)
 Gets all locations and the supported resource providers for each location.
@@ -166,16 +166,16 @@ Moves a resource to a different resource group or subscription.
 Adds a credential to an existing application.
 
 ### [New-AzureRmADApplication](New-AzureRmADApplication.md)
-Creates a new azure active directory application.
+Creates a new azure Active Directory application.
 
 ### [New-AzureRmADServicePrincipal](New-AzureRmADServicePrincipal.md)
-Creates a new azure active directory service principal.
+Creates a new azure Active Directory service principal.
 
 ### [New-AzureRmADSpCredential](New-AzureRmADSpCredential.md)
 Adds a credential to an existing service principal.
 
 ### [New-AzureRmADUser](New-AzureRmADUser.md)
-Creates a new active directory user.
+Creates a new Active Directory user.
 
 ### [New-AzureRmPolicyAssignment](New-AzureRmPolicyAssignment.md)
 Creates a policy assignment.
@@ -211,16 +211,16 @@ Registers a resource provider.
 Removes a credential from an application.
 
 ### [Remove-AzureRmADApplication](Remove-AzureRmADApplication.md)
-Deletes the azure active directory application.
+Deletes the azure Active Directory application.
 
 ### [Remove-AzureRmADServicePrincipal](Remove-AzureRmADServicePrincipal.md)
-Deletes the azure active directory service principal.
+Deletes the azure Active Directory service principal.
 
 ### [Remove-AzureRmADSpCredential](Remove-AzureRmADSpCredential.md)
 Removes a credential from a service principal.
 
 ### [Remove-AzureRmADUser](Remove-AzureRmADUser.md)
-Deletes an active directory user.
+Deletes an Active Directory user.
 
 ### [Remove-AzureRmPolicyAssignment](Remove-AzureRmPolicyAssignment.md)
 Removes a policy assignment.
@@ -250,13 +250,13 @@ Deletes a custom role in Azure RBAC.
 Saves a resource group deployment template to a file.
 
 ### [Set-AzureRmADApplication](Set-AzureRmADApplication.md)
-Updates an existing azure active directory application.
+Updates an existing azure Active Directory application.
 
 ### [Set-AzureRmADServicePrincipal](Set-AzureRmADServicePrincipal.md)
-Updates an existing azure active directory service principal.
+Updates an existing azure Active Directory service principal.
 
 ### [Set-AzureRmADUser](Set-AzureRmADUser.md)
-Updates an existing active directory user.
+Updates an existing Active Directory user.
 
 ### [Set-AzureRmPolicyAssignment](Set-AzureRmPolicyAssignment.md)
 Modifies a policy assignment.

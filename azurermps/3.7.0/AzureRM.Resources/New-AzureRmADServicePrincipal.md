@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: D602F910-B26F-473D-B5B6-C7BDFB0A14CB
 online version:
 schema: 2.0.0
-updated_at: 03/23/2017 19:03 PM
-ms.date: 03/23/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADServicePrincipal.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADServicePrincipal.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/41ada73c47a1e6470a5d53dd3067fc8dd972eb71
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # New-AzureRmADServicePrincipal
 
 ## SYNOPSIS
-Creates a new azure active directory service principal.
+Creates a new azure Active Directory service principal.
 
 ## SYNTAX
 
@@ -87,7 +87,7 @@ New-AzureRmADServicePrincipal -DisplayName <String> -CertValue <String> [-StartD
 ```
 
 ## DESCRIPTION
-Creates a new azure active directory service principal.
+Creates a new azure Active Directory service principal.
 
 Note: The cmdlet also implicitly creates an application and sets its properties (if the ApplicationId is not provided).
 In order to update the application specific parameters please use Set-AzureRmADApplication cmdlet.
@@ -101,7 +101,7 @@ In order to update the application specific parameters please use Set-AzureRmADA
 New-AzureRmADServicePrincipal -ApplicationId 34a28ad2-dec4-4a41-bc3b-d22ddf90000e
 ```
 
-Creates a new azure active directory service principal.
+Creates a new azure Active Directory service principal.
 
 DisplayName                    Type                           ObjectId
 -----------                    ----                           --------

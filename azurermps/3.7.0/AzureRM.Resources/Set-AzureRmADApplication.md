@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: BA97DB6F-F64D-417E-BD72-C2EBB2EC1AA4
 online version:
 schema: 2.0.0
-updated_at: 03/23/2017 19:03 PM
-ms.date: 03/23/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmADApplication.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmADApplication.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/41ada73c47a1e6470a5d53dd3067fc8dd972eb71
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # Set-AzureRmADApplication
 
 ## SYNOPSIS
-Updates an existing azure active directory application.
+Updates an existing azure Active Directory application.
 
 ## SYNTAX
 
@@ -37,7 +37,7 @@ Set-AzureRmADApplication -ApplicationId <String> [-DisplayName <String>] [-HomeP
 ```
 
 ## DESCRIPTION
-Updates an existing azure active directory application.
+Updates an existing azure Active Directory application.
 To update the credentials associated with this application, please use New-AzureRmADAppCredential cmdlet.
 
 ## EXAMPLES
@@ -49,7 +49,7 @@ To update the credentials associated with this application, please use New-Azure
 PS C:\> Set-AzureRmADApplication -ObjectId fb7b3405-ca44-4b5b-8584-12392f5d96d7 -DisplayName "UpdatedAppName" -HomePage "http://www.microsoft.com" -IdentifierUris "http://UpdatedApp" -AvailableToOtherTenants $false
 ```
 
-Updates the properties of an existing azure active directory application with objectId "fb7b3405-ca44-4b5b-8584-12392f5d96d7".
+Updates the properties of an existing azure Active Directory application with objectId "fb7b3405-ca44-4b5b-8584-12392f5d96d7".
 
 ### Example 2:
 @{paragraph=PS C:\\\>}
@@ -58,7 +58,7 @@ Updates the properties of an existing azure active directory application with ob
 PS C:\> Set-AzureRmADApplication -ObjectId fb7b3405-ca44-4b5b-8584-12392f5d96d7 -DisplayName "UpdatedAppName"
 ```
 
-Updates the display name of an existing azure active directory application with objectId "fb7b3405-ca44-4b5b-8584-12392f5d96d7".
+Updates the display name of an existing azure Active Directory application with objectId "fb7b3405-ca44-4b5b-8584-12392f5d96d7".
 
 ## PARAMETERS
 

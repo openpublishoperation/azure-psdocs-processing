@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: F58FD77E-2946-44B1-B410-6E983FC20E21
 online version:
 schema: 2.0.0
-updated_at: 03/11/2017 02:03 AM
-ms.date: 03/11/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADApplication.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADApplication.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/04f63f6e685743ace2c57eb157574e34e8610b1c
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # New-AzureRmADApplication
 
 ## SYNOPSIS
-Creates a new azure active directory application.
+Creates a new azure Active Directory application.
 
 ## SYNTAX
 
@@ -60,7 +60,7 @@ New-AzureRmADApplication -DisplayName <String> -IdentifierUris <String[]> [-Home
 ```
 
 ## DESCRIPTION
-Creates a new azure active directory application.
+Creates a new azure Active Directory application.
 
 ## EXAMPLES
 
@@ -71,7 +71,7 @@ Creates a new azure active directory application.
 PS C:\> New-AzureRmADApplication -DisplayName "NewApplication" -HomePage "http://www.microsoft.com" -IdentifierUris "http://NewApplication"
 ```
 
-Creates a new azure active directory application without any credentials.
+Creates a new azure Active Directory application without any credentials.
 
 ### --------------------------  Create new AAD application with password.  --------------------------
 @{paragraph=PS C:\\\>}
@@ -81,7 +81,7 @@ PS C:\> New-AzureRmADApplication -DisplayName "NewApplication" -HomePage "http:/
 //NewApplication" -Password "password"
 ```
 
-Creates a new azure active directory application and associates password credentials with it.
+Creates a new azure Active Directory application and associates password credentials with it.
 
 ## PARAMETERS
 

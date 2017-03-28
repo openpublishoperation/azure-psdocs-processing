@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 388D4173-A937-42FA-81CB-C4A27F9D0B04
 online version:
 schema: 2.0.0
-updated_at: 03/11/2017 02:03 AM
-ms.date: 03/11/2017
+updated_at: 03/28/2017 19:03 PM
+ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmADUser.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmADUser.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/04f63f6e685743ace2c57eb157574e34e8610b1c
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -18,7 +18,7 @@ open_to_public_contributors: false
 # Set-AzureRmADUser
 
 ## SYNOPSIS
-Updates an existing active directory user.
+Updates an existing Active Directory user.
 
 ## SYNTAX
 
@@ -29,7 +29,7 @@ Set-AzureRmADUser -UPNOrObjectId <String> [-DisplayName <String>] [-EnableAccoun
 ```
 
 ## DESCRIPTION
-Updates an existing active directory user (work/school account also popularly known as org-id).
+Updates an existing Active Directory user (work/school account also popularly known as org-id).
 For more information: https://msdn.microsoft.com/en-us/library/azure/ad/graph/api/users-operations#UpdateUser
 
 ## EXAMPLES
