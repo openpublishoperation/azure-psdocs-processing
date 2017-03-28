@@ -1,9 +1,54 @@
 {
   "redirections": [
     {
-        "source_path": "azrmps/conceptual/3.6.0/index.md",
-        "redirect_url": "/powershell-new/azure/overview?view=azrmps-3.6.0",
-        "redirect_document_id": true
+        "source_path": "azureadps/conceptual/1.0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azureadps/conceptual/2.0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azureelasticdbjobsps/conceptual/0.8.33/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azureipps/conceptual/0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+        {
+        "source_path": "azurermps/conceptual/1.2.9/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azurermps/conceptual/1.7.0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azurermps/conceptual/2.2.0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azurermps/conceptual/3.7.0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azureservicefabricps/conceptual/0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
+    },
+    {
+        "source_path": "azuresmps/conceptual/3.7.0/index.md",
+        "redirect_url": "/powershell-new/azure/overview",
+        "redirect_document_id": false
     }
   ]
 }
