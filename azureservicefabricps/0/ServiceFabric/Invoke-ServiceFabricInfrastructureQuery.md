@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: E09D6FED-175D-4511-9E66-717A6EB7F495
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Invoke-ServiceFabricInfrastructureQuery.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Invoke-ServiceFabricInfrastructureQuery.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

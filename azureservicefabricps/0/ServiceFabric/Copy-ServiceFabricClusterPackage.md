@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 6DB6444E-9271-42D4-8EC9-73CA6A799369
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Copy-ServiceFabricClusterPackage.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Copy-ServiceFabricClusterPackage.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

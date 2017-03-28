@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 180D2ECE-79F6-4047-99D6-5D987A90AE88
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricServiceGroupMember.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricServiceGroupMember.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 22F9FF8A-25DE-423C-9395-ED584B0D6BC3
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricNodeLoadInformation.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricNodeLoadInformation.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 83AFB00A-7A9E-4DCB-9000-720D3FCDB31C
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Send-ServiceFabricDeployedApplicationHealthReport.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Send-ServiceFabricDeployedApplicationHealthReport.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

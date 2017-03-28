@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 9F010748-70B9-4E00-94C7-EBD0B2983C35
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Invoke-ServiceFabricChaosTestScenario.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Invoke-ServiceFabricChaosTestScenario.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

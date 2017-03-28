@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: EF6C08E7-6811-4F74-84FB-D4FCE4D6FAFD
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Approve-ServiceFabricRepairTask.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Approve-ServiceFabricRepairTask.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

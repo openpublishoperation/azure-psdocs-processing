@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 56FED04E-8162-4BD9-83BA-C4A79DC46B57
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Send-ServiceFabricPartitionHealthReport.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Send-ServiceFabricPartitionHealthReport.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 13A0E0CC-38CE-4B64-8018-8DA8EFA7678B
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Restart-ServiceFabricDeployedCodePackage.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Restart-ServiceFabricDeployedCodePackage.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

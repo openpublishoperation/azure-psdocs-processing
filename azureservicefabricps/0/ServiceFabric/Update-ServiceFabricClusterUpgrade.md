@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 19517C43-639C-4FB0-8BEE-5B751DC5CBE5
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricClusterUpgrade.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricClusterUpgrade.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

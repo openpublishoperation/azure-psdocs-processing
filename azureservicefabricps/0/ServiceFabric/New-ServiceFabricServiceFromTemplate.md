@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 0A8D8356-C8A1-4EA7-9E0C-3C7A483EB72E
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/New-ServiceFabricServiceFromTemplate.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/New-ServiceFabricServiceFromTemplate.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

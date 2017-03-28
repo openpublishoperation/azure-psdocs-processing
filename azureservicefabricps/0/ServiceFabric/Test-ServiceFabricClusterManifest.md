@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: FD4821A9-3C2A-4AFB-9611-D46FF1D4772C
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Test-ServiceFabricClusterManifest.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Test-ServiceFabricClusterManifest.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
