@@ -67,17 +67,9 @@ Import-Module AzureRM
 
 For more information about using Azure PowerShell, see the following articles:
 
-* [Sign on with Azure PowerShell](authenticate-azureps.md)
 * [Get started with Azure PowerShell](get-started-azureps.md)
-* [Manage Azure subscriptions with Azure PowerShell](manage-subscriptions-azureps.md)
-* [Create service principals in Azure using Azure PowerShell](create-azure-service-principal-azureps.md)
-* Read the Release notes about migrating from an older release:
-  [https://github.com/Azure/azure-powershell/tree/dev/documentation/release-notes](https://github.com/Azure/azure-powershell/tree/dev/documentation/release-notes).
-* Get help from the community:
-  + [Azure forum on MSDN](http://go.microsoft.com/fwlink/p/?LinkId=320212)
-  + [stackoverflow](http://go.microsoft.com/fwlink/?LinkId=320213)
 
-## Optional installation tasks
+## Frequently asked questions
 
 ### How to get PowerShellGet
 
@@ -103,7 +95,7 @@ Update-Module -Name AzureRM -Force
 > [!NOTE]
 > If you have deployments that use the classic deployment model that cannot be converted you can
 install the Service Management version of Azure PowerShell. For more information, see
-[Install the Azure PowerShell Service Management module](../servicemanagement/install-azure-ps.md).
+[Install the Azure PowerShell Service Management module](overview?view=azuresmps-3.7.0).
 The Azure and AzureRM modules share common dependencies. So if you use both modules you should
 update both.
 
