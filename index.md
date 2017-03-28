@@ -194,7 +194,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="azure/overview">
+                            <a href="/powershell/azure/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -219,15 +219,15 @@ title: PowerShell Documentation
                 </li>
                 <li>
                     <a href="#social">Social</a>
-                    <ul id="social" class="cardsC">
+                    <ul id="social" class="cardsF">
                         <li>
                             <a href="">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
-                                            <div class="cardImage bgdAccent1">
-                                                <img src="/media/common/placeholder.svg" alt="" />
+                                            <div class="cardImage">
+                                                <img src="/media/common/i_blog.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -245,8 +245,8 @@ title: PowerShell Documentation
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
-                                            <div class="cardImage bgdAccent1">
-                                                <img src="/media/common/placeholder.svg" alt="" />
+                                            <div class="cardImage">
+                                                <img src="/media/common/i_blog.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -264,8 +264,8 @@ title: PowerShell Documentation
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
-                                            <div class="cardImage bgdAccent1">
-                                                <img src="/media/common/placeholder.svg" alt="" />
+                                            <div class="cardImage">
+                                                <img src="/media/common/i_feedback.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -283,8 +283,8 @@ title: PowerShell Documentation
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
-                                            <div class="cardImage bgdAccent1">
-                                                <img src="/media/common/placeholder.svg" alt="" />
+                                            <div class="cardImage">
+                                                <img src="/media/common/i_feedback.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
