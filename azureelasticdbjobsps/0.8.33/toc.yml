@@ -1,8 +1,5 @@
 - name: Overview
-  href: ../conceptual/0.8.33/overview
-  items:
-    - name: Install
-      href: ../conceptual/0.8.33/install-azure-ps
+  href: ../conceptual/0.8.33/overview.md
 - name: Reference
   items:
     - name: ElasticDatabaseJobs
