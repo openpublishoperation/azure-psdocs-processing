@@ -6,8 +6,8 @@
           "**/*.yml",
           "**/*.md"
         ],
-        "src": "azrmps/3.6.0",
-        "version": "azrmps-3.6.0",
+        "src": "azurermps/1.2.9",
+        "version": "azurermps-1.2.9",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -22,8 +22,264 @@
           "**/*.yml",
           "**/*.md"
         ],
-        "src": "azrmps/conceptual/3.6.0",
-        "version": "azrmps-3.6.0",
+        "src": "azurermps/conceptual/1.2.9",
+        "version": "azurermps-1.2.9",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azurermps/2.2.0",
+        "version": "azurermps-2.2.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azurermps/conceptual/2.2.0",
+        "version": "azurermps-2.2.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azurermps/3.7.0",
+        "version": "azurermps-3.7.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azurermps/conceptual/3.7.0",
+        "version": "azurermps-3.7.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azuresmps/3.7.0",
+        "version": "azuresmps-3.7.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azuresmps/conceptual/3.7.0",
+        "version": "azuresmps-3.7.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureipps/0",
+        "version": "azureipps",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureipps/conceptual/0",
+        "version": "azureipps",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureservicefabricps/0",
+        "version": "azureservicefabricps",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureservicefabricps/conceptual/0",
+        "version": "azureservicefabricps",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/1.0",
+        "version": "azureadps-1.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/conceptual/1.0",
+        "version": "azureadps-1.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/2.0",
+        "version": "azureadps-2.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/conceptual/2.0",
+        "version": "azureadps-2.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureelasticdbjobsps/0.8.33",
+        "version": "azureelasticdbjobsps-0.8.33",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureelasticdbjobsps/conceptual/0.8.33",
+        "version": "azureelasticdbjobsps-0.8.33",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -40,26 +296,33 @@
         ]
       }
     ],
-    "resource": [
-      {
-        "files": [
-          "module.page.json",
-          "codesnippet/**",
-          "langwordmapping/**"
-        ],
-        "exclude": [
-          "_site/**",
-          "**/obj/**",
-          "**.meta"
-        ],
-        "src": "azrmps/3.6.0",
-        "version": "azrmps-3.6.0",
-        "dest": "module"
-      }
-    ],
     "versions": {
-      "azrmps-3.6.0": {
-        "dest": "azrmps-3.6.0"
+      "azurermps-1.2.9": {
+        "dest": "azurermps-1.2.9"
+      },
+      "azurermps-2.2.0": {
+        "dest": "azurermps-2.2.0"
+      },
+      "azurermps-3.7.0": {
+        "dest": "azurermps-3.7.0"
+      },
+      "azuresmps-3.7.0": {
+        "dest": "azurermps-3.7.0"
+      },
+      "azureipps": {
+        "dest": "azureipps"
+      },
+      "azureservicefabricps": {
+        "dest": "azureservicefabricps"
+      },
+      "azureadps-1.0": {
+        "dest": "azureadps-1.0"
+      },
+      "azureadps-2.0": {
+        "dest": "azureadps-2.0"
+      },
+      "azureelasticdbjobsps-0.8.33": {
+        "dest": "azureelasticdbjobsps-0.8.33"
       }
     },
     "exportRawModel": true,

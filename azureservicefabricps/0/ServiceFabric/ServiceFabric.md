@@ -4,8 +4,6 @@ Module Guid: ServiceFabric_d2c42633-5254-4a82-a31
 Download Help Link: http://go.microsoft.com/fwlink/?LinkID=521412
 Help Version: 2.0.14.0
 Locale: en-US
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/ServiceFabric.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/ServiceFabric.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

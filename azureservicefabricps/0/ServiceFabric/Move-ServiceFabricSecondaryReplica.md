@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: DBE2A1B4-438C-4E66-9D50-2DBC6333338C
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Move-ServiceFabricSecondaryReplica.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Move-ServiceFabricSecondaryReplica.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

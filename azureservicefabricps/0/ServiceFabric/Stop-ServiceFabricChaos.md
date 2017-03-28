@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: EEE80FB0-7BFA-4C4C-AB20-8DB9F4F97E9B
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Stop-ServiceFabricChaos.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Stop-ServiceFabricChaos.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

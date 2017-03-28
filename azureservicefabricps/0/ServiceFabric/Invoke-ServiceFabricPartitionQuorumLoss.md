@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: C312AB4D-6C4F-404B-8335-A911EFFBD6E0
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Invoke-ServiceFabricPartitionQuorumLoss.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Invoke-ServiceFabricPartitionQuorumLoss.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/

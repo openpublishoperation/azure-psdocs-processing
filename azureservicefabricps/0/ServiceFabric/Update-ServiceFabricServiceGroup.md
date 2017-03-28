@@ -3,8 +3,6 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: F6801F63-9A69-48E9-B2A2-64B8F2C5E8C8
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricServiceGroup.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricServiceGroup.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
