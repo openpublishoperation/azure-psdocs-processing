@@ -2,11 +2,11 @@
 external help file: Microsoft.Open.MS.GraphBeta.PowerShell.dll-Help.xml
 online version:
 schema: 2.0.0
-updated_at: 03/28/2017 00:03 AM
+updated_at: 03/28/2017 21:03 PM
 ms.date: 03/28/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/v2/Set-AzureADMSGroup.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/v2/Set-AzureADMSGroup.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/9cd8b80caaebed24cf5986c4cc47381bc2c8e3b7
+gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/7d11b61f46019ef67575d2d44ef468ddc878c44b
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -192,19 +192,6 @@ The acceptable values for this parameter are:
 * On. Process the group rule.
 * Paused. Stop processing the group rule. 
 The members list remains unchanged.
-
-```yaml
-Type: String
-Parameter Sets: (All)
-Aliases: 
-
-Required: False
-Position: Named
-Default value: None
-Accept pipeline input: False
-Accept wildcard characters: False
-```
-
 This parameter determines the visibility of the group's content and members list. This parameter can take one of the following values:
 
 "Public" - Anyone can view the contents of the group
@@ -230,6 +217,8 @@ Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
 ```
+
+
 
 ### CommonParameters
 This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutVariable, -OutBuffer, -PipelineVariable, -Verbose, -WarningAction, and -WarningVariable. For more information, see about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
