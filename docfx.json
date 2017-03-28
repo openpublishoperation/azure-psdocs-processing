@@ -166,38 +166,6 @@
           "**/*.yml",
           "**/*.md"
         ],
-        "src": "azureservicefabricps/0",
-        "version": "azureservicefabricps",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
-        "dest": "module"
-      },
-      {
-        "files": [
-          "**/*.yml",
-          "**/*.md"
-        ],
-        "src": "azureservicefabricps/conceptual/0",
-        "version": "azureservicefabricps",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
-        "dest": "azure"
-      },
-      {
-        "files": [
-          "**/*.yml",
-          "**/*.md"
-        ],
         "src": "azureadps/1.0",
         "version": "azureadps-1.0",
         "exclude": [
@@ -311,9 +279,6 @@
       },
       "azureipps": {
         "dest": "azureipps"
-      },
-      "azureservicefabricps": {
-        "dest": "azureservicefabricps"
       },
       "azureadps-1.0": {
         "dest": "azureadps-1.0"
