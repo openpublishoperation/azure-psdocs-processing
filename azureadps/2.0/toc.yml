@@ -1,0 +1,417 @@
+- name: Overview
+  href: ../conceptual/2.0/overview
+- name: Reference
+  items:
+    - name: Administrative Units
+      href: '/powershell-new/module/AzureAD#Administrative-Units'
+      items:
+        - name: Add-AzureADAdministrativeUnitMember
+          href: AzureAD/Add-AzureADAdministrativeUnitMember.md
+        - name: Add-AzureADScopedRoleMembership
+          href: AzureAD/Add-AzureADScopedRoleMembership.md
+        - name: Get-AzureADAdministrativeUnit
+          href: AzureAD/Get-AzureADAdministrativeUnit.md
+        - name: Get-AzureADAdministrativeUnitMember
+          href: AzureAD/Get-AzureADAdministrativeUnitMember.md
+        - name: Get-AzureADScopedRoleMembership
+          href: AzureAD/Get-AzureADScopedRoleMembership.md
+        - name: New-AzureADAdministrativeUnit
+          href: AzureAD/New-AzureADAdministrativeUnit.md
+        - name: Remove-AzureADAdministrativeUnit
+          href: AzureAD/Remove-AzureADAdministrativeUnit.md
+        - name: Remove-AzureADAdministrativeUnitMember
+          href: AzureAD/Remove-AzureADAdministrativeUnitMember.md
+        - name: Remove-AzureADScopedRoleMembership
+          href: AzureAD/Remove-AzureADScopedRoleMembership.md
+        - name: Set-AzureADAdministrativeUnit
+          href: AzureAD/Set-AzureADAdministrativeUnit.md
+    - name: Applications
+      href: '/powershell-new/module/AzureAD#Applications'
+      items:
+        - name: Add-AzureADApplicationOwner
+          href: AzureAD/Add-AzureADApplicationOwner.md
+        - name: Add-AzureADApplicationPolicy
+          href: AzureAD/Add-AzureADApplicationPolicy.md
+        - name: Get-AzureADApplication
+          href: AzureAD/Get-AzureADApplication.md
+        - name: Get-AzureADApplicationExtensionProperty
+          href: AzureAD/Get-AzureADApplicationExtensionProperty.md
+        - name: Get-AzureADApplicationKeyCredential
+          href: AzureAD/Get-AzureADApplicationKeyCredential.md
+        - name: Get-AzureADApplicationLogo
+          href: AzureAD/Get-AzureADApplicationLogo.md
+        - name: Get-AzureADApplicationOwner
+          href: AzureAD/Get-AzureADApplicationOwner.md
+        - name: Get-AzureADApplicationPasswordCredential
+          href: AzureAD/Get-AzureADApplicationPasswordCredential.md
+        - name: Get-AzureADApplicationPolicy
+          href: AzureAD/Get-AzureADApplicationPolicy.md
+        - name: Get-AzureADApplicationServiceEndpoint
+          href: AzureAD/Get-AzureADApplicationServiceEndpoint.md
+        - name: Get-AzureADDeletedApplication
+          href: AzureAD/Get-AzureADDeletedApplication.md
+        - name: New-AzureADApplication
+          href: AzureAD/New-AzureADApplication.md
+        - name: New-AzureADApplicationExtensionProperty
+          href: AzureAD/New-AzureADApplicationExtensionProperty.md
+        - name: New-AzureADApplicationKeyCredential
+          href: AzureAD/New-AzureADApplicationKeyCredential.md
+        - name: New-AzureADApplicationPasswordCredential
+          href: AzureAD/New-AzureADApplicationPasswordCredential.md
+        - name: Remove-AzureADApplication
+          href: AzureAD/Remove-AzureADApplication.md
+        - name: Remove-AzureADApplicationExtensionProperty
+          href: AzureAD/Remove-AzureADApplicationExtensionProperty.md
+        - name: Remove-AzureADApplicationKeyCredential
+          href: AzureAD/Remove-AzureADApplicationKeyCredential.md
+        - name: Remove-AzureADApplicationOwner
+          href: AzureAD/Remove-AzureADApplicationOwner.md
+        - name: Remove-AzureADApplicationPasswordCredential
+          href: AzureAD/Remove-AzureADApplicationPasswordCredential.md
+        - name: Set-AzureADApplication
+          href: AzureAD/Set-AzureADApplication.md
+        - name: Set-AzureADApplicationLogo
+          href: AzureAD/Set-AzureADApplicationLogo.md
+    - name: Devices
+      href: '/powershell-new/module/AzureAD#Devices'
+      items:
+        - name: Add-AzureADDeviceRegisteredOwner
+          href: AzureAD/Add-AzureADDeviceRegisteredOwner.md
+        - name: Add-AzureADDeviceRegisteredUser
+          href: AzureAD/Add-AzureADDeviceRegisteredUser.md
+        - name: Get-AzureADDevice
+          href: AzureAD/Get-AzureADDevice.md
+        - name: Get-AzureADDeviceConfiguration
+          href: AzureAD/Get-AzureADDeviceConfiguration.md
+        - name: Get-AzureADDeviceRegisteredOwner
+          href: AzureAD/Get-AzureADDeviceRegisteredOwner.md
+        - name: Get-AzureADDeviceRegisteredUser
+          href: AzureAD/Get-AzureADDeviceRegisteredUser.md
+        - name: New-AzureADDevice
+          href: AzureAD/New-AzureADDevice.md
+        - name: Remove-AzureADDevice
+          href: AzureAD/Remove-AzureADDevice.md
+        - name: Remove-AzureADDeviceRegisteredOwner
+          href: AzureAD/Remove-AzureADDeviceRegisteredOwner.md
+        - name: Remove-AzureADDeviceRegisteredUser
+          href: AzureAD/Remove-AzureADDeviceRegisteredUser.md
+        - name: Set-AzureADDevice
+          href: AzureAD/Set-AzureADDevice.md
+    - name: Directory Roles
+      href: '/powershell-new/module/AzureAD#Directory-Roles'
+      items:
+        - name: Add-AzureADDirectoryRoleMember
+          href: AzureAD/Add-AzureADDirectoryRoleMember.md
+        - name: Enable-AzureADDirectoryRole
+          href: AzureAD/Enable-AzureADDirectoryRole.md
+        - name: Get-AzureADDirectoryRole
+          href: AzureAD/Get-AzureADDirectoryRole.md
+        - name: Get-AzureADDirectoryRoleMember
+          href: AzureAD/Get-AzureADDirectoryRoleMember.md
+        - name: Get-AzureADDirectoryRoleTemplate
+          href: AzureAD/Get-AzureADDirectoryRoleTemplate.md
+        - name: Remove-AzureADDirectoryRoleMember
+          href: AzureAD/Remove-AzureADDirectoryRoleMember.md
+    - name: Groups
+      href: '/powershell-new/module/AzureAD#Groups'
+      items:
+        - name: Add-AzureADGroupMember
+          href: AzureAD/Add-AzureADGroupMember.md
+        - name: Add-AzureADGroupOwner
+          href: AzureAD/Add-AzureADGroupOwner.md
+        - name: Get-AzureADGroup
+          href: AzureAD/Get-AzureADGroup.md
+        - name: Get-AzureADGroupAppRoleAssignment
+          href: AzureAD/Get-AzureADGroupAppRoleAssignment.md
+        - name: Get-AzureADGroupMember
+          href: AzureAD/Get-AzureADGroupMember.md
+        - name: Get-AzureADGroupOwner
+          href: AzureAD/Get-AzureADGroupOwner.md
+        - name: Get-AzureADMSGroup
+          href: AzureAD/Get-AzureADMSGroup.md
+        - name: New-AzureADGroup
+          href: AzureAD/New-AzureADGroup.md
+        - name: New-AzureADGroupAppRoleAssignment
+          href: AzureAD/New-AzureADGroupAppRoleAssignment.md
+        - name: New-AzureADMSGroup
+          href: AzureAD/New-AzureADMSGroup.md
+        - name: Remove-AzureADGroup
+          href: AzureAD/Remove-AzureADGroup.md
+        - name: Remove-AzureADGroupAppRoleAssignment
+          href: AzureAD/Remove-AzureADGroupAppRoleAssignment.md
+        - name: Remove-AzureADGroupMember
+          href: AzureAD/Remove-AzureADGroupMember.md
+        - name: Remove-AzureADGroupOwner
+          href: AzureAD/Remove-AzureADGroupOwner.md
+        - name: Remove-AzureADMSGroup
+          href: AzureAD/Remove-AzureADMSGroup.md
+        - name: Select-AzureADGroupIdsGroupIsMemberOf
+          href: AzureAD/Select-AzureADGroupIdsGroupIsMemberOf.md
+        - name: Set-AzureADGroup
+          href: AzureAD/Set-AzureADGroup.md
+        - name: Set-AzureADMSGroup
+          href: AzureAD/Set-AzureADMSGroup.md
+    - name: Service Principals
+      href: '/powershell-new/module/AzureAD#Service-Principals'
+      items:
+        - name: Add-AzureADServicePrincipalOwner
+          href: AzureAD/Add-AzureADServicePrincipalOwner.md
+        - name: Add-AzureADServicePrincipalPolicy
+          href: AzureAD/Add-AzureADServicePrincipalPolicy.md
+        - name: Get-AzureADServiceAppRoleAssignment
+          href: AzureAD/Get-AzureADServiceAppRoleAssignment.md
+        - name: Get-AzureADServicePrincipal
+          href: AzureAD/Get-AzureADServicePrincipal.md
+        - name: Get-AzureADServicePrincipalCreatedObject
+          href: AzureAD/Get-AzureADServicePrincipalCreatedObject.md
+        - name: Get-AzureADServicePrincipalKeyCredential
+          href: AzureAD/Get-AzureADServicePrincipalKeyCredential.md
+        - name: Get-AzureADServicePrincipalMembership
+          href: AzureAD/Get-AzureADServicePrincipalMembership.md
+        - name: Get-AzureADServicePrincipalOAuth2PermissionGrant
+          href: AzureAD/Get-AzureADServicePrincipalOAuth2PermissionGrant.md
+        - name: Get-AzureADServicePrincipalOwnedObject
+          href: AzureAD/Get-AzureADServicePrincipalOwnedObject.md
+        - name: Get-AzureADServicePrincipalOwner
+          href: AzureAD/Get-AzureADServicePrincipalOwner.md
+        - name: Get-AzureADServicePrincipalPasswordCredential
+          href: AzureAD/Get-AzureADServicePrincipalPasswordCredential.md
+        - name: Get-AzureADServicePrincipalPolicy
+          href: AzureAD/Get-AzureADServicePrincipalPolicy.md
+        - name: New-AzureADServiceAppRoleAssignment
+          href: AzureAD/New-AzureADServiceAppRoleAssignment.md
+        - name: New-AzureADServicePrincipal
+          href: AzureAD/New-AzureADServicePrincipal.md
+        - name: New-AzureADServicePrincipalKeyCredential
+          href: AzureAD/New-AzureADServicePrincipalKeyCredential.md
+        - name: New-AzureADServicePrincipalPasswordCredential
+          href: AzureAD/New-AzureADServicePrincipalPasswordCredential.md
+        - name: Remove-AzureADServiceAppRoleAssignment
+          href: AzureAD/Remove-AzureADServiceAppRoleAssignment.md
+        - name: Remove-AzureADServicePrincipal
+          href: AzureAD/Remove-AzureADServicePrincipal.md
+        - name: Remove-AzureADServicePrincipalKeyCredential
+          href: AzureAD/Remove-AzureADServicePrincipalKeyCredential.md
+        - name: Remove-AzureADServicePrincipalOwner
+          href: AzureAD/Remove-AzureADServicePrincipalOwner.md
+        - name: Remove-AzureADServicePrincipalPasswordCredential
+          href: AzureAD/Remove-AzureADServicePrincipalPasswordCredential.md
+        - name: Select-AzureADGroupIdsServicePrincipalIsMemberOf
+          href: AzureAD/Select-AzureADGroupIdsServicePrincipalIsMemberOf.md
+        - name: Set-AzureADServicePrincipal
+          href: AzureAD/Set-AzureADServicePrincipal.md
+    - name: Domains
+      href: '/powershell-new/module/AzureAD#Domains'
+      items:
+        - name: Confirm-AzureADDomain
+          href: AzureAD/Confirm-AzureADDomain.md
+        - name: Get-AzureADDomain
+          href: AzureAD/Get-AzureADDomain.md
+        - name: Get-AzureADDomainNameReference
+          href: AzureAD/Get-AzureADDomainNameReference.md
+        - name: Get-AzureADDomainServiceConfigurationRecord
+          href: AzureAD/Get-AzureADDomainServiceConfigurationRecord.md
+        - name: Get-AzureADDomainVerificationDnsRecord
+          href: AzureAD/Get-AzureADDomainVerificationDnsRecord.md
+        - name: New-AzureADDomain
+          href: AzureAD/New-AzureADDomain.md
+        - name: Remove-AzureADDomain
+          href: AzureAD/Remove-AzureADDomain.md
+        - name: Set-AzureADDomain
+          href: AzureAD/Set-AzureADDomain.md
+    - name: Connect to your directory
+      href: '/powershell-new/module/AzureAD#Connect-to-your-directory'
+      items:
+        - name: Connect-AzureAD
+          href: AzureAD/Connect-AzureAD.md
+        - name: Disconnect-AzureAD
+          href: AzureAD/Disconnect-AzureAD.md
+    - name: Contacts
+      href: '/powershell-new/module/AzureAD#Contacts'
+      items:
+        - name: Get-AzureADContact
+          href: AzureAD/Get-AzureADContact.md
+        - name: Get-AzureADContactDirectReport
+          href: AzureAD/Get-AzureADContactDirectReport.md
+        - name: Get-AzureADContactManager
+          href: AzureAD/Get-AzureADContactManager.md
+        - name: Get-AzureADContactMembership
+          href: AzureAD/Get-AzureADContactMembership.md
+        - name: Get-AzureADContactThumbnailPhoto
+          href: AzureAD/Get-AzureADContactThumbnailPhoto.md
+        - name: Remove-AzureADContact
+          href: AzureAD/Remove-AzureADContact.md
+        - name: Remove-AzureADContactManager
+          href: AzureAD/Remove-AzureADContactManager.md
+        - name: Select-AzureADGroupIdsContactIsMemberOf
+          href: AzureAD/Select-AzureADGroupIdsContactIsMemberOf.md
+    - name: Contracts
+      href: '/powershell-new/module/AzureAD#Contracts'
+      items:
+        - name: Get-AzureADContract
+          href: AzureAD/Get-AzureADContract.md
+    - name: Directory Settings
+      href: '/powershell-new/module/AzureAD#Directory-Settings'
+      items:
+        - name: Get-AzureADDirectorySetting
+          href: AzureAD/Get-AzureADDirectorySetting.md
+        - name: Get-AzureADDirectorySettingTemplate
+          href: AzureAD/Get-AzureADDirectorySettingTemplate.md
+        - name: New-AzureADDirectorySetting
+          href: AzureAD/New-AzureADDirectorySetting.md
+        - name: Remove-AzureADDirectorySetting
+          href: AzureAD/Remove-AzureADDirectorySetting.md
+        - name: Set-AzureADDirectorySetting
+          href: AzureAD/Set-AzureADDirectorySetting.md
+    - name: Extentsion Properties
+      href: '/powershell-new/module/AzureAD#Extentsion-Properties'
+      items:
+        - name: Get-AzureADExtensionProperty
+          href: AzureAD/Get-AzureADExtensionProperty.md
+    - name: Deleted Objects
+      href: '/powershell-new/module/AzureAD#Deleted-Objects'
+      items:
+        - name: Get-AzureADMSDeletedDirectoryObject
+          href: AzureAD/Get-AzureADMSDeletedDirectoryObject.md
+        - name: Get-AzureADMSDeletedGroup
+          href: AzureAD/Get-AzureADMSDeletedGroup.md
+        - name: Remove-AzureADMSDeletedDirectoryObject
+          href: AzureAD/Remove-AzureADMSDeletedDirectoryObject.md
+        - name: Restore-AzureADDeletedApplication
+          href: AzureAD/Restore-AzureADDeletedApplication.md
+        - name: Restore-AzureADMSDeletedDirectoryObject
+          href: AzureAD/Restore-AzureADMSDeletedDirectoryObject.md
+    - name: OAuth2
+      href: '/powershell-new/module/AzureAD#OAuth2'
+      items:
+        - name: Get-AzureADOAuth2PermissionGrant
+          href: AzureAD/Get-AzureADOAuth2PermissionGrant.md
+        - name: Remove-AzureADOAuth2PermissionGrant
+          href: AzureAD/Remove-AzureADOAuth2PermissionGrant.md
+    - name: Directory Objects
+      href: '/powershell-new/module/AzureAD#Directory-Objects'
+      items:
+        - name: Get-AzureADObjectByObjectId
+          href: AzureAD/Get-AzureADObjectByObjectId.md
+    - name: Object Settings
+      href: '/powershell-new/module/AzureAD#Object-Settings'
+      items:
+        - name: Get-AzureADObjectSetting
+          href: AzureAD/Get-AzureADObjectSetting.md
+        - name: New-AzureADObjectSetting
+          href: AzureAD/New-AzureADObjectSetting.md
+        - name: Remove-AzureADObjectSetting
+          href: AzureAD/Remove-AzureADObjectSetting.md
+        - name: Set-AzureADObjectSetting
+          href: AzureAD/Set-AzureADObjectSetting.md
+    - name: Policies
+      href: '/powershell-new/module/AzureAD#Policies'
+      items:
+        - name: Get-AzureADPolicy
+          href: AzureAD/Get-AzureADPolicy.md
+        - name: Get-AzureADPolicyAppliedObject
+          href: AzureAD/Get-AzureADPolicyAppliedObject.md
+        - name: New-AzureADPolicy
+          href: AzureAD/New-AzureADPolicy.md
+        - name: Remove-AzureADPolicy
+          href: AzureAD/Remove-AzureADPolicy.md
+        - name: Set-AzureADPolicy
+          href: AzureAD/Set-AzureADPolicy.md
+    - name: Others
+      href: '/powershell-new/module/AzureAD#Others'
+      items:
+        - name: Get-AzureADServiceConfigurationRecord
+          href: AzureAD/Get-AzureADServiceConfigurationRecord.md
+        - name: Get-AzureADVerificationDnsRecord
+          href: AzureAD/Get-AzureADVerificationDnsRecord.md
+        - name: Remove-AzureADApplicationPolicy
+          href: AzureAD/Remove-AzureADApplicationPolicy.md
+        - name: Remove-AzureADServicePrincipalPolicy
+          href: AzureAD/Remove-AzureADServicePrincipalPolicy.md
+        - name: Set-AzureADContact
+          href: AzureAD/Set-AzureADContact.md
+        - name: Set-AzureADContactManager
+          href: AzureAD/Set-AzureADContactManager.md
+    - name: Directory
+      href: '/powershell-new/module/AzureAD#Directory'
+      items:
+        - name: Get-AzureADSubscribedSku
+          href: AzureAD/Get-AzureADSubscribedSku.md
+        - name: Get-AzureADTenantDetail
+          href: AzureAD/Get-AzureADTenantDetail.md
+        - name: Set-AzureADTenantDetail
+          href: AzureAD/Set-AzureADTenantDetail.md
+    - name: Certificate Authorities
+      href: '/powershell-new/module/AzureAD#Certificate-Authorities'
+      items:
+        - name: Get-AzureADTrustedCertificateAuthority
+          href: AzureAD/Get-AzureADTrustedCertificateAuthority.md
+        - name: New-AzureADTrustedCertificateAuthority
+          href: AzureAD/New-AzureADTrustedCertificateAuthority.md
+        - name: Remove-AzureADTrustedCertificateAuthority
+          href: AzureAD/Remove-AzureADTrustedCertificateAuthority.md
+        - name: Set-AzureADTrustedCertificateAuthority
+          href: AzureAD/Set-AzureADTrustedCertificateAuthority.md
+    - name: Users
+      href: '/powershell-new/module/AzureAD#Users'
+      items:
+        - name: Get-AzureADUser
+          href: AzureAD/Get-AzureADUser.md
+        - name: Get-AzureADUserAppRoleAssignment
+          href: AzureAD/Get-AzureADUserAppRoleAssignment.md
+        - name: Get-AzureADUserCreatedObject
+          href: AzureAD/Get-AzureADUserCreatedObject.md
+        - name: Get-AzureADUserDirectReport
+          href: AzureAD/Get-AzureADUserDirectReport.md
+        - name: Get-AzureADUserExtension
+          href: AzureAD/Get-AzureADUserExtension.md
+        - name: Get-AzureADUserLicenseDetail
+          href: AzureAD/Get-AzureADUserLicenseDetail.md
+        - name: Get-AzureADUserManager
+          href: AzureAD/Get-AzureADUserManager.md
+        - name: Get-AzureADUserMembership
+          href: AzureAD/Get-AzureADUserMembership.md
+        - name: Get-AzureADUserOAuth2PermissionGrant
+          href: AzureAD/Get-AzureADUserOAuth2PermissionGrant.md
+        - name: Get-AzureADUserOwnedDevice
+          href: AzureAD/Get-AzureADUserOwnedDevice.md
+        - name: Get-AzureADUserOwnedObject
+          href: AzureAD/Get-AzureADUserOwnedObject.md
+        - name: Get-AzureADUserRegisteredDevice
+          href: AzureAD/Get-AzureADUserRegisteredDevice.md
+        - name: Get-AzureADUserThumbnailPhoto
+          href: AzureAD/Get-AzureADUserThumbnailPhoto.md
+        - name: New-AzureADMSInvitation
+          href: AzureAD/New-AzureADMSInvitation.md
+        - name: New-AzureADUser
+          href: AzureAD/New-AzureADUser.md
+        - name: New-AzureADUserAppRoleAssignment
+          href: AzureAD/New-AzureADUserAppRoleAssignment.md
+        - name: Remove-AzureADUser
+          href: AzureAD/Remove-AzureADUser.md
+        - name: Remove-AzureADUserAppRoleAssignment
+          href: AzureAD/Remove-AzureADUserAppRoleAssignment.md
+        - name: Remove-AzureADUserExtension
+          href: AzureAD/Remove-AzureADUserExtension.md
+        - name: Remove-AzureADUserManager
+          href: AzureAD/Remove-AzureADUserManager.md
+        - name: Revoke-AzureADSignedInUserAllRefreshToken
+          href: AzureAD/Revoke-AzureADSignedInUserAllRefreshToken.md
+        - name: Revoke-AzureADUserAllRefreshToken
+          href: AzureAD/Revoke-AzureADUserAllRefreshToken.md
+        - name: Select-AzureADGroupIdsUserIsMemberOf
+          href: AzureAD/Select-AzureADGroupIdsUserIsMemberOf.md
+        - name: Set-AzureADUser
+          href: AzureAD/Set-AzureADUser.md
+        - name: Set-AzureADUserExtension
+          href: AzureAD/Set-AzureADUserExtension.md
+        - name: Set-AzureADUserLicense
+          href: AzureAD/Set-AzureADUserLicense.md
+        - name: Set-AzureADUserManager
+          href: AzureAD/Set-AzureADUserManager.md
+        - name: Set-AzureADUserPassword
+          href: AzureAD/Set-AzureADUserPassword.md
+        - name: Set-AzureADUserThumbnailPhoto
+          href: AzureAD/Set-AzureADUserThumbnailPhoto.md
+        - name: Update-AzureADSignedInUserPassword
+          href: AzureAD/Update-AzureADSignedInUserPassword.md
