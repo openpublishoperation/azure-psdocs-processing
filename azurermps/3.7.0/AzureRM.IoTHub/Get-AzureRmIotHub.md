@@ -2,8 +2,6 @@
 external help file: Microsoft.Azure.Commands.IotHub.dll-Help.xml
 online version:
 schema: 2.0.0
-updated_at: Invalid date
-ms.date: Invalid date
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.IoTHub/v1.3.0/Get-AzureRmIotHub.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.IoTHub/v1.3.0/Get-AzureRmIotHub.md
 gitcommit: https://github.com/Azure/azure-docs-powershell/blob/

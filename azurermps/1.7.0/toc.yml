@@ -3,9 +3,6 @@
   items:
     - name: Install
       href: ../conceptual/1.7.0/install-azurerm-ps.md
-      items:
-        - name: Other installation methods
-          href: ../conceptual/1.7.0/other-install.md
     - name: Get started
       href: ../conceptual/1.7.0/get-started-azureps.md
     - name: Log in
