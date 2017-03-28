@@ -198,38 +198,6 @@
           "**/*.yml",
           "**/*.md"
         ],
-        "src": "azureadps/2.0",
-        "version": "azureadps-2.0",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
-        "dest": "module"
-      },
-      {
-        "files": [
-          "**/*.yml",
-          "**/*.md"
-        ],
-        "src": "azureadps/conceptual/2.0",
-        "version": "azureadps-2.0",
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ],
-        "dest": "azure"
-      },
-      {
-        "files": [
-          "**/*.yml",
-          "**/*.md"
-        ],
         "src": "azureelasticdbjobsps/0.8.33",
         "version": "azureelasticdbjobsps-0.8.33",
         "exclude": [
@@ -282,9 +250,6 @@
       },
       "azureadps-1.0": {
         "dest": "azureadps-1.0"
-      },
-      "azureadps-2.0": {
-        "dest": "azureadps-2.0"
       },
       "azureelasticdbjobsps-0.8.33": {
         "dest": "azureelasticdbjobsps-0.8.33"
