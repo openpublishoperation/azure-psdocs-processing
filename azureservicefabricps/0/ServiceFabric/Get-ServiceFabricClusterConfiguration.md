@@ -68,6 +68,7 @@ You cannot pipe input to this cmdlet.
 
 ## OUTPUTS
 
+### None
 This cmdlet returns the latest cluster configuration in JavaScript Object Notation (JSON) format.
 
 ## NOTES

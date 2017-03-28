@@ -34,12 +34,12 @@ The **Test-ServiceFabricClusterConnection** cmdlet tests whether a connection to
 PS C:\>Test-ServiceFabricClusterConnection
 True
 ```
-
 This command verifies that a current connection to a Service Fabric cluster exists.
 
 ### Example 2: Test that a current connection to a cluster exists
-
+```
 PS C:\>Test-ServiceFabricClusterConnection
+```
 Test-ServiceFabricClusterConnection : Cluster connection instance is null
 
 In this case, a current connection to a Service Fabric cluster does not exist and has to be set up using the [Connect-ServiceFabricCluster](./Connect-ServiceFabricCluster.md) cmdlet.

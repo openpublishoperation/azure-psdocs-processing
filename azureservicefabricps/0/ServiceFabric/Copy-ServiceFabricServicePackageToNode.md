@@ -37,13 +37,16 @@ Before you perform any operation on a Service Fabric cluster, establish a connec
 ## EXAMPLES
 
 ### 1:
+```
 PS C:\>$sharingPolicy = new-ServiceFabricPackageSharingPolicy -PackageName CalcService5 -SharingScopeAll
-...
+```
 
 This command generates a package share policy by using [New-ServiceFabricPackageSharingPolicy](.\New-ServiceFabricPackageSharingPolicy.md) cmdlet and assign it to the variable $sharingPolicy
 
+### 2:
+```
 PS C:\>Copy-ServiceFabricServicePackageToNode -ServiceManifestName CalcService5 -ApplicationTypeName CalcServiceApp -ApplicationTypeVersion 5.0 -NodeName Node4 -PackageSharingPolicies $sharingPolicy -TimeoutSec 600 -Verbose
-...
+```
 
 The command copies the service package belong to application type "CalcServiceApp", application version "5.0" and service manifest "CalcService5" to Node4 with previously generated share policy object $sharePolicy.
 
