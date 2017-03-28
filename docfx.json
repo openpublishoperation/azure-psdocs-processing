@@ -161,6 +161,9 @@
       }
     },
     "exportRawModel": true,
-    "dest": "testMultipleVersion"
+    "dest": "testMultipleVersion",
+    "globalMetadata": {
+        "showPowerShellPicker": "true"
+    }
   }
 }
