@@ -163,6 +163,38 @@
       },
       {
         "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureservicefabricps/0",
+        "version": "azureservicefabricps",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureservicefabricps/conceptual/0",
+        "version": "azureservicefabricps",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
           "*.md",
           "*.yml"
         ]
@@ -183,6 +215,9 @@
       },
       "azureipps": {
         "dest": "azureipps"
+      },
+      "azureservicefabricps": {
+        "dest": "azureservicefabricps"
       }
     },
     "exportRawModel": true,
