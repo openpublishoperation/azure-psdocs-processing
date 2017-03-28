@@ -195,6 +195,70 @@
       },
       {
         "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/1.0",
+        "version": "azureadps-1.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/conceptual/1.0",
+        "version": "azureadps-1.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+            {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/2.0",
+        "version": "azureadps-2.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azureadps/conceptual/2.0",
+        "version": "azureadps-2.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
           "*.md",
           "*.yml"
         ]
@@ -218,6 +282,12 @@
       },
       "azureservicefabricps": {
         "dest": "azureservicefabricps"
+      },
+      "azureadps-1.0": {
+        "dest": "azureadps-1.0"
+      },
+      "azureadps-2.0": {
+        "dest": "azureadps-2.0"
       }
     },
     "exportRawModel": true,
