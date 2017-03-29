@@ -38,6 +38,38 @@
           "**/*.yml",
           "**/*.md"
         ],
+        "src": "azurermps/1.7.0",
+        "version": "azurermps-1.7.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "module"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
+        "src": "azurermps/conceptual/1.7.0",
+        "version": "azurermps-1.7.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ],
+        "dest": "azure"
+      },
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ],
         "src": "azurermps/2.2.0",
         "version": "azurermps-2.2.0",
         "exclude": [
@@ -236,6 +268,9 @@
       "azurermps-1.2.9": {
         "dest": "azurermps-1.2.9"
       },
+      "azurermps-1.7.0": {
+        "dest": "azurermps-1.7.0"
+      },
       "azurermps-2.2.0": {
         "dest": "azurermps-2.2.0"
       },
@@ -255,7 +290,6 @@
         "dest": "azureelasticdbjobsps-0.8.33"
       }
     },
-    "exportRawModel": true,
     "globalMetadata": {
       "showPowerShellPicker": "true"
     },
