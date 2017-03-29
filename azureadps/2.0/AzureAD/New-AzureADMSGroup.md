@@ -2,11 +2,11 @@
 external help file: Microsoft.Open.MS.GraphBeta.PowerShell.dll-Help.xml
 online version:
 schema: 2.0.0
-updated_at: 03/22/2017 00:03 AM
-ms.date: 03/22/2017
+updated_at: 03/29/2017 04:03 AM
+ms.date: 03/29/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/v2/New-AzureADMSGroup.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/v2/New-AzureADMSGroup.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/510276534a1b22a6eb658f77f0b005d9bd86438f
+gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/5c1d8dd0741d6bd6a8687f67227daffe45f8c220
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -201,17 +201,17 @@ Accept wildcard characters: False
 
 This parameter determines the visibility of the group's content and members list. This parameter can take one of the following values:
 
-"Public" - Anyone can view the contents of the group
-"Private" - Only members can view the content of the group
-"HiddenMembership" - Only members can view the content of the group and only members, owners, Global/Company Administrator, User Administrator and Helpdesk Administrators can view the members list of the group.
+* "Public" - Anyone can view the contents of the group
+* "Private" - Only members can view the content of the group
+* "HiddenMembership" - Only members can view the content of the group and only members, owners, Global/Company Administrator, User Administrator and Helpdesk Administrators can view the members list of the group.
 
 If no value is provided, the default value will be "Public".
 
 Notes:
 
-1. This parameter is only valid for groups that have the groupType set to "Unified".
-2. If a group has this attribute set to "HiddenMembership" it cannot be changed later.
-3. Anyone can join a group that has this attribute set to "Public". If the attribute is set to Private or HiddenMembership, only owner(s) can add new members to the group and requests to join the group need approval of the owner(s).
+* This parameter is only valid for groups that have the groupType set to "Unified".
+* If a group has this attribute set to "HiddenMembership" it cannot be changed later.
+* Anyone can join a group that has this attribute set to "Public". If the attribute is set to Private or HiddenMembership, only owner(s) can add new members to the group and requests to join the group need approval of the owner(s).
 
 ```yaml
 Type: String
