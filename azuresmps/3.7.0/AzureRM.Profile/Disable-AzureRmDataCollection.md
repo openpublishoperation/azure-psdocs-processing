@@ -2,11 +2,11 @@
 external help file: Microsoft.Azure.Commands.Profile.dll-Help.xml
 online version:
 schema: 2.0.0
-updated_at: 03/29/2017 06:03 AM
-ms.date: 03/29/2017
+updated_at: 03/27/2017 18:03 PM
+ms.date: 03/27/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ServiceManagement/AzureRM.Profile/v2.7.0/Disable-AzureRmDataCollection.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ServiceManagement/AzureRM.Profile/v2.7.0/Disable-AzureRmDataCollection.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/8559a3a0ee29f4125efbeee6afb936490fd30f7e
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/4481ba5d382a258a76528a60b3c1580b75fdff10
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub

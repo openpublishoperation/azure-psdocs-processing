@@ -12,7 +12,7 @@ ms.topic: reference
 ms.date: 03/06/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ServiceManagement/docs-conceptual/install-azure-ps.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ServiceManagement/docs-conceptual/install-azure-ps.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/7b4409694656900a99f35560a78b87c1ef3c7778
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/ef6e96dacc8556911a097aec10c4de725a5be2fd
 ---
 
 # Installing the Azure PowerShell Service Management module
