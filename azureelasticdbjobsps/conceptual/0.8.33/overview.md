@@ -10,6 +10,9 @@ ms.devlang: powershell
 ms.topic: reference
 ms.date: 03/09/2017
 ms.author: sewhee
+content_git_url: https://github.com/Azure/azure-docs-powershell-elasticdb/blob/master/ElasticDB/docs-conceptual/overview.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-elasticdb/blob/master/ElasticDB/docs-conceptual/overview.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-elasticdb/blob/31ddf7e6cc0880910211bac2c8517601791800e1
 ---
 
 # Azure ElasticDB PowerShell

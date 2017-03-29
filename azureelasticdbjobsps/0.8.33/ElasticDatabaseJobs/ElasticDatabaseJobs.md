@@ -14,6 +14,7 @@ ms.topic: conceptual
 author: erickson-doug
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: carolz
 open_to_public_contributors: false
 Add-AzureSqlJobChildTarget: ElasticDatabaseJobs
 Get-AzureSqlJob: ElasticDatabaseJobs
