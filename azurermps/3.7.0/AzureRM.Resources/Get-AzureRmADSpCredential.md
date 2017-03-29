@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 7690143F-5F09-4739-9F66-B2ACDF8305F4
 online version:
 schema: 2.0.0
-updated_at: 03/23/2017 19:03 PM
-ms.date: 03/23/2017
+updated_at: 03/29/2017 18:03 PM
+ms.date: 03/29/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Get-AzureRmADSpCredential.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Get-AzureRmADSpCredential.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/41ada73c47a1e6470a5d53dd3067fc8dd972eb71
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/347711259e2d6b4ccc2563e0a8c9e46b2fe2b824
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -36,24 +36,23 @@ Get-AzureRmADSpCredential -ServicePrincipalName <String> [-InformationAction <Ac
 ```
 
 ## DESCRIPTION
-The Get-AzureRmADSpCredential cmdlet can be used to retrieve a list of credentials associated with a service principal.
-This command will retrieve all of the credential properties (but not the credential value) associated with the service principal.
+The **Get-AzureRmADSpCredential** cmdlet gets a list of credentials associated with a service principal.
+This command gets all of the credential properties (but not the credential value) associated with the service principal.
 
 ## EXAMPLES
 
-### Example 1:
-@{paragraph=PS C:\\\>}
+### Example 1: Get a list of credentials associated with a service principal
 
 ```
-PS C:\> Get-AzureRmADSpCredential -ServicePrincipalName http://test12345
+PS C:\> Get-AzureRmADSpCredential -ServicePrincipalName "http://test12345"
 ```
 
-Returns a list of credentials associated with the service principal having SPN 'http://test12345'.
+This command gets a list of credentials associated with the service principal having SPN http://test12345.
 
 ## PARAMETERS
 
 ### -ObjectId
-The object id of the service principal to retrieve credentials from.
+Specifies the object ID of the service principal that this cmdlet gets credentials from.
 
 ```yaml
 Type: String
@@ -107,7 +106,7 @@ Accept wildcard characters: False
 ```
 
 ### -ServicePrincipalName
-The name (SPN) of the service principal to retrieve credentials from.
+Specifies the name of the service principal that this cmdlet gets credentials from.
 
 ```yaml
 Type: String
@@ -129,9 +128,8 @@ Accept wildcard characters: False
 
 ## RELATED LINKS
 
-[New-AzureRmADSpCredential]()
+[New-AzureRmADSpCredential](./New-AzureRmADSpCredential.md)
 
-[Remove-AzureRmADSpCredential]()
+[Remove-AzureRmADSpCredential](./Remove-AzureRmADSpCredential.md)
 
-[Get-AzureRmADServicePrincipal]()
-
+[Get-AzureRmADServicePrincipal](./Get-AzureRmADServicePrincipal.md)
