@@ -12,6 +12,7 @@ ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: carolz
 ---
 
 # Remove-AzureADDeviceRegisteredUser

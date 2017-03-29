@@ -12,6 +12,7 @@ ms.topic: conceptual
 author: erickson-doug
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: carolz
 Add-AzureADAdministrativeUnitMember: Administrative Units
 Add-AzureADApplicationOwner: Applications
 Add-AzureADApplicationPolicy: Applications
