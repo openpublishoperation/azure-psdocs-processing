@@ -414,31 +414,6 @@
           href: AzureRM.Batch/Stop-AzureBatchTask.md
         - name: Test-AzureBatchAutoScale
           href: AzureRM.Batch/Test-AzureBatchAutoScale.md
-    - name: DNS
-      href: '/powershell-new/module/AzureRM.Dns#DNS'
-      items:
-        - name: Add-AzureRmDnsRecordConfig
-          href: AzureRM.Dns/Add-AzureRmDnsRecordConfig.md
-        - name: Get-AzureRmDnsRecordSet
-          href: AzureRM.Dns/Get-AzureRmDnsRecordSet.md
-        - name: Get-AzureRmDnsZone
-          href: AzureRM.Dns/Get-AzureRmDnsZone.md
-        - name: New-AzureRmDnsRecordSet
-          href: AzureRM.Dns/New-AzureRmDnsRecordSet.md
-        - name: New-AzureRmDnsZone
-          href: AzureRM.Dns/New-AzureRmDnsZone.md
-        - name: Remove-AzureRmDnsRecordConfig
-          href: AzureRM.Dns/Remove-AzureRmDnsRecordConfig.md
-        - name: Remove-AzureRmDnsRecordSet
-          href: AzureRM.Dns/Remove-AzureRmDnsRecordSet.md
-        - name: Remove-AzureRmDnsZone
-          href: AzureRM.Dns/Remove-AzureRmDnsZone.md
-        - name: Set-AzureRmDnsRecordSet
-          href: AzureRM.Dns/Set-AzureRmDnsRecordSet.md
-        - name: Set-AzureRmDnsZone
-          href: AzureRM.Dns/Set-AzureRmDnsZone.md
-        - name: Test-AzureRmDnsAvailability
-          href: AzureRM.Network/Test-AzureRmDnsAvailability.md
     - name: Data Factory
       href: '/powershell-new/module/AzureRM.DataFactories#Data-Factory'
       items:
@@ -579,6 +554,31 @@
           href: AzureRM.DataLakeStore/Test-AzureRmDataLakeStoreAccount.md
         - name: Test-AzureRmDataLakeStoreItem
           href: AzureRM.DataLakeStore/Test-AzureRmDataLakeStoreItem.md
+    - name: DNS
+      href: '/powershell-new/module/AzureRM.Dns#DNS'
+      items:
+        - name: Add-AzureRmDnsRecordConfig
+          href: AzureRM.Dns/Add-AzureRmDnsRecordConfig.md
+        - name: Get-AzureRmDnsRecordSet
+          href: AzureRM.Dns/Get-AzureRmDnsRecordSet.md
+        - name: Get-AzureRmDnsZone
+          href: AzureRM.Dns/Get-AzureRmDnsZone.md
+        - name: New-AzureRmDnsRecordSet
+          href: AzureRM.Dns/New-AzureRmDnsRecordSet.md
+        - name: New-AzureRmDnsZone
+          href: AzureRM.Dns/New-AzureRmDnsZone.md
+        - name: Remove-AzureRmDnsRecordConfig
+          href: AzureRM.Dns/Remove-AzureRmDnsRecordConfig.md
+        - name: Remove-AzureRmDnsRecordSet
+          href: AzureRM.Dns/Remove-AzureRmDnsRecordSet.md
+        - name: Remove-AzureRmDnsZone
+          href: AzureRM.Dns/Remove-AzureRmDnsZone.md
+        - name: Set-AzureRmDnsRecordSet
+          href: AzureRM.Dns/Set-AzureRmDnsRecordSet.md
+        - name: Set-AzureRmDnsZone
+          href: AzureRM.Dns/Set-AzureRmDnsZone.md
+        - name: Test-AzureRmDnsAvailability
+          href: AzureRM.Network/Test-AzureRmDnsAvailability.md
     - name: Express Route
       href: '/powershell-new/module/AzureRM.Network#Express-Route'
       items:
@@ -1218,6 +1218,67 @@
           href: AzureRM.Network/Set-AzureRmRouteConfig.md
         - name: Set-AzureRmRouteTable
           href: AzureRM.Network/Set-AzureRmRouteTable.md
+    - name: Site Recovery
+      href: '/powershell-new/module/AzureRM.SiteRecovery#Site-Recovery'
+      items:
+        - name: Get-AzureRmSiteRecoveryJob
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryJob.md
+        - name: Get-AzureRmSiteRecoveryPolicy
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryPolicy.md
+        - name: Get-AzureRmSiteRecoveryProtectionContainer
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryProtectionContainer.md
+        - name: Get-AzureRmSiteRecoveryProtectionEntity
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryProtectionEntity.md
+        - name: Get-AzureRmSiteRecoveryServer
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryServer.md
+        - name: Get-AzureRmSiteRecoverySite
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoverySite.md
+        - name: Get-AzureRmSiteRecoveryVault
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryVault.md
+        - name: Get-AzureRmSiteRecoveryVaultSettings
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryVaultSettings.md
+        - name: Get-AzureRmSiteRecoveryVaultSettingsFile
+          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryVaultSettingsFile.md
+        - name: Import-AzureRmSiteRecoveryVaultSettingsFile
+          href: AzureRM.SiteRecovery/Import-AzureRmSiteRecoveryVaultSettingsFile.md
+        - name: New-AzureRmSiteRecoveryPolicy
+          href: AzureRM.SiteRecovery/New-AzureRmSiteRecoveryPolicy.md
+        - name: New-AzureRmSiteRecoverySite
+          href: AzureRM.SiteRecovery/New-AzureRmSiteRecoverySite.md
+        - name: New-AzureRmSiteRecoveryVault
+          href: AzureRM.SiteRecovery/New-AzureRmSiteRecoveryVault.md
+        - name: Remove-AzureRmSiteRecoveryPolicy
+          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoveryPolicy.md
+        - name: Remove-AzureRmSiteRecoveryServer
+          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoveryServer.md
+        - name: Remove-AzureRmSiteRecoverySite
+          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoverySite.md
+        - name: Remove-AzureRmSiteRecoveryVault
+          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoveryVault.md
+        - name: Restart-AzureRmSiteRecoveryJob
+          href: AzureRM.SiteRecovery/Restart-AzureRmSiteRecoveryJob.md
+        - name: Resume-AzureRmSiteRecoveryJob
+          href: AzureRM.SiteRecovery/Resume-AzureRmSiteRecoveryJob.md
+        - name: Set-AzureRmSiteRecoveryProtectionEntity
+          href: AzureRM.SiteRecovery/Set-AzureRmSiteRecoveryProtectionEntity.md
+        - name: Set-AzureRmSiteRecoveryVaultSettings
+          href: AzureRM.SiteRecovery/Set-AzureRmSiteRecoveryVaultSettings.md
+        - name: Start-AzureRmSiteRecoveryCommitFailoverJob
+          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryCommitFailoverJob.md
+        - name: Start-AzureRmSiteRecoveryPlannedFailoverJob
+          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryPlannedFailoverJob.md
+        - name: Start-AzureRmSiteRecoveryPolicyAssociationJob
+          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryPolicyAssociationJob.md
+        - name: Start-AzureRmSiteRecoveryPolicyDissociationJob
+          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryPolicyDissociationJob.md
+        - name: Start-AzureRmSiteRecoveryTestFailoverJob
+          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryTestFailoverJob.md
+        - name: Start-AzureRmSiteRecoveryUnplannedFailoverJob
+          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryUnplannedFailoverJob.md
+        - name: Stop-AzureRmSiteRecoveryJob
+          href: AzureRM.SiteRecovery/Stop-AzureRmSiteRecoveryJob.md
+        - name: Update-AzureRmSiteRecoveryProtectionDirection
+          href: AzureRM.SiteRecovery/Update-AzureRmSiteRecoveryProtectionDirection.md
     - name: SQL
       href: '/powershell-new/module/AzureRM.Sql#SQL'
       items:
@@ -1351,67 +1412,6 @@
           href: AzureRM.Sql/Suspend-AzureRmSqlDatabase.md
         - name: Use-AzureRmSqlServerAuditingPolicy
           href: AzureRM.Sql/Use-AzureRmSqlServerAuditingPolicy.md
-    - name: Site Recovery
-      href: '/powershell-new/module/AzureRM.SiteRecovery#Site-Recovery'
-      items:
-        - name: Get-AzureRmSiteRecoveryJob
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryJob.md
-        - name: Get-AzureRmSiteRecoveryPolicy
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryPolicy.md
-        - name: Get-AzureRmSiteRecoveryProtectionContainer
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryProtectionContainer.md
-        - name: Get-AzureRmSiteRecoveryProtectionEntity
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryProtectionEntity.md
-        - name: Get-AzureRmSiteRecoveryServer
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryServer.md
-        - name: Get-AzureRmSiteRecoverySite
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoverySite.md
-        - name: Get-AzureRmSiteRecoveryVault
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryVault.md
-        - name: Get-AzureRmSiteRecoveryVaultSettings
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryVaultSettings.md
-        - name: Get-AzureRmSiteRecoveryVaultSettingsFile
-          href: AzureRM.SiteRecovery/Get-AzureRmSiteRecoveryVaultSettingsFile.md
-        - name: Import-AzureRmSiteRecoveryVaultSettingsFile
-          href: AzureRM.SiteRecovery/Import-AzureRmSiteRecoveryVaultSettingsFile.md
-        - name: New-AzureRmSiteRecoveryPolicy
-          href: AzureRM.SiteRecovery/New-AzureRmSiteRecoveryPolicy.md
-        - name: New-AzureRmSiteRecoverySite
-          href: AzureRM.SiteRecovery/New-AzureRmSiteRecoverySite.md
-        - name: New-AzureRmSiteRecoveryVault
-          href: AzureRM.SiteRecovery/New-AzureRmSiteRecoveryVault.md
-        - name: Remove-AzureRmSiteRecoveryPolicy
-          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoveryPolicy.md
-        - name: Remove-AzureRmSiteRecoveryServer
-          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoveryServer.md
-        - name: Remove-AzureRmSiteRecoverySite
-          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoverySite.md
-        - name: Remove-AzureRmSiteRecoveryVault
-          href: AzureRM.SiteRecovery/Remove-AzureRmSiteRecoveryVault.md
-        - name: Restart-AzureRmSiteRecoveryJob
-          href: AzureRM.SiteRecovery/Restart-AzureRmSiteRecoveryJob.md
-        - name: Resume-AzureRmSiteRecoveryJob
-          href: AzureRM.SiteRecovery/Resume-AzureRmSiteRecoveryJob.md
-        - name: Set-AzureRmSiteRecoveryProtectionEntity
-          href: AzureRM.SiteRecovery/Set-AzureRmSiteRecoveryProtectionEntity.md
-        - name: Set-AzureRmSiteRecoveryVaultSettings
-          href: AzureRM.SiteRecovery/Set-AzureRmSiteRecoveryVaultSettings.md
-        - name: Start-AzureRmSiteRecoveryCommitFailoverJob
-          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryCommitFailoverJob.md
-        - name: Start-AzureRmSiteRecoveryPlannedFailoverJob
-          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryPlannedFailoverJob.md
-        - name: Start-AzureRmSiteRecoveryPolicyAssociationJob
-          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryPolicyAssociationJob.md
-        - name: Start-AzureRmSiteRecoveryPolicyDissociationJob
-          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryPolicyDissociationJob.md
-        - name: Start-AzureRmSiteRecoveryTestFailoverJob
-          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryTestFailoverJob.md
-        - name: Start-AzureRmSiteRecoveryUnplannedFailoverJob
-          href: AzureRM.SiteRecovery/Start-AzureRmSiteRecoveryUnplannedFailoverJob.md
-        - name: Stop-AzureRmSiteRecoveryJob
-          href: AzureRM.SiteRecovery/Stop-AzureRmSiteRecoveryJob.md
-        - name: Update-AzureRmSiteRecoveryProtectionDirection
-          href: AzureRM.SiteRecovery/Update-AzureRmSiteRecoveryProtectionDirection.md
     - name: Storage
       href: '/powershell-new/module/AzureRM.OperationalInsights#Storage'
       items:
@@ -1646,119 +1646,6 @@
           href: AzureRM.TrafficManager/Set-AzureRmTrafficManagerEndpoint.md
         - name: Set-AzureRmTrafficManagerProfile
           href: AzureRM.TrafficManager/Set-AzureRmTrafficManagerProfile.md
-    - name: VM Disks
-      href: '/powershell-new/module/AzureRM.Compute#VM-Disks'
-      items:
-        - name: Add-AzureRmVMDataDisk
-          href: AzureRM.Compute/Add-AzureRmVMDataDisk.md
-        - name: Get-AzureRmVMDiskEncryptionStatus
-          href: AzureRM.Compute/Get-AzureRmVMDiskEncryptionStatus.md
-        - name: Remove-AzureRmVMDataDisk
-          href: AzureRM.Compute/Remove-AzureRmVMDataDisk.md
-        - name: Remove-AzureRmVMDiskEncryptionExtension
-          href: AzureRM.Compute/Remove-AzureRmVMDiskEncryptionExtension.md
-        - name: Set-AzureRmVMDiskEncryptionExtension
-          href: AzureRM.Compute/Set-AzureRmVMDiskEncryptionExtension.md
-        - name: Set-AzureRmVMOSDisk
-          href: AzureRM.Compute/Set-AzureRmVMOSDisk.md
-    - name: VM Images
-      href: '/powershell-new/module/AzureRM.Compute#VM-Images'
-      items:
-        - name: Get-AzureRmVMExtensionImage
-          href: AzureRM.Compute/Get-AzureRmVMExtensionImage.md
-        - name: Get-AzureRmVMExtensionImageType
-          href: AzureRM.Compute/Get-AzureRmVMExtensionImageType.md
-        - name: Get-AzureRmVMImage
-          href: AzureRM.Compute/Get-AzureRmVMImage.md
-        - name: Get-AzureRmVMImageOffer
-          href: AzureRM.Compute/Get-AzureRmVMImageOffer.md
-        - name: Get-AzureRmVMImagePublisher
-          href: AzureRM.Compute/Get-AzureRmVMImagePublisher.md
-        - name: Get-AzureRmVMImageSku
-          href: AzureRM.Compute/Get-AzureRmVMImageSku.md
-        - name: Save-AzureRmVMImage
-          href: AzureRM.Compute/Save-AzureRmVMImage.md
-        - name: Set-AzureRmVMSourceImage
-          href: AzureRM.Compute/Set-AzureRmVMSourceImage.md
-    - name: VM Scale Sets
-      href: '/powershell-new/module/AzureRM.Compute#VM-Scale-Sets'
-      items:
-        - name: Add-AzureRmVmssAdditionalUnattendContent
-          href: AzureRM.Compute/Add-AzureRmVmssAdditionalUnattendContent.md
-        - name: Add-AzureRmVmssExtension
-          href: AzureRM.Compute/Add-AzureRmVmssExtension.md
-        - name: Add-AzureRmVmssNetworkInterfaceConfiguration
-          href: AzureRM.Compute/Add-AzureRmVmssNetworkInterfaceConfiguration.md
-        - name: Add-AzureRmVmssSecret
-          href: AzureRM.Compute/Add-AzureRmVmssSecret.md
-        - name: Add-AzureRmVmssSshPublicKey
-          href: AzureRM.Compute/Add-AzureRmVmssSshPublicKey.md
-        - name: Add-AzureRmVmssWinRMListener
-          href: AzureRM.Compute/Add-AzureRmVmssWinRMListener.md
-        - name: Get-AzureRmVmss
-          href: AzureRM.Compute/Get-AzureRmVmss.md
-        - name: Get-AzureRmVmssSku
-          href: AzureRM.Compute/Get-AzureRmVmssSku.md
-        - name: Get-AzureRmVmssVM
-          href: AzureRM.Compute/Get-AzureRmVmssVM.md
-        - name: New-AzureRmVmss
-          href: AzureRM.Compute/New-AzureRmVmss.md
-        - name: New-AzureRmVmssConfig
-          href: AzureRM.Compute/New-AzureRmVmssConfig.md
-        - name: New-AzureRmVmssIpConfig
-          href: AzureRM.Compute/New-AzureRmVmssIpConfig.md
-        - name: New-AzureRmVmssVaultCertificateConfig
-          href: AzureRM.Compute/New-AzureRmVmssVaultCertificateConfig.md
-        - name: Remove-AzureRmVmss
-          href: AzureRM.Compute/Remove-AzureRmVmss.md
-        - name: Remove-AzureRmVmssExtension
-          href: AzureRM.Compute/Remove-AzureRmVmssExtension.md
-        - name: Remove-AzureRmVmssNetworkInterfaceConfiguration
-          href: AzureRM.Compute/Remove-AzureRmVmssNetworkInterfaceConfiguration.md
-        - name: Restart-AzureRmVmss
-          href: AzureRM.Compute/Restart-AzureRmVmss.md
-        - name: Set-AzureRmVmss
-          href: AzureRM.Compute/Set-AzureRmVmss.md
-        - name: Set-AzureRmVmssOsProfile
-          href: AzureRM.Compute/Set-AzureRmVmssOsProfile.md
-        - name: Set-AzureRmVmssStorageProfile
-          href: AzureRM.Compute/Set-AzureRmVmssStorageProfile.md
-        - name: Set-AzureRmVmssVM
-          href: AzureRM.Compute/Set-AzureRmVmssVM.md
-        - name: Start-AzureRmVmss
-          href: AzureRM.Compute/Start-AzureRmVmss.md
-        - name: Stop-AzureRmVmss
-          href: AzureRM.Compute/Stop-AzureRmVmss.md
-        - name: Update-AzureRmVmss
-          href: AzureRM.Compute/Update-AzureRmVmss.md
-        - name: Update-AzureRmVmssInstance
-          href: AzureRM.Compute/Update-AzureRmVmssInstance.md
-    - name: VM VHDs
-      href: '/powershell-new/module/AzureRM.Compute#VM-VHDs'
-      items:
-        - name: Save-AzureRmVhd
-          href: AzureRM.Compute/Save-AzureRmVhd.md
-    - name: VPN
-      href: '/powershell-new/module/AzureRM.Network#VPN'
-      items:
-        - name: Add-AzureRmVpnClientRevokedCertificate
-          href: AzureRM.Network/Add-AzureRmVpnClientRevokedCertificate.md
-        - name: Add-AzureRmVpnClientRootCertificate
-          href: AzureRM.Network/Add-AzureRmVpnClientRootCertificate.md
-        - name: Get-AzureRmVpnClientPackage
-          href: AzureRM.Network/Get-AzureRmVpnClientPackage.md
-        - name: Get-AzureRmVpnClientRevokedCertificate
-          href: AzureRM.Network/Get-AzureRmVpnClientRevokedCertificate.md
-        - name: Get-AzureRmVpnClientRootCertificate
-          href: AzureRM.Network/Get-AzureRmVpnClientRootCertificate.md
-        - name: New-AzureRmVpnClientRevokedCertificate
-          href: AzureRM.Network/New-AzureRmVpnClientRevokedCertificate.md
-        - name: New-AzureRmVpnClientRootCertificate
-          href: AzureRM.Network/New-AzureRmVpnClientRootCertificate.md
-        - name: Remove-AzureRmVpnClientRevokedCertificate
-          href: AzureRM.Network/Remove-AzureRmVpnClientRevokedCertificate.md
-        - name: Remove-AzureRmVpnClientRootCertificate
-          href: AzureRM.Network/Remove-AzureRmVpnClientRootCertificate.md
     - name: Virtual Machines
       href: '/powershell-new/module/AzureRM.SiteRecovery#Virtual-Machines'
       items:
@@ -1899,3 +1786,116 @@
           href: AzureRM.Network/Set-AzureRmVirtualNetworkGatewayVpnClientConfig.md
         - name: Set-AzureRmVirtualNetworkSubnetConfig
           href: AzureRM.Network/Set-AzureRmVirtualNetworkSubnetConfig.md
+    - name: VM Disks
+      href: '/powershell-new/module/AzureRM.Compute#VM-Disks'
+      items:
+        - name: Add-AzureRmVMDataDisk
+          href: AzureRM.Compute/Add-AzureRmVMDataDisk.md
+        - name: Get-AzureRmVMDiskEncryptionStatus
+          href: AzureRM.Compute/Get-AzureRmVMDiskEncryptionStatus.md
+        - name: Remove-AzureRmVMDataDisk
+          href: AzureRM.Compute/Remove-AzureRmVMDataDisk.md
+        - name: Remove-AzureRmVMDiskEncryptionExtension
+          href: AzureRM.Compute/Remove-AzureRmVMDiskEncryptionExtension.md
+        - name: Set-AzureRmVMDiskEncryptionExtension
+          href: AzureRM.Compute/Set-AzureRmVMDiskEncryptionExtension.md
+        - name: Set-AzureRmVMOSDisk
+          href: AzureRM.Compute/Set-AzureRmVMOSDisk.md
+    - name: VM Images
+      href: '/powershell-new/module/AzureRM.Compute#VM-Images'
+      items:
+        - name: Get-AzureRmVMExtensionImage
+          href: AzureRM.Compute/Get-AzureRmVMExtensionImage.md
+        - name: Get-AzureRmVMExtensionImageType
+          href: AzureRM.Compute/Get-AzureRmVMExtensionImageType.md
+        - name: Get-AzureRmVMImage
+          href: AzureRM.Compute/Get-AzureRmVMImage.md
+        - name: Get-AzureRmVMImageOffer
+          href: AzureRM.Compute/Get-AzureRmVMImageOffer.md
+        - name: Get-AzureRmVMImagePublisher
+          href: AzureRM.Compute/Get-AzureRmVMImagePublisher.md
+        - name: Get-AzureRmVMImageSku
+          href: AzureRM.Compute/Get-AzureRmVMImageSku.md
+        - name: Save-AzureRmVMImage
+          href: AzureRM.Compute/Save-AzureRmVMImage.md
+        - name: Set-AzureRmVMSourceImage
+          href: AzureRM.Compute/Set-AzureRmVMSourceImage.md
+    - name: VM Scale Sets
+      href: '/powershell-new/module/AzureRM.Compute#VM-Scale-Sets'
+      items:
+        - name: Add-AzureRmVmssAdditionalUnattendContent
+          href: AzureRM.Compute/Add-AzureRmVmssAdditionalUnattendContent.md
+        - name: Add-AzureRmVmssExtension
+          href: AzureRM.Compute/Add-AzureRmVmssExtension.md
+        - name: Add-AzureRmVmssNetworkInterfaceConfiguration
+          href: AzureRM.Compute/Add-AzureRmVmssNetworkInterfaceConfiguration.md
+        - name: Add-AzureRmVmssSecret
+          href: AzureRM.Compute/Add-AzureRmVmssSecret.md
+        - name: Add-AzureRmVmssSshPublicKey
+          href: AzureRM.Compute/Add-AzureRmVmssSshPublicKey.md
+        - name: Add-AzureRmVmssWinRMListener
+          href: AzureRM.Compute/Add-AzureRmVmssWinRMListener.md
+        - name: Get-AzureRmVmss
+          href: AzureRM.Compute/Get-AzureRmVmss.md
+        - name: Get-AzureRmVmssSku
+          href: AzureRM.Compute/Get-AzureRmVmssSku.md
+        - name: Get-AzureRmVmssVM
+          href: AzureRM.Compute/Get-AzureRmVmssVM.md
+        - name: New-AzureRmVmss
+          href: AzureRM.Compute/New-AzureRmVmss.md
+        - name: New-AzureRmVmssConfig
+          href: AzureRM.Compute/New-AzureRmVmssConfig.md
+        - name: New-AzureRmVmssIpConfig
+          href: AzureRM.Compute/New-AzureRmVmssIpConfig.md
+        - name: New-AzureRmVmssVaultCertificateConfig
+          href: AzureRM.Compute/New-AzureRmVmssVaultCertificateConfig.md
+        - name: Remove-AzureRmVmss
+          href: AzureRM.Compute/Remove-AzureRmVmss.md
+        - name: Remove-AzureRmVmssExtension
+          href: AzureRM.Compute/Remove-AzureRmVmssExtension.md
+        - name: Remove-AzureRmVmssNetworkInterfaceConfiguration
+          href: AzureRM.Compute/Remove-AzureRmVmssNetworkInterfaceConfiguration.md
+        - name: Restart-AzureRmVmss
+          href: AzureRM.Compute/Restart-AzureRmVmss.md
+        - name: Set-AzureRmVmss
+          href: AzureRM.Compute/Set-AzureRmVmss.md
+        - name: Set-AzureRmVmssOsProfile
+          href: AzureRM.Compute/Set-AzureRmVmssOsProfile.md
+        - name: Set-AzureRmVmssStorageProfile
+          href: AzureRM.Compute/Set-AzureRmVmssStorageProfile.md
+        - name: Set-AzureRmVmssVM
+          href: AzureRM.Compute/Set-AzureRmVmssVM.md
+        - name: Start-AzureRmVmss
+          href: AzureRM.Compute/Start-AzureRmVmss.md
+        - name: Stop-AzureRmVmss
+          href: AzureRM.Compute/Stop-AzureRmVmss.md
+        - name: Update-AzureRmVmss
+          href: AzureRM.Compute/Update-AzureRmVmss.md
+        - name: Update-AzureRmVmssInstance
+          href: AzureRM.Compute/Update-AzureRmVmssInstance.md
+    - name: VM VHDs
+      href: '/powershell-new/module/AzureRM.Compute#VM-VHDs'
+      items:
+        - name: Save-AzureRmVhd
+          href: AzureRM.Compute/Save-AzureRmVhd.md
+    - name: VPN
+      href: '/powershell-new/module/AzureRM.Network#VPN'
+      items:
+        - name: Add-AzureRmVpnClientRevokedCertificate
+          href: AzureRM.Network/Add-AzureRmVpnClientRevokedCertificate.md
+        - name: Add-AzureRmVpnClientRootCertificate
+          href: AzureRM.Network/Add-AzureRmVpnClientRootCertificate.md
+        - name: Get-AzureRmVpnClientPackage
+          href: AzureRM.Network/Get-AzureRmVpnClientPackage.md
+        - name: Get-AzureRmVpnClientRevokedCertificate
+          href: AzureRM.Network/Get-AzureRmVpnClientRevokedCertificate.md
+        - name: Get-AzureRmVpnClientRootCertificate
+          href: AzureRM.Network/Get-AzureRmVpnClientRootCertificate.md
+        - name: New-AzureRmVpnClientRevokedCertificate
+          href: AzureRM.Network/New-AzureRmVpnClientRevokedCertificate.md
+        - name: New-AzureRmVpnClientRootCertificate
+          href: AzureRM.Network/New-AzureRmVpnClientRootCertificate.md
+        - name: Remove-AzureRmVpnClientRevokedCertificate
+          href: AzureRM.Network/Remove-AzureRmVpnClientRevokedCertificate.md
+        - name: Remove-AzureRmVpnClientRootCertificate
+          href: AzureRM.Network/Remove-AzureRmVpnClientRootCertificate.md
