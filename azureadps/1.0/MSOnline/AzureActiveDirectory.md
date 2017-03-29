@@ -12,6 +12,7 @@ ms.topic: conceptual
 author: erickson-doug
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: carolz
 Add-MsolAdministrativeUnitMember: MSOnline
 Add-MsolForeignGroupToRole: MSOnline
 Add-MsolGroupMember: MSOnline

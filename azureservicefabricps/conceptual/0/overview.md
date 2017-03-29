@@ -10,6 +10,9 @@ ms.devlang: powershell
 ms.topic: reference
 ms.date: 03/09/2017
 ms.author: sewhee
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/docs-conceptual/overview.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/docs-conceptual/overview.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
 ---
 
 # Azure Service Fabric

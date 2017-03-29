@@ -11,6 +11,7 @@ ms.topic: conceptual
 author: oanapl
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: vipulm
 open_to_public_contributors: false
 Add-ServiceFabricNode: ServiceFabric
 Approve-ServiceFabricRepairTask: ServiceFabric
