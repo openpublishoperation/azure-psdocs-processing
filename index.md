@@ -218,8 +218,8 @@ title: PowerShell Documentation
                     <a href="https://msdn.microsoft.com/powershell/reference/readme">Reference</a>
                 </li>
                 <li>
-                    <a href="#social">Social</a>
-                    <ul id="social" class="cardsF">
+                    <a href="#community">Community</a>
+                    <ul id="community" class="cardsF">
                         <li>
                             <a href="">
                             <div class="cardSize">
