@@ -38,9 +38,9 @@ Add-AzureRmNetworkInterfaceIpConfig: Networking
 Add-AzureRmNetworkSecurityRuleConfig: Networking
 Add-AzureRmRouteConfig: Route
 Add-AzureRmRouteFilterRuleConfig: Route
-Add-AzureRmVirtualNetworkGatewayIpConfig: Networking
-Add-AzureRmVirtualNetworkPeering: Networking
-Add-AzureRmVirtualNetworkSubnetConfig: Networking
+Add-AzureRmVirtualNetworkGatewayIpConfig: Virtual Network
+Add-AzureRmVirtualNetworkPeering: Virtual Network
+Add-AzureRmVirtualNetworkSubnetConfig: Virtual Network
 Add-AzureRmVpnClientRevokedCertificate: VPN
 Add-AzureRmVpnClientRootCertificate: VPN
 Get-AzureRmApplicationGateway: Application Gateway
@@ -83,24 +83,24 @@ Get-AzureRmNetworkInterface: Networking
 Get-AzureRmNetworkInterfaceIpConfig: Networking
 Get-AzureRmNetworkSecurityGroup: Networking
 Get-AzureRmNetworkSecurityRuleConfig: Networking
-Get-AzureRmNetworkWatcher: Networking
-Get-AzureRmNetworkWatcherFlowLogStatus: Networking
-Get-AzureRmNetworkWatcherNextHop: Networking
-Get-AzureRmNetworkWatcherPacketCapture: Networking
-Get-AzureRmNetworkWatcherSecurityGroupView: Networking
-Get-AzureRmNetworkWatcherTopology: Networking
-Get-AzureRmNetworkWatcherTroubleshootingResult: Networking
+Get-AzureRmNetworkWatcher: Network Watcher
+Get-AzureRmNetworkWatcherFlowLogStatus: Network Watcher
+Get-AzureRmNetworkWatcherNextHop: Network Watcher
+Get-AzureRmNetworkWatcherPacketCapture: Network Watcher
+Get-AzureRmNetworkWatcherSecurityGroupView: Network Watcher
+Get-AzureRmNetworkWatcherTopology: Network Watcher
+Get-AzureRmNetworkWatcherTroubleshootingResult: Network Watcher
 Get-AzureRmPublicIpAddress: Networking
 Get-AzureRmRouteConfig: Route
 Get-AzureRmRouteFilter: Route
 Get-AzureRmRouteFilterRuleConfig: Route
 Get-AzureRmRouteTable: Route
-Get-AzureRmVirtualNetwork: Networking
-Get-AzureRmVirtualNetworkGateway: Networking
-Get-AzureRmVirtualNetworkGatewayConnection: Networking
-Get-AzureRmVirtualNetworkGatewayConnectionSharedKey: Networking
-Get-AzureRmVirtualNetworkPeering: Networking
-Get-AzureRmVirtualNetworkSubnetConfig: Networking
+Get-AzureRmVirtualNetwork: Virtual Network
+Get-AzureRmVirtualNetworkGateway: Virtual Network
+Get-AzureRmVirtualNetworkGatewayConnection: Virtual Network
+Get-AzureRmVirtualNetworkGatewayConnectionSharedKey: Virtual Network
+Get-AzureRmVirtualNetworkPeering: Virtual Network
+Get-AzureRmVirtualNetworkSubnetConfig: Virtual Network
 Get-AzureRmVpnClientPackage: VPN
 Get-AzureRmVpnClientRevokedCertificate: VPN
 Get-AzureRmVpnClientRootCertificate: VPN
@@ -137,19 +137,19 @@ New-AzureRmNetworkInterface: Networking
 New-AzureRmNetworkInterfaceIpConfig: Networking
 New-AzureRmNetworkSecurityGroup: Networking
 New-AzureRmNetworkSecurityRuleConfig: Networking
-New-AzureRmNetworkWatcher: Networking
-New-AzureRmNetworkWatcherPacketCapture: Networking
+New-AzureRmNetworkWatcher: Network Watcher
+New-AzureRmNetworkWatcherPacketCapture: Network Watcher
 New-AzureRmPacketCaptureFilterConfig: Networking
 New-AzureRmPublicIpAddress: Networking
 New-AzureRmRouteConfig: Route
 New-AzureRmRouteFilter: Route
 New-AzureRmRouteFilterRuleConfig: Route
 New-AzureRmRouteTable: Route
-New-AzureRmVirtualNetwork: Networking
-New-AzureRmVirtualNetworkGateway: Networking
-New-AzureRmVirtualNetworkGatewayConnection: Networking
-New-AzureRmVirtualNetworkGatewayIpConfig: Networking
-New-AzureRmVirtualNetworkSubnetConfig: Networking
+New-AzureRmVirtualNetwork: Virtual Network
+New-AzureRmVirtualNetworkGateway: Virtual Network
+New-AzureRmVirtualNetworkGatewayConnection: Virtual Network
+New-AzureRmVirtualNetworkGatewayIpConfig: Virtual Network
+New-AzureRmVirtualNetworkSubnetConfig: Virtual Network
 New-AzureRmVpnClientRevokedCertificate: VPN
 New-AzureRmVpnClientRootCertificate: VPN
 Remove-AzureRmApplicationGateway: Application Gateway
@@ -181,25 +181,25 @@ Remove-AzureRmNetworkInterface: Networking
 Remove-AzureRmNetworkInterfaceIpConfig: Networking
 Remove-AzureRmNetworkSecurityGroup: Networking
 Remove-AzureRmNetworkSecurityRuleConfig: Networking
-Remove-AzureRmNetworkWatcher: Networking
-Remove-AzureRmNetworkWatcherPacketCapture: Networking
+Remove-AzureRmNetworkWatcher: Network Watcher
+Remove-AzureRmNetworkWatcherPacketCapture: Network Watcher
 Remove-AzureRmPublicIpAddress: Networking
 Remove-AzureRmRouteConfig: Route
 Remove-AzureRmRouteFilter: Route
 Remove-AzureRmRouteFilterRuleConfig: Route
 Remove-AzureRmRouteTable: Route
-Remove-AzureRmVirtualNetwork: Networking
-Remove-AzureRmVirtualNetworkGateway: Networking
-Remove-AzureRmVirtualNetworkGatewayConnection: Networking
-Remove-AzureRmVirtualNetworkGatewayDefaultSite: Networking
-Remove-AzureRmVirtualNetworkGatewayIpConfig: Networking
-Remove-AzureRmVirtualNetworkPeering: Networking
-Remove-AzureRmVirtualNetworkSubnetConfig: Networking
+Remove-AzureRmVirtualNetwork: Virtual Network
+Remove-AzureRmVirtualNetworkGateway: Virtual Network
+Remove-AzureRmVirtualNetworkGatewayConnection: Virtual Network
+Remove-AzureRmVirtualNetworkGatewayDefaultSite: Virtual Network
+Remove-AzureRmVirtualNetworkGatewayIpConfig: Virtual Network
+Remove-AzureRmVirtualNetworkPeering: Virtual Network
+Remove-AzureRmVirtualNetworkSubnetConfig: Virtual Network
 Remove-AzureRmVpnClientRevokedCertificate: VPN
 Remove-AzureRmVpnClientRootCertificate: VPN
-Reset-AzureRmVirtualNetworkGateway: Networking
-Reset-AzureRmVirtualNetworkGatewayConnectionSharedKey: Networking
-Resize-AzureRmVirtualNetworkGateway: Networking
+Reset-AzureRmVirtualNetworkGateway: Virtual Network
+Reset-AzureRmVirtualNetworkGatewayConnectionSharedKey: Virtual Network
+Resize-AzureRmVirtualNetworkGateway: Virtual Network
 Set-AzureRmApplicationGateway: Application Gateway
 Set-AzureRmApplicationGatewayAuthenticationCertificate: Application Gateway
 Set-AzureRmApplicationGatewayBackendAddressPool: Application Gateway
@@ -229,27 +229,27 @@ Set-AzureRmNetworkInterface: Networking
 Set-AzureRmNetworkInterfaceIpConfig: Networking
 Set-AzureRmNetworkSecurityGroup: Networking
 Set-AzureRmNetworkSecurityRuleConfig: Networking
-Set-AzureRmNetworkWatcher: Networking
-Set-AzureRmNetworkWatcherConfigFlowLog: Networking
+Set-AzureRmNetworkWatcher: Network Watcher
+Set-AzureRmNetworkWatcherConfigFlowLog: Network Watcher
 Set-AzureRmPublicIpAddress: Networking
 Set-AzureRmRouteConfig: Route
 Set-AzureRmRouteFilter: Route
 Set-AzureRmRouteFilterRuleConfig: Route
 Set-AzureRmRouteTable: Route
-Set-AzureRmVirtualNetwork: Networking
-Set-AzureRmVirtualNetworkGateway: Networking
-Set-AzureRmVirtualNetworkGatewayConnection: Networking
-Set-AzureRmVirtualNetworkGatewayConnectionSharedKey: Networking
-Set-AzureRmVirtualNetworkGatewayDefaultSite: Networking
-Set-AzureRmVirtualNetworkGatewayVpnClientConfig: VPN
-Set-AzureRmVirtualNetworkPeering: Networking
-Set-AzureRmVirtualNetworkSubnetConfig: Networking
+Set-AzureRmVirtualNetwork: Virtual Network
+Set-AzureRmVirtualNetworkGateway: Virtual Network
+Set-AzureRmVirtualNetworkGatewayConnection: Virtual Network
+Set-AzureRmVirtualNetworkGatewayConnectionSharedKey: Virtual Network
+Set-AzureRmVirtualNetworkGatewayDefaultSite: Virtual Network
+Set-AzureRmVirtualNetworkGatewayVpnClientConfig: Virtual Network
+Set-AzureRmVirtualNetworkPeering: Virtual Network
+Set-AzureRmVirtualNetworkSubnetConfig: Virtual Network
 Start-AzureRmApplicationGateway: Application Gateway
-Start-AzureRmNetworkWatcherResourceTroubleshooting: Networking
+Start-AzureRmNetworkWatcherResourceTroubleshooting: Network Watcher
 Stop-AzureRmApplicationGateway: Application Gateway
-Stop-AzureRmNetworkWatcherPacketCapture: Networking
+Stop-AzureRmNetworkWatcherPacketCapture: Network Watcher
 Test-AzureRmDnsAvailability: DNS
-Test-AzureRmNetworkWatcherIPFlow: Networking
+Test-AzureRmNetworkWatcherIPFlow: Network Watcher
 Test-AzureRmPrivateIPAddressAvailability: Networking
 _isModulePage: true
 ---

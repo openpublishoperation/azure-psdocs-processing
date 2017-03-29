@@ -62,7 +62,7 @@ New-AzureRmApiManagementProperty: API Management
 New-AzureRmApiManagementRegion: API Management
 New-AzureRmApiManagementSubscription: API Management
 New-AzureRmApiManagementUser: API Management
-New-AzureRmApiManagementVirtualNetwork: Networking
+New-AzureRmApiManagementVirtualNetwork: API Management
 Publish-AzureRmApiManagementTenantGitConfiguration: API Management
 Remove-AzureRmApiManagement: API Management
 Remove-AzureRmApiManagementApi: API Management

@@ -5,6 +5,490 @@
       href: ../conceptual/3.7.0/install-azure-ps.md
 - name: Reference
   items:
+    - name: Automation
+      href: '/powershell-new/module/Azure#Automation'
+      items:
+        - name: Get-AzureAutomationAccount
+          href: Azure/Get-AzureAutomationAccount.md
+        - name: Get-AzureAutomationCertificate
+          href: Azure/Get-AzureAutomationCertificate.md
+        - name: Get-AzureAutomationConnection
+          href: Azure/Get-AzureAutomationConnection.md
+        - name: Get-AzureAutomationCredential
+          href: Azure/Get-AzureAutomationCredential.md
+        - name: Get-AzureAutomationJob
+          href: Azure/Get-AzureAutomationJob.md
+        - name: Get-AzureAutomationJobOutput
+          href: Azure/Get-AzureAutomationJobOutput.md
+        - name: Get-AzureAutomationModule
+          href: Azure/Get-AzureAutomationModule.md
+        - name: Get-AzureAutomationRunbook
+          href: Azure/Get-AzureAutomationRunbook.md
+        - name: Get-AzureAutomationRunbookDefinition
+          href: Azure/Get-AzureAutomationRunbookDefinition.md
+        - name: Get-AzureAutomationSchedule
+          href: Azure/Get-AzureAutomationSchedule.md
+        - name: Get-AzureAutomationScheduledRunbook
+          href: Azure/Get-AzureAutomationScheduledRunbook.md
+        - name: Get-AzureAutomationVariable
+          href: Azure/Get-AzureAutomationVariable.md
+        - name: New-AzureAutomationAccount
+          href: Azure/New-AzureAutomationAccount.md
+        - name: New-AzureAutomationCertificate
+          href: Azure/New-AzureAutomationCertificate.md
+        - name: New-AzureAutomationConnection
+          href: Azure/New-AzureAutomationConnection.md
+        - name: New-AzureAutomationCredential
+          href: Azure/New-AzureAutomationCredential.md
+        - name: New-AzureAutomationModule
+          href: Azure/New-AzureAutomationModule.md
+        - name: New-AzureAutomationRunbook
+          href: Azure/New-AzureAutomationRunbook.md
+        - name: New-AzureAutomationSchedule
+          href: Azure/New-AzureAutomationSchedule.md
+        - name: New-AzureAutomationVariable
+          href: Azure/New-AzureAutomationVariable.md
+        - name: Publish-AzureAutomationRunbook
+          href: Azure/Publish-AzureAutomationRunbook.md
+        - name: Register-AzureAutomationScheduledRunbook
+          href: Azure/Register-AzureAutomationScheduledRunbook.md
+        - name: Remove-AzureAutomationAccount
+          href: Azure/Remove-AzureAutomationAccount.md
+        - name: Remove-AzureAutomationCertificate
+          href: Azure/Remove-AzureAutomationCertificate.md
+        - name: Remove-AzureAutomationCredential
+          href: Azure/Remove-AzureAutomationCredential.md
+        - name: Remove-AzureAutomationModule
+          href: Azure/Remove-AzureAutomationModule.md
+        - name: Remove-AzureAutomationRunbook
+          href: Azure/Remove-AzureAutomationRunbook.md
+        - name: Remove-AzureAutomationSchedule
+          href: Azure/Remove-AzureAutomationSchedule.md
+        - name: Remove-AzureAutomationVariable
+          href: Azure/Remove-AzureAutomationVariable.md
+        - name: Resume-AzureAutomationJob
+          href: Azure/Resume-AzureAutomationJob.md
+        - name: Set-AzureAutomationCertificate
+          href: Azure/Set-AzureAutomationCertificate.md
+        - name: Set-AzureAutomationCredential
+          href: Azure/Set-AzureAutomationCredential.md
+        - name: Set-AzureAutomationModule
+          href: Azure/Set-AzureAutomationModule.md
+        - name: Set-AzureAutomationRunbook
+          href: Azure/Set-AzureAutomationRunbook.md
+        - name: Set-AzureAutomationRunbookDefinition
+          href: Azure/Set-AzureAutomationRunbookDefinition.md
+        - name: Set-AzureAutomationSchedule
+          href: Azure/Set-AzureAutomationSchedule.md
+        - name: Set-AzureAutomationVariable
+          href: Azure/Set-AzureAutomationVariable.md
+        - name: Start-AzureAutomationRunbook
+          href: Azure/Start-AzureAutomationRunbook.md
+        - name: Stop-AzureAutomationJob
+          href: Azure/Stop-AzureAutomationJob.md
+        - name: Suspend-AzureAutomationJob
+          href: Azure/Suspend-AzureAutomationJob.md
+        - name: Unregister-AzureAutomationScheduledRunbook
+          href: Azure/Unregister-AzureAutomationScheduledRunbook.md
+    - name: Compute
+      href: '/powershell-new/module/Azure#Compute'
+      items:
+        - name: Add-AzureAccount
+          href: Azure/Add-AzureAccount.md
+        - name: Add-AzureEnvironment
+          href: Azure/Add-AzureEnvironment.md
+        - name: Add-AzureNodeWebRole
+          href: Azure/Add-AzureNodeWebRole.md
+        - name: Add-AzureNodeWorkerRole
+          href: Azure/Add-AzureNodeWorkerRole.md
+        - name: Add-AzurePHPWebRole
+          href: Azure/Add-AzurePHPWebRole.md
+        - name: Add-AzurePHPWorkerRole
+          href: Azure/Add-AzurePHPWorkerRole.md
+        - name: Add-AzureWebRole
+          href: Azure/Add-AzureWebRole.md
+        - name: Add-AzureWorkerRole
+          href: Azure/Add-AzureWorkerRole.md
+        - name: Disable-AzureServiceProjectRemoteDesktop
+          href: Azure/Disable-AzureServiceProjectRemoteDesktop.md
+        - name: Disable-AzureWebsiteApplicationDiagnostic
+          href: Azure/Disable-AzureWebsiteApplicationDiagnostic.md
+        - name: Disable-AzureWebsiteDebug
+          href: Azure/Disable-AzureWebsiteDebug.md
+        - name: Enable-AzureServiceProjectRemoteDesktop
+          href: Azure/Enable-AzureServiceProjectRemoteDesktop.md
+        - name: Enable-AzureWebsiteApplicationDiagnostic
+          href: Azure/Enable-AzureWebsiteApplicationDiagnostic.md
+        - name: Enable-AzureWebsiteDebug
+          href: Azure/Enable-AzureWebsiteDebug.md
+        - name: Get-AzureAccount
+          href: Azure/Get-AzureAccount.md
+        - name: Get-AzureEnvironment
+          href: Azure/Get-AzureEnvironment.md
+        - name: Get-AzureMediaServicesAccount
+          href: Azure/Get-AzureMediaServicesAccount.md
+        - name: Get-AzurePublishSettingsFile
+          href: Azure/Get-AzurePublishSettingsFile.md
+        - name: Get-AzureSBAuthorizationRule
+          href: Azure/Get-AzureSBAuthorizationRule.md
+        - name: Get-AzureSBLocation
+          href: Azure/Get-AzureSBLocation.md
+        - name: Get-AzureSBNamespace
+          href: Azure/Get-AzureSBNamespace.md
+        - name: Get-AzureSchedulerJob
+          href: Azure/Get-AzureSchedulerJob.md
+        - name: Get-AzureSchedulerJobCollection
+          href: Azure/Get-AzureSchedulerJobCollection.md
+        - name: Get-AzureSchedulerJobHistory
+          href: Azure/Get-AzureSchedulerJobHistory.md
+        - name: Get-AzureSchedulerLocation
+          href: Azure/Get-AzureSchedulerLocation.md
+        - name: Get-AzureServiceProjectRoleRuntime
+          href: Azure/Get-AzureServiceProjectRoleRuntime.md
+        - name: Get-AzureStoreAddOn
+          href: Azure/Get-AzureStoreAddOn.md
+        - name: Get-AzureSubscription
+          href: Azure/Get-AzureSubscription.md
+        - name: Get-AzureWebHostingPlan
+          href: Azure/Get-AzureWebHostingPlan.md
+        - name: Get-AzureWebHostingPlanMetric
+          href: Azure/Get-AzureWebHostingPlanMetric.md
+        - name: Get-AzureWebsite
+          href: Azure/Get-AzureWebsite.md
+        - name: Get-AzureWebsiteDeployment
+          href: Azure/Get-AzureWebsiteDeployment.md
+        - name: Get-AzureWebsiteJob
+          href: Azure/Get-AzureWebsiteJob.md
+        - name: Get-AzureWebsiteJobHistory
+          href: Azure/Get-AzureWebsiteJobHistory.md
+        - name: Get-AzureWebsiteLocation
+          href: Azure/Get-AzureWebsiteLocation.md
+        - name: Get-AzureWebsiteLog
+          href: Azure/Get-AzureWebsiteLog.md
+        - name: Get-AzureWebsiteMetric
+          href: Azure/Get-AzureWebsiteMetric.md
+        - name: Get-WAPackCloudService
+          href: Azure/Get-WAPackCloudService.md
+        - name: Get-WAPackCloudVMRoleSizeProfile
+          href: Azure/Get-WAPackCloudVMRoleSizeProfile.md
+        - name: Get-WAPackLogicalNetwork
+          href: Azure/Get-WAPackLogicalNetwork.md
+        - name: Get-WAPackStaticIPAddressPool
+          href: Azure/Get-WAPackStaticIPAddressPool.md
+        - name: Get-WAPackVM
+          href: Azure/Get-WAPackVM.md
+        - name: Get-WAPackVMOSDisk
+          href: Azure/Get-WAPackVMOSDisk.md
+        - name: Get-WAPackVMRole
+          href: Azure/Get-WAPackVMRole.md
+        - name: Get-WAPackVMSizeProfile
+          href: Azure/Get-WAPackVMSizeProfile.md
+        - name: Get-WAPackVMSubnet
+          href: Azure/Get-WAPackVMSubnet.md
+        - name: Get-WAPackVMTemplate
+          href: Azure/Get-WAPackVMTemplate.md
+        - name: Get-WAPackVNet
+          href: Azure/Get-WAPackVNet.md
+        - name: Import-AzurePublishSettingsFile
+          href: Azure/Import-AzurePublishSettingsFile.md
+        - name: Invoke-AzureHDInsightHiveJob
+          href: Azure/Invoke-AzureHDInsightHiveJob.md
+        - name: New-AzureHDInsightSqoopJobDefinition
+          href: Azure/New-AzureHDInsightSqoopJobDefinition.md
+        - name: New-AzureMediaServicesAccount
+          href: Azure/New-AzureMediaServicesAccount.md
+        - name: New-AzureMediaServicesKey
+          href: Azure/New-AzureMediaServicesKey.md
+        - name: New-AzureRoleTemplate
+          href: Azure/New-AzureRoleTemplate.md
+        - name: New-AzureSBAuthorizationRule
+          href: Azure/New-AzureSBAuthorizationRule.md
+        - name: New-AzureSBNamespace
+          href: Azure/New-AzureSBNamespace.md
+        - name: New-AzureSchedulerHttpJob
+          href: Azure/New-AzureSchedulerHttpJob.md
+        - name: New-AzureSchedulerJobCollection
+          href: Azure/New-AzureSchedulerJobCollection.md
+        - name: New-AzureSchedulerStorageQueueJob
+          href: Azure/New-AzureSchedulerStorageQueueJob.md
+        - name: New-AzureServiceProject
+          href: Azure/New-AzureServiceProject.md
+        - name: New-AzureStoreAddOn
+          href: Azure/New-AzureStoreAddOn.md
+        - name: New-AzureWebsite
+          href: Azure/New-AzureWebsite.md
+        - name: New-AzureWebsiteJob
+          href: Azure/New-AzureWebsiteJob.md
+        - name: New-WAPackCloudService
+          href: Azure/New-WAPackCloudService.md
+        - name: New-WAPackQuickVM
+          href: Azure/New-WAPackQuickVM.md
+        - name: New-WAPackStaticIPAddressPool
+          href: Azure/New-WAPackStaticIPAddressPool.md
+        - name: New-WAPackVM
+          href: Azure/New-WAPackVM.md
+        - name: New-WAPackVMRole
+          href: Azure/New-WAPackVMRole.md
+        - name: New-WAPackVMSubnet
+          href: Azure/New-WAPackVMSubnet.md
+        - name: New-WAPackVNet
+          href: Azure/New-WAPackVNet.md
+        - name: Publish-AzureServiceProject
+          href: Azure/Publish-AzureServiceProject.md
+        - name: Publish-AzureWebsiteProject
+          href: Azure/Publish-AzureWebsiteProject.md
+        - name: Remove-AzureAccount
+          href: Azure/Remove-AzureAccount.md
+        - name: Remove-AzureEnvironment
+          href: Azure/Remove-AzureEnvironment.md
+        - name: Remove-AzureMediaServicesAccount
+          href: Azure/Remove-AzureMediaServicesAccount.md
+        - name: Remove-AzureSBAuthorizationRule
+          href: Azure/Remove-AzureSBAuthorizationRule.md
+        - name: Remove-AzureSBNamespace
+          href: Azure/Remove-AzureSBNamespace.md
+        - name: Remove-AzureSchedulerJob
+          href: Azure/Remove-AzureSchedulerJob.md
+        - name: Remove-AzureSchedulerJobCollection
+          href: Azure/Remove-AzureSchedulerJobCollection.md
+        - name: Remove-AzureService
+          href: Azure/Remove-AzureService.md
+        - name: Remove-AzureStoreAddOn
+          href: Azure/Remove-AzureStoreAddOn.md
+        - name: Remove-AzureSubscription
+          href: Azure/Remove-AzureSubscription.md
+        - name: Remove-AzureWebsite
+          href: Azure/Remove-AzureWebsite.md
+        - name: Remove-AzureWebsiteJob
+          href: Azure/Remove-AzureWebsiteJob.md
+        - name: Remove-WAPackCloudService
+          href: Azure/Remove-WAPackCloudService.md
+        - name: Remove-WAPackStaticIPAddressPool
+          href: Azure/Remove-WAPackStaticIPAddressPool.md
+        - name: Remove-WAPackVM
+          href: Azure/Remove-WAPackVM.md
+        - name: Remove-WAPackVMRole
+          href: Azure/Remove-WAPackVMRole.md
+        - name: Remove-WAPackVMSubnet
+          href: Azure/Remove-WAPackVMSubnet.md
+        - name: Remove-WAPackVNet
+          href: Azure/Remove-WAPackVNet.md
+        - name: Restart-AzureWebsite
+          href: Azure/Restart-AzureWebsite.md
+        - name: Restart-WAPackVM
+          href: Azure/Restart-WAPackVM.md
+        - name: Restore-AzureWebsiteDeployment
+          href: Azure/Restore-AzureWebsiteDeployment.md
+        - name: Resume-WAPackVM
+          href: Azure/Resume-WAPackVM.md
+        - name: Save-AzureServiceProjectPackage
+          href: Azure/Save-AzureServiceProjectPackage.md
+        - name: Save-AzureWebsiteLog
+          href: Azure/Save-AzureWebsiteLog.md
+        - name: Select-AzureSubscription
+          href: Azure/Select-AzureSubscription.md
+        - name: Set-AzureEnvironment
+          href: Azure/Set-AzureEnvironment.md
+        - name: Set-AzureSBAuthorizationRule
+          href: Azure/Set-AzureSBAuthorizationRule.md
+        - name: Set-AzureSchedulerHttpJob
+          href: Azure/Set-AzureSchedulerHttpJob.md
+        - name: Set-AzureSchedulerJobCollection
+          href: Azure/Set-AzureSchedulerJobCollection.md
+        - name: Set-AzureSchedulerStorageQueueJob
+          href: Azure/Set-AzureSchedulerStorageQueueJob.md
+        - name: Set-AzureServiceProject
+          href: Azure/Set-AzureServiceProject.md
+        - name: Set-AzureServiceProjectRole
+          href: Azure/Set-AzureServiceProjectRole.md
+        - name: Set-AzureStoreAddOn
+          href: Azure/Set-AzureStoreAddOn.md
+        - name: Set-AzureSubscription
+          href: Azure/Set-AzureSubscription.md
+        - name: Set-AzureWebsite
+          href: Azure/Set-AzureWebsite.md
+        - name: Set-WAPackVM
+          href: Azure/Set-WAPackVM.md
+        - name: Set-WAPackVMRole
+          href: Azure/Set-WAPackVMRole.md
+        - name: Show-AzurePortal
+          href: Azure/Show-AzurePortal.md
+        - name: Show-AzureWebsite
+          href: Azure/Show-AzureWebsite.md
+        - name: Start-AzureEmulator
+          href: Azure/Start-AzureEmulator.md
+        - name: Start-AzureService
+          href: Azure/Start-AzureService.md
+        - name: Start-AzureWebsite
+          href: Azure/Start-AzureWebsite.md
+        - name: Start-AzureWebsiteJob
+          href: Azure/Start-AzureWebsiteJob.md
+        - name: Start-WAPackVM
+          href: Azure/Start-WAPackVM.md
+        - name: Stop-AzureEmulator
+          href: Azure/Stop-AzureEmulator.md
+        - name: Stop-AzureService
+          href: Azure/Stop-AzureService.md
+        - name: Stop-AzureWebsite
+          href: Azure/Stop-AzureWebsite.md
+        - name: Stop-AzureWebsiteJob
+          href: Azure/Stop-AzureWebsiteJob.md
+        - name: Stop-WAPackVM
+          href: Azure/Stop-WAPackVM.md
+        - name: Suspend-WAPackVM
+          href: Azure/Suspend-WAPackVM.md
+        - name: Switch-AzureWebsiteSlot
+          href: Azure/Switch-AzureWebsiteSlot.md
+        - name: Test-AzureName
+          href: Azure/Test-AzureName.md
+        - name: Update-AzureWebsiteRepository
+          href: Azure/Update-AzureWebsiteRepository.md
+    - name: HDInsight
+      href: '/powershell-new/module/Azure#HDInsight'
+      items:
+        - name: Add-AzureHDInsightConfigValues
+          href: Azure/Add-AzureHDInsightConfigValues.md
+        - name: Add-AzureHDInsightMetastore
+          href: Azure/Add-AzureHDInsightMetastore.md
+        - name: Add-AzureHDInsightStorage
+          href: Azure/Add-AzureHDInsightStorage.md
+        - name: Get-AzureHDInsightCluster
+          href: Azure/Get-AzureHDInsightCluster.md
+        - name: Get-AzureHDInsightJob
+          href: Azure/Get-AzureHDInsightJob.md
+        - name: Get-AzureHDInsightJobOutput
+          href: Azure/Get-AzureHDInsightJobOutput.md
+        - name: Get-AzureHDInsightProperties
+          href: Azure/Get-AzureHDInsightProperties.md
+        - name: Grant-AzureHDInsightHttpServicesAccess
+          href: Azure/Grant-AzureHDInsightHttpServicesAccess.md
+        - name: New-AzureHDInsightCluster
+          href: Azure/New-AzureHDInsightCluster.md
+        - name: New-AzureHDInsightClusterConfig
+          href: Azure/New-AzureHDInsightClusterConfig.md
+        - name: New-AzureHDInsightHiveJobDefinition
+          href: Azure/New-AzureHDInsightHiveJobDefinition.md
+        - name: New-AzureHDInsightMapReduceJobDefinition
+          href: Azure/New-AzureHDInsightMapReduceJobDefinition.md
+        - name: New-AzureHDInsightPigJobDefinition
+          href: Azure/New-AzureHDInsightPigJobDefinition.md
+        - name: New-AzureHDInsightStreamingMapReduceJobDefinition
+          href: Azure/New-AzureHDInsightStreamingMapReduceJobDefinition.md
+        - name: Remove-AzureHDInsightCluster
+          href: Azure/Remove-AzureHDInsightCluster.md
+        - name: Revoke-AzureHDInsightHttpServicesAccess
+          href: Azure/Revoke-AzureHDInsightHttpServicesAccess.md
+        - name: Set-AzureHDInsightDefaultStorage
+          href: Azure/Set-AzureHDInsightDefaultStorage.md
+        - name: Start-AzureHDInsightJob
+          href: Azure/Start-AzureHDInsightJob.md
+        - name: Stop-AzureHDInsightJob
+          href: Azure/Stop-AzureHDInsightJob.md
+        - name: Use-AzureHDInsightCluster
+          href: Azure/Use-AzureHDInsightCluster.md
+        - name: Wait-AzureHDInsightJob
+          href: Azure/Wait-AzureHDInsightJob.md
+    - name: Networking
+      href: '/powershell-new/module/Azure#Networking'
+      items:
+        - name: Add-AzureApplicationGatewaySslCertificate
+          href: Azure/Add-AzureApplicationGatewaySslCertificate.md
+        - name: Get-AzureApplicationGateway
+          href: Azure/Get-AzureApplicationGateway.md
+        - name: Get-AzureApplicationGatewayConfig
+          href: Azure/Get-AzureApplicationGatewayConfig.md
+        - name: Get-AzureApplicationGatewaySslCertificate
+          href: Azure/Get-AzureApplicationGatewaySslCertificate.md
+        - name: Get-AzureEffectiveRouteTable
+          href: Azure/Get-AzureEffectiveRouteTable.md
+        - name: Get-AzureIPForwarding
+          href: Azure/Get-AzureIPForwarding.md
+        - name: Get-AzureNetworkSecurityGroup
+          href: Azure/Get-AzureNetworkSecurityGroup.md
+        - name: Get-AzureNetworkSecurityGroupAssociation
+          href: Azure/Get-AzureNetworkSecurityGroupAssociation.md
+        - name: Get-AzureNetworkSecurityGroupForSubnet
+          href: Azure/Get-AzureNetworkSecurityGroupForSubnet.md
+        - name: Get-AzureRouteTable
+          href: Azure/Get-AzureRouteTable.md
+        - name: Get-AzureSubnetRouteTable
+          href: Azure/Get-AzureSubnetRouteTable.md
+        - name: Get-AzureVNetConnection
+          href: Azure/Get-AzureVNetConnection.md
+        - name: Get-AzureVNetGateway
+          href: Azure/Get-AzureVNetGateway.md
+        - name: Get-AzureVNetGatewayDiagnostics
+          href: Azure/Get-AzureVNetGatewayDiagnostics.md
+        - name: Get-AzureVNetGatewayIPsecParameters
+          href: Azure/Get-AzureVNetGatewayIPsecParameters.md
+        - name: Get-AzureVNetGatewayKey
+          href: Azure/Get-AzureVNetGatewayKey.md
+        - name: New-AzureApplicationGateway
+          href: Azure/New-AzureApplicationGateway.md
+        - name: New-AzureNetworkSecurityGroup
+          href: Azure/New-AzureNetworkSecurityGroup.md
+        - name: New-AzureRouteTable
+          href: Azure/New-AzureRouteTable.md
+        - name: New-AzureVNetGateway
+          href: Azure/New-AzureVNetGateway.md
+        - name: Remove-AzureApplicationGateway
+          href: Azure/Remove-AzureApplicationGateway.md
+        - name: Remove-AzureApplicationGatewaySslCertificate
+          href: Azure/Remove-AzureApplicationGatewaySslCertificate.md
+        - name: Remove-AzureNetworkSecurityGroup
+          href: Azure/Remove-AzureNetworkSecurityGroup.md
+        - name: Remove-AzureNetworkSecurityGroupAssociation
+          href: Azure/Remove-AzureNetworkSecurityGroupAssociation.md
+        - name: Remove-AzureNetworkSecurityGroupFromSubnet
+          href: Azure/Remove-AzureNetworkSecurityGroupFromSubnet.md
+        - name: Remove-AzureNetworkSecurityRule
+          href: Azure/Remove-AzureNetworkSecurityRule.md
+        - name: Remove-AzureRoute
+          href: Azure/Remove-AzureRoute.md
+        - name: Remove-AzureRouteTable
+          href: Azure/Remove-AzureRouteTable.md
+        - name: Remove-AzureSubnetRouteTable
+          href: Azure/Remove-AzureSubnetRouteTable.md
+        - name: Remove-AzureVNetGateway
+          href: Azure/Remove-AzureVNetGateway.md
+        - name: Remove-AzureVNetGatewayDefaultSite
+          href: Azure/Remove-AzureVNetGatewayDefaultSite.md
+        - name: Reset-AzureVNetGateway
+          href: Azure/Reset-AzureVNetGateway.md
+        - name: Resize-AzureVNetGateway
+          href: Azure/Resize-AzureVNetGateway.md
+        - name: Set-AzureApplicationGatewayConfig
+          href: Azure/Set-AzureApplicationGatewayConfig.md
+        - name: Set-AzureIPForwarding
+          href: Azure/Set-AzureIPForwarding.md
+        - name: Set-AzureNetworkSecurityGroupAssociation
+          href: Azure/Set-AzureNetworkSecurityGroupAssociation.md
+        - name: Set-AzureNetworkSecurityGroupToSubnet
+          href: Azure/Set-AzureNetworkSecurityGroupToSubnet.md
+        - name: Set-AzureNetworkSecurityRule
+          href: Azure/Set-AzureNetworkSecurityRule.md
+        - name: Set-AzureRoute
+          href: Azure/Set-AzureRoute.md
+        - name: Set-AzureSubnetRouteTable
+          href: Azure/Set-AzureSubnetRouteTable.md
+        - name: Set-AzureVNetGateway
+          href: Azure/Set-AzureVNetGateway.md
+        - name: Set-AzureVNetGatewayDefaultSite
+          href: Azure/Set-AzureVNetGatewayDefaultSite.md
+        - name: Set-AzureVNetGatewayIPsecParameters
+          href: Azure/Set-AzureVNetGatewayIPsecParameters.md
+        - name: Set-AzureVNetGatewayKey
+          href: Azure/Set-AzureVNetGatewayKey.md
+        - name: Start-AzureApplicationGateway
+          href: Azure/Start-AzureApplicationGateway.md
+        - name: Start-AzureVNetGatewayDiagnostics
+          href: Azure/Start-AzureVNetGatewayDiagnostics.md
+        - name: Stop-AzureApplicationGateway
+          href: Azure/Stop-AzureApplicationGateway.md
+        - name: Stop-AzureVNetGatewayDiagnostics
+          href: Azure/Stop-AzureVNetGatewayDiagnostics.md
+        - name: Update-AzureApplicationGateway
+          href: Azure/Update-AzureApplicationGateway.md
     - name: Others
       href: '/powershell-new/module/Azure.Storage#Others'
       items:
@@ -586,405 +1070,85 @@
           href: Azure/Update-AzureVM.md
         - name: Update-AzureVMImage
           href: Azure/Update-AzureVMImage.md
-    - name: Compute
-      href: '/powershell-new/module/Azure#Compute'
+    - name: RecoveryServices
+      href: '/powershell-new/module/Azure#RecoveryServices'
       items:
-        - name: Add-AzureAccount
-          href: Azure/Add-AzureAccount.md
-        - name: Add-AzureEnvironment
-          href: Azure/Add-AzureEnvironment.md
-        - name: Add-AzureNodeWebRole
-          href: Azure/Add-AzureNodeWebRole.md
-        - name: Add-AzureNodeWorkerRole
-          href: Azure/Add-AzureNodeWorkerRole.md
-        - name: Add-AzurePHPWebRole
-          href: Azure/Add-AzurePHPWebRole.md
-        - name: Add-AzurePHPWorkerRole
-          href: Azure/Add-AzurePHPWorkerRole.md
-        - name: Add-AzureWebRole
-          href: Azure/Add-AzureWebRole.md
-        - name: Add-AzureWorkerRole
-          href: Azure/Add-AzureWorkerRole.md
-        - name: Disable-AzureServiceProjectRemoteDesktop
-          href: Azure/Disable-AzureServiceProjectRemoteDesktop.md
-        - name: Disable-AzureWebsiteApplicationDiagnostic
-          href: Azure/Disable-AzureWebsiteApplicationDiagnostic.md
-        - name: Disable-AzureWebsiteDebug
-          href: Azure/Disable-AzureWebsiteDebug.md
-        - name: Enable-AzureServiceProjectRemoteDesktop
-          href: Azure/Enable-AzureServiceProjectRemoteDesktop.md
-        - name: Enable-AzureWebsiteApplicationDiagnostic
-          href: Azure/Enable-AzureWebsiteApplicationDiagnostic.md
-        - name: Enable-AzureWebsiteDebug
-          href: Azure/Enable-AzureWebsiteDebug.md
-        - name: Get-AzureAccount
-          href: Azure/Get-AzureAccount.md
-        - name: Get-AzureEnvironment
-          href: Azure/Get-AzureEnvironment.md
-        - name: Get-AzureMediaServicesAccount
-          href: Azure/Get-AzureMediaServicesAccount.md
-        - name: Get-AzurePublishSettingsFile
-          href: Azure/Get-AzurePublishSettingsFile.md
-        - name: Get-AzureSBAuthorizationRule
-          href: Azure/Get-AzureSBAuthorizationRule.md
-        - name: Get-AzureSBLocation
-          href: Azure/Get-AzureSBLocation.md
-        - name: Get-AzureSBNamespace
-          href: Azure/Get-AzureSBNamespace.md
-        - name: Get-AzureSchedulerJob
-          href: Azure/Get-AzureSchedulerJob.md
-        - name: Get-AzureSchedulerJobCollection
-          href: Azure/Get-AzureSchedulerJobCollection.md
-        - name: Get-AzureSchedulerJobHistory
-          href: Azure/Get-AzureSchedulerJobHistory.md
-        - name: Get-AzureSchedulerLocation
-          href: Azure/Get-AzureSchedulerLocation.md
-        - name: Get-AzureServiceProjectRoleRuntime
-          href: Azure/Get-AzureServiceProjectRoleRuntime.md
-        - name: Get-AzureStoreAddOn
-          href: Azure/Get-AzureStoreAddOn.md
-        - name: Get-AzureSubscription
-          href: Azure/Get-AzureSubscription.md
-        - name: Get-AzureWebHostingPlan
-          href: Azure/Get-AzureWebHostingPlan.md
-        - name: Get-AzureWebHostingPlanMetric
-          href: Azure/Get-AzureWebHostingPlanMetric.md
-        - name: Get-AzureWebsite
-          href: Azure/Get-AzureWebsite.md
-        - name: Get-AzureWebsiteDeployment
-          href: Azure/Get-AzureWebsiteDeployment.md
-        - name: Get-AzureWebsiteJob
-          href: Azure/Get-AzureWebsiteJob.md
-        - name: Get-AzureWebsiteJobHistory
-          href: Azure/Get-AzureWebsiteJobHistory.md
-        - name: Get-AzureWebsiteLocation
-          href: Azure/Get-AzureWebsiteLocation.md
-        - name: Get-AzureWebsiteLog
-          href: Azure/Get-AzureWebsiteLog.md
-        - name: Get-AzureWebsiteMetric
-          href: Azure/Get-AzureWebsiteMetric.md
-        - name: Get-WAPackCloudService
-          href: Azure/Get-WAPackCloudService.md
-        - name: Get-WAPackCloudVMRoleSizeProfile
-          href: Azure/Get-WAPackCloudVMRoleSizeProfile.md
-        - name: Get-WAPackLogicalNetwork
-          href: Azure/Get-WAPackLogicalNetwork.md
-        - name: Get-WAPackStaticIPAddressPool
-          href: Azure/Get-WAPackStaticIPAddressPool.md
-        - name: Get-WAPackVM
-          href: Azure/Get-WAPackVM.md
-        - name: Get-WAPackVMOSDisk
-          href: Azure/Get-WAPackVMOSDisk.md
-        - name: Get-WAPackVMRole
-          href: Azure/Get-WAPackVMRole.md
-        - name: Get-WAPackVMSizeProfile
-          href: Azure/Get-WAPackVMSizeProfile.md
-        - name: Get-WAPackVMSubnet
-          href: Azure/Get-WAPackVMSubnet.md
-        - name: Get-WAPackVMTemplate
-          href: Azure/Get-WAPackVMTemplate.md
-        - name: Get-WAPackVNet
-          href: Azure/Get-WAPackVNet.md
-        - name: Import-AzurePublishSettingsFile
-          href: Azure/Import-AzurePublishSettingsFile.md
-        - name: Invoke-AzureHDInsightHiveJob
-          href: Azure/Invoke-AzureHDInsightHiveJob.md
-        - name: New-AzureHDInsightSqoopJobDefinition
-          href: Azure/New-AzureHDInsightSqoopJobDefinition.md
-        - name: New-AzureMediaServicesAccount
-          href: Azure/New-AzureMediaServicesAccount.md
-        - name: New-AzureMediaServicesKey
-          href: Azure/New-AzureMediaServicesKey.md
-        - name: New-AzureRoleTemplate
-          href: Azure/New-AzureRoleTemplate.md
-        - name: New-AzureSBAuthorizationRule
-          href: Azure/New-AzureSBAuthorizationRule.md
-        - name: New-AzureSBNamespace
-          href: Azure/New-AzureSBNamespace.md
-        - name: New-AzureSchedulerHttpJob
-          href: Azure/New-AzureSchedulerHttpJob.md
-        - name: New-AzureSchedulerJobCollection
-          href: Azure/New-AzureSchedulerJobCollection.md
-        - name: New-AzureSchedulerStorageQueueJob
-          href: Azure/New-AzureSchedulerStorageQueueJob.md
-        - name: New-AzureServiceProject
-          href: Azure/New-AzureServiceProject.md
-        - name: New-AzureStoreAddOn
-          href: Azure/New-AzureStoreAddOn.md
-        - name: New-AzureWebsite
-          href: Azure/New-AzureWebsite.md
-        - name: New-AzureWebsiteJob
-          href: Azure/New-AzureWebsiteJob.md
-        - name: New-WAPackCloudService
-          href: Azure/New-WAPackCloudService.md
-        - name: New-WAPackQuickVM
-          href: Azure/New-WAPackQuickVM.md
-        - name: New-WAPackStaticIPAddressPool
-          href: Azure/New-WAPackStaticIPAddressPool.md
-        - name: New-WAPackVM
-          href: Azure/New-WAPackVM.md
-        - name: New-WAPackVMRole
-          href: Azure/New-WAPackVMRole.md
-        - name: New-WAPackVMSubnet
-          href: Azure/New-WAPackVMSubnet.md
-        - name: New-WAPackVNet
-          href: Azure/New-WAPackVNet.md
-        - name: Publish-AzureServiceProject
-          href: Azure/Publish-AzureServiceProject.md
-        - name: Publish-AzureWebsiteProject
-          href: Azure/Publish-AzureWebsiteProject.md
-        - name: Remove-AzureAccount
-          href: Azure/Remove-AzureAccount.md
-        - name: Remove-AzureEnvironment
-          href: Azure/Remove-AzureEnvironment.md
-        - name: Remove-AzureMediaServicesAccount
-          href: Azure/Remove-AzureMediaServicesAccount.md
-        - name: Remove-AzureSBAuthorizationRule
-          href: Azure/Remove-AzureSBAuthorizationRule.md
-        - name: Remove-AzureSBNamespace
-          href: Azure/Remove-AzureSBNamespace.md
-        - name: Remove-AzureSchedulerJob
-          href: Azure/Remove-AzureSchedulerJob.md
-        - name: Remove-AzureSchedulerJobCollection
-          href: Azure/Remove-AzureSchedulerJobCollection.md
-        - name: Remove-AzureService
-          href: Azure/Remove-AzureService.md
-        - name: Remove-AzureStoreAddOn
-          href: Azure/Remove-AzureStoreAddOn.md
-        - name: Remove-AzureSubscription
-          href: Azure/Remove-AzureSubscription.md
-        - name: Remove-AzureWebsite
-          href: Azure/Remove-AzureWebsite.md
-        - name: Remove-AzureWebsiteJob
-          href: Azure/Remove-AzureWebsiteJob.md
-        - name: Remove-WAPackCloudService
-          href: Azure/Remove-WAPackCloudService.md
-        - name: Remove-WAPackStaticIPAddressPool
-          href: Azure/Remove-WAPackStaticIPAddressPool.md
-        - name: Remove-WAPackVM
-          href: Azure/Remove-WAPackVM.md
-        - name: Remove-WAPackVMRole
-          href: Azure/Remove-WAPackVMRole.md
-        - name: Remove-WAPackVMSubnet
-          href: Azure/Remove-WAPackVMSubnet.md
-        - name: Remove-WAPackVNet
-          href: Azure/Remove-WAPackVNet.md
-        - name: Restart-AzureWebsite
-          href: Azure/Restart-AzureWebsite.md
-        - name: Restart-WAPackVM
-          href: Azure/Restart-WAPackVM.md
-        - name: Restore-AzureWebsiteDeployment
-          href: Azure/Restore-AzureWebsiteDeployment.md
-        - name: Resume-WAPackVM
-          href: Azure/Resume-WAPackVM.md
-        - name: Save-AzureServiceProjectPackage
-          href: Azure/Save-AzureServiceProjectPackage.md
-        - name: Save-AzureWebsiteLog
-          href: Azure/Save-AzureWebsiteLog.md
-        - name: Select-AzureSubscription
-          href: Azure/Select-AzureSubscription.md
-        - name: Set-AzureEnvironment
-          href: Azure/Set-AzureEnvironment.md
-        - name: Set-AzureSBAuthorizationRule
-          href: Azure/Set-AzureSBAuthorizationRule.md
-        - name: Set-AzureSchedulerHttpJob
-          href: Azure/Set-AzureSchedulerHttpJob.md
-        - name: Set-AzureSchedulerJobCollection
-          href: Azure/Set-AzureSchedulerJobCollection.md
-        - name: Set-AzureSchedulerStorageQueueJob
-          href: Azure/Set-AzureSchedulerStorageQueueJob.md
-        - name: Set-AzureServiceProject
-          href: Azure/Set-AzureServiceProject.md
-        - name: Set-AzureServiceProjectRole
-          href: Azure/Set-AzureServiceProjectRole.md
-        - name: Set-AzureStoreAddOn
-          href: Azure/Set-AzureStoreAddOn.md
-        - name: Set-AzureSubscription
-          href: Azure/Set-AzureSubscription.md
-        - name: Set-AzureWebsite
-          href: Azure/Set-AzureWebsite.md
-        - name: Set-WAPackVM
-          href: Azure/Set-WAPackVM.md
-        - name: Set-WAPackVMRole
-          href: Azure/Set-WAPackVMRole.md
-        - name: Show-AzurePortal
-          href: Azure/Show-AzurePortal.md
-        - name: Show-AzureWebsite
-          href: Azure/Show-AzureWebsite.md
-        - name: Start-AzureEmulator
-          href: Azure/Start-AzureEmulator.md
-        - name: Start-AzureService
-          href: Azure/Start-AzureService.md
-        - name: Start-AzureWebsite
-          href: Azure/Start-AzureWebsite.md
-        - name: Start-AzureWebsiteJob
-          href: Azure/Start-AzureWebsiteJob.md
-        - name: Start-WAPackVM
-          href: Azure/Start-WAPackVM.md
-        - name: Stop-AzureEmulator
-          href: Azure/Stop-AzureEmulator.md
-        - name: Stop-AzureService
-          href: Azure/Stop-AzureService.md
-        - name: Stop-AzureWebsite
-          href: Azure/Stop-AzureWebsite.md
-        - name: Stop-AzureWebsiteJob
-          href: Azure/Stop-AzureWebsiteJob.md
-        - name: Stop-WAPackVM
-          href: Azure/Stop-WAPackVM.md
-        - name: Suspend-WAPackVM
-          href: Azure/Suspend-WAPackVM.md
-        - name: Switch-AzureWebsiteSlot
-          href: Azure/Switch-AzureWebsiteSlot.md
-        - name: Test-AzureName
-          href: Azure/Test-AzureName.md
-        - name: Update-AzureWebsiteRepository
-          href: Azure/Update-AzureWebsiteRepository.md
-    - name: Networking
-      href: '/powershell-new/module/Azure#Networking'
-      items:
-        - name: Add-AzureApplicationGatewaySslCertificate
-          href: Azure/Add-AzureApplicationGatewaySslCertificate.md
-        - name: Get-AzureApplicationGateway
-          href: Azure/Get-AzureApplicationGateway.md
-        - name: Get-AzureApplicationGatewayConfig
-          href: Azure/Get-AzureApplicationGatewayConfig.md
-        - name: Get-AzureApplicationGatewaySslCertificate
-          href: Azure/Get-AzureApplicationGatewaySslCertificate.md
-        - name: Get-AzureEffectiveRouteTable
-          href: Azure/Get-AzureEffectiveRouteTable.md
-        - name: Get-AzureIPForwarding
-          href: Azure/Get-AzureIPForwarding.md
-        - name: Get-AzureNetworkSecurityGroup
-          href: Azure/Get-AzureNetworkSecurityGroup.md
-        - name: Get-AzureNetworkSecurityGroupAssociation
-          href: Azure/Get-AzureNetworkSecurityGroupAssociation.md
-        - name: Get-AzureNetworkSecurityGroupForSubnet
-          href: Azure/Get-AzureNetworkSecurityGroupForSubnet.md
-        - name: Get-AzureRouteTable
-          href: Azure/Get-AzureRouteTable.md
-        - name: Get-AzureSubnetRouteTable
-          href: Azure/Get-AzureSubnetRouteTable.md
-        - name: Get-AzureVNetConnection
-          href: Azure/Get-AzureVNetConnection.md
-        - name: Get-AzureVNetGateway
-          href: Azure/Get-AzureVNetGateway.md
-        - name: Get-AzureVNetGatewayDiagnostics
-          href: Azure/Get-AzureVNetGatewayDiagnostics.md
-        - name: Get-AzureVNetGatewayIPsecParameters
-          href: Azure/Get-AzureVNetGatewayIPsecParameters.md
-        - name: Get-AzureVNetGatewayKey
-          href: Azure/Get-AzureVNetGatewayKey.md
-        - name: New-AzureApplicationGateway
-          href: Azure/New-AzureApplicationGateway.md
-        - name: New-AzureNetworkSecurityGroup
-          href: Azure/New-AzureNetworkSecurityGroup.md
-        - name: New-AzureRouteTable
-          href: Azure/New-AzureRouteTable.md
-        - name: New-AzureVNetGateway
-          href: Azure/New-AzureVNetGateway.md
-        - name: Remove-AzureApplicationGateway
-          href: Azure/Remove-AzureApplicationGateway.md
-        - name: Remove-AzureApplicationGatewaySslCertificate
-          href: Azure/Remove-AzureApplicationGatewaySslCertificate.md
-        - name: Remove-AzureNetworkSecurityGroup
-          href: Azure/Remove-AzureNetworkSecurityGroup.md
-        - name: Remove-AzureNetworkSecurityGroupAssociation
-          href: Azure/Remove-AzureNetworkSecurityGroupAssociation.md
-        - name: Remove-AzureNetworkSecurityGroupFromSubnet
-          href: Azure/Remove-AzureNetworkSecurityGroupFromSubnet.md
-        - name: Remove-AzureNetworkSecurityRule
-          href: Azure/Remove-AzureNetworkSecurityRule.md
-        - name: Remove-AzureRoute
-          href: Azure/Remove-AzureRoute.md
-        - name: Remove-AzureRouteTable
-          href: Azure/Remove-AzureRouteTable.md
-        - name: Remove-AzureSubnetRouteTable
-          href: Azure/Remove-AzureSubnetRouteTable.md
-        - name: Remove-AzureVNetGateway
-          href: Azure/Remove-AzureVNetGateway.md
-        - name: Remove-AzureVNetGatewayDefaultSite
-          href: Azure/Remove-AzureVNetGatewayDefaultSite.md
-        - name: Reset-AzureVNetGateway
-          href: Azure/Reset-AzureVNetGateway.md
-        - name: Resize-AzureVNetGateway
-          href: Azure/Resize-AzureVNetGateway.md
-        - name: Set-AzureApplicationGatewayConfig
-          href: Azure/Set-AzureApplicationGatewayConfig.md
-        - name: Set-AzureIPForwarding
-          href: Azure/Set-AzureIPForwarding.md
-        - name: Set-AzureNetworkSecurityGroupAssociation
-          href: Azure/Set-AzureNetworkSecurityGroupAssociation.md
-        - name: Set-AzureNetworkSecurityGroupToSubnet
-          href: Azure/Set-AzureNetworkSecurityGroupToSubnet.md
-        - name: Set-AzureNetworkSecurityRule
-          href: Azure/Set-AzureNetworkSecurityRule.md
-        - name: Set-AzureRoute
-          href: Azure/Set-AzureRoute.md
-        - name: Set-AzureSubnetRouteTable
-          href: Azure/Set-AzureSubnetRouteTable.md
-        - name: Set-AzureVNetGateway
-          href: Azure/Set-AzureVNetGateway.md
-        - name: Set-AzureVNetGatewayDefaultSite
-          href: Azure/Set-AzureVNetGatewayDefaultSite.md
-        - name: Set-AzureVNetGatewayIPsecParameters
-          href: Azure/Set-AzureVNetGatewayIPsecParameters.md
-        - name: Set-AzureVNetGatewayKey
-          href: Azure/Set-AzureVNetGatewayKey.md
-        - name: Start-AzureApplicationGateway
-          href: Azure/Start-AzureApplicationGateway.md
-        - name: Start-AzureVNetGatewayDiagnostics
-          href: Azure/Start-AzureVNetGatewayDiagnostics.md
-        - name: Stop-AzureApplicationGateway
-          href: Azure/Stop-AzureApplicationGateway.md
-        - name: Stop-AzureVNetGatewayDiagnostics
-          href: Azure/Stop-AzureVNetGatewayDiagnostics.md
-        - name: Update-AzureApplicationGateway
-          href: Azure/Update-AzureApplicationGateway.md
-    - name: HDInsight
-      href: '/powershell-new/module/Azure#HDInsight'
-      items:
-        - name: Add-AzureHDInsightConfigValues
-          href: Azure/Add-AzureHDInsightConfigValues.md
-        - name: Add-AzureHDInsightMetastore
-          href: Azure/Add-AzureHDInsightMetastore.md
-        - name: Add-AzureHDInsightStorage
-          href: Azure/Add-AzureHDInsightStorage.md
-        - name: Get-AzureHDInsightCluster
-          href: Azure/Get-AzureHDInsightCluster.md
-        - name: Get-AzureHDInsightJob
-          href: Azure/Get-AzureHDInsightJob.md
-        - name: Get-AzureHDInsightJobOutput
-          href: Azure/Get-AzureHDInsightJobOutput.md
-        - name: Get-AzureHDInsightProperties
-          href: Azure/Get-AzureHDInsightProperties.md
-        - name: Grant-AzureHDInsightHttpServicesAccess
-          href: Azure/Grant-AzureHDInsightHttpServicesAccess.md
-        - name: New-AzureHDInsightCluster
-          href: Azure/New-AzureHDInsightCluster.md
-        - name: New-AzureHDInsightClusterConfig
-          href: Azure/New-AzureHDInsightClusterConfig.md
-        - name: New-AzureHDInsightHiveJobDefinition
-          href: Azure/New-AzureHDInsightHiveJobDefinition.md
-        - name: New-AzureHDInsightMapReduceJobDefinition
-          href: Azure/New-AzureHDInsightMapReduceJobDefinition.md
-        - name: New-AzureHDInsightPigJobDefinition
-          href: Azure/New-AzureHDInsightPigJobDefinition.md
-        - name: New-AzureHDInsightStreamingMapReduceJobDefinition
-          href: Azure/New-AzureHDInsightStreamingMapReduceJobDefinition.md
-        - name: Remove-AzureHDInsightCluster
-          href: Azure/Remove-AzureHDInsightCluster.md
-        - name: Revoke-AzureHDInsightHttpServicesAccess
-          href: Azure/Revoke-AzureHDInsightHttpServicesAccess.md
-        - name: Set-AzureHDInsightDefaultStorage
-          href: Azure/Set-AzureHDInsightDefaultStorage.md
-        - name: Start-AzureHDInsightJob
-          href: Azure/Start-AzureHDInsightJob.md
-        - name: Stop-AzureHDInsightJob
-          href: Azure/Stop-AzureHDInsightJob.md
-        - name: Use-AzureHDInsightCluster
-          href: Azure/Use-AzureHDInsightCluster.md
-        - name: Wait-AzureHDInsightJob
-          href: Azure/Wait-AzureHDInsightJob.md
+        - name: Get-AzureSiteRecoveryJob
+          href: Azure/Get-AzureSiteRecoveryJob.md
+        - name: Get-AzureSiteRecoveryNetwork
+          href: Azure/Get-AzureSiteRecoveryNetwork.md
+        - name: Get-AzureSiteRecoveryNetworkMapping
+          href: Azure/Get-AzureSiteRecoveryNetworkMapping.md
+        - name: Get-AzureSiteRecoveryProtectionContainer
+          href: Azure/Get-AzureSiteRecoveryProtectionContainer.md
+        - name: Get-AzureSiteRecoveryProtectionEntity
+          href: Azure/Get-AzureSiteRecoveryProtectionEntity.md
+        - name: Get-AzureSiteRecoveryRecoveryPlan
+          href: Azure/Get-AzureSiteRecoveryRecoveryPlan.md
+        - name: Get-AzureSiteRecoveryRecoveryPlanFile
+          href: Azure/Get-AzureSiteRecoveryRecoveryPlanFile.md
+        - name: Get-AzureSiteRecoveryServer
+          href: Azure/Get-AzureSiteRecoveryServer.md
+        - name: Get-AzureSiteRecoverySite
+          href: Azure/Get-AzureSiteRecoverySite.md
+        - name: Get-AzureSiteRecoveryStorage
+          href: Azure/Get-AzureSiteRecoveryStorage.md
+        - name: Get-AzureSiteRecoveryStorageMapping
+          href: Azure/Get-AzureSiteRecoveryStorageMapping.md
+        - name: Get-AzureSiteRecoveryVault
+          href: Azure/Get-AzureSiteRecoveryVault.md
+        - name: Get-AzureSiteRecoveryVaultSettings
+          href: Azure/Get-AzureSiteRecoveryVaultSettings.md
+        - name: Get-AzureSiteRecoveryVaultSettingsFile
+          href: Azure/Get-AzureSiteRecoveryVaultSettingsFile.md
+        - name: Get-AzureSiteRecoveryVM
+          href: Azure/Get-AzureSiteRecoveryVM.md
+        - name: Import-AzureSiteRecoveryVaultSettingsFile
+          href: Azure/Import-AzureSiteRecoveryVaultSettingsFile.md
+        - name: New-AzureSiteRecoveryNetworkMapping
+          href: Azure/New-AzureSiteRecoveryNetworkMapping.md
+        - name: New-AzureSiteRecoveryProtectionProfileObject
+          href: Azure/New-AzureSiteRecoveryProtectionProfileObject.md
+        - name: New-AzureSiteRecoveryRecoveryPlan
+          href: Azure/New-AzureSiteRecoveryRecoveryPlan.md
+        - name: New-AzureSiteRecoveryStorageMapping
+          href: Azure/New-AzureSiteRecoveryStorageMapping.md
+        - name: New-AzureSiteRecoveryVault
+          href: Azure/New-AzureSiteRecoveryVault.md
+        - name: Remove-AzureSiteRecoveryNetworkMapping
+          href: Azure/Remove-AzureSiteRecoveryNetworkMapping.md
+        - name: Remove-AzureSiteRecoveryRecoveryPlan
+          href: Azure/Remove-AzureSiteRecoveryRecoveryPlan.md
+        - name: Remove-AzureSiteRecoveryStorageMapping
+          href: Azure/Remove-AzureSiteRecoveryStorageMapping.md
+        - name: Restart-AzureSiteRecoveryJob
+          href: Azure/Restart-AzureSiteRecoveryJob.md
+        - name: Resume-AzureSiteRecoveryJob
+          href: Azure/Resume-AzureSiteRecoveryJob.md
+        - name: Set-AzureSiteRecoveryProtectionEntity
+          href: Azure/Set-AzureSiteRecoveryProtectionEntity.md
+        - name: Set-AzureSiteRecoveryVM
+          href: Azure/Set-AzureSiteRecoveryVM.md
+        - name: Start-AzureSiteRecoveryCommitFailoverJob
+          href: Azure/Start-AzureSiteRecoveryCommitFailoverJob.md
+        - name: Start-AzureSiteRecoveryPlannedFailoverJob
+          href: Azure/Start-AzureSiteRecoveryPlannedFailoverJob.md
+        - name: Start-AzureSiteRecoveryProtectionProfileAssociationJob
+          href: Azure/Start-AzureSiteRecoveryProtectionProfileAssociationJob.md
+        - name: Start-AzureSiteRecoveryProtectionProfileDissociationJob
+          href: Azure/Start-AzureSiteRecoveryProtectionProfileDissociationJob.md
+        - name: Start-AzureSiteRecoveryTestFailoverJob
+          href: Azure/Start-AzureSiteRecoveryTestFailoverJob.md
+        - name: Start-AzureSiteRecoveryUnplannedFailoverJob
+          href: Azure/Start-AzureSiteRecoveryUnplannedFailoverJob.md
+        - name: Stop-AzureSiteRecoveryJob
+          href: Azure/Stop-AzureSiteRecoveryJob.md
+        - name: Update-AzureSiteRecoveryProtectionDirection
+          href: Azure/Update-AzureSiteRecoveryProtectionDirection.md
+        - name: Update-AzureSiteRecoveryProtectionEntity
+          href: Azure/Update-AzureSiteRecoveryProtectionEntity.md
+        - name: Update-AzureSiteRecoveryRecoveryPlan
+          href: Azure/Update-AzureSiteRecoveryRecoveryPlan.md
     - name: RemoteApp
       href: '/powershell-new/module/Azure#RemoteApp'
       items:
@@ -1064,29 +1228,6 @@
           href: Azure/Unpublish-AzureRemoteAppProgram.md
         - name: Update-AzureRemoteAppCollection
           href: Azure/Update-AzureRemoteAppCollection.md
-    - name: TrafficManager
-      href: '/powershell-new/module/Azure#TrafficManager'
-      items:
-        - name: Add-AzureTrafficManagerEndpoint
-          href: Azure/Add-AzureTrafficManagerEndpoint.md
-        - name: Disable-AzureTrafficManagerProfile
-          href: Azure/Disable-AzureTrafficManagerProfile.md
-        - name: Enable-AzureTrafficManagerProfile
-          href: Azure/Enable-AzureTrafficManagerProfile.md
-        - name: Get-AzureTrafficManagerProfile
-          href: Azure/Get-AzureTrafficManagerProfile.md
-        - name: New-AzureTrafficManagerProfile
-          href: Azure/New-AzureTrafficManagerProfile.md
-        - name: Remove-AzureTrafficManagerEndpoint
-          href: Azure/Remove-AzureTrafficManagerEndpoint.md
-        - name: Remove-AzureTrafficManagerProfile
-          href: Azure/Remove-AzureTrafficManagerProfile.md
-        - name: Set-AzureTrafficManagerEndpoint
-          href: Azure/Set-AzureTrafficManagerEndpoint.md
-        - name: Set-AzureTrafficManagerProfile
-          href: Azure/Set-AzureTrafficManagerProfile.md
-        - name: Test-AzureTrafficManagerDomainName
-          href: Azure/Test-AzureTrafficManagerDomainName.md
     - name: Services
       href: '/powershell-new/module/Azure#Services'
       items:
@@ -1096,6 +1237,59 @@
           href: Azure/New-AzureProfile.md
         - name: Select-AzureProfile
           href: Azure/Select-AzureProfile.md
+    - name: Sql
+      href: '/powershell-new/module/Azure#Sql'
+      items:
+        - name: Get-AzureSqlDatabase
+          href: Azure/Get-AzureSqlDatabase.md
+        - name: Get-AzureSqlDatabaseCopy
+          href: Azure/Get-AzureSqlDatabaseCopy.md
+        - name: Get-AzureSqlDatabaseImportExportStatus
+          href: Azure/Get-AzureSqlDatabaseImportExportStatus.md
+        - name: Get-AzureSqlDatabaseOperation
+          href: Azure/Get-AzureSqlDatabaseOperation.md
+        - name: Get-AzureSqlDatabaseServer
+          href: Azure/Get-AzureSqlDatabaseServer.md
+        - name: Get-AzureSqlDatabaseServerFirewallRule
+          href: Azure/Get-AzureSqlDatabaseServerFirewallRule.md
+        - name: Get-AzureSqlDatabaseServerQuota
+          href: Azure/Get-AzureSqlDatabaseServerQuota.md
+        - name: Get-AzureSqlDatabaseServiceObjective
+          href: Azure/Get-AzureSqlDatabaseServiceObjective.md
+        - name: Get-AzureSqlRecoverableDatabase
+          href: Azure/Get-AzureSqlRecoverableDatabase.md
+        - name: New-AzureSqlDatabase
+          href: Azure/New-AzureSqlDatabase.md
+        - name: New-AzureSqlDatabaseServer
+          href: Azure/New-AzureSqlDatabaseServer.md
+        - name: New-AzureSqlDatabaseServerContext
+          href: Azure/New-AzureSqlDatabaseServerContext.md
+        - name: New-AzureSqlDatabaseServerFirewallRule
+          href: Azure/New-AzureSqlDatabaseServerFirewallRule.md
+        - name: Remove-AzureSqlDatabase
+          href: Azure/Remove-AzureSqlDatabase.md
+        - name: Remove-AzureSqlDatabaseServer
+          href: Azure/Remove-AzureSqlDatabaseServer.md
+        - name: Remove-AzureSqlDatabaseServerFirewallRule
+          href: Azure/Remove-AzureSqlDatabaseServerFirewallRule.md
+        - name: Set-AzureSqlDatabase
+          href: Azure/Set-AzureSqlDatabase.md
+        - name: Set-AzureSqlDatabaseServer
+          href: Azure/Set-AzureSqlDatabaseServer.md
+        - name: Set-AzureSqlDatabaseServerFirewallRule
+          href: Azure/Set-AzureSqlDatabaseServerFirewallRule.md
+        - name: Start-AzureSqlDatabaseCopy
+          href: Azure/Start-AzureSqlDatabaseCopy.md
+        - name: Start-AzureSqlDatabaseExport
+          href: Azure/Start-AzureSqlDatabaseExport.md
+        - name: Start-AzureSqlDatabaseImport
+          href: Azure/Start-AzureSqlDatabaseImport.md
+        - name: Start-AzureSqlDatabaseRecovery
+          href: Azure/Start-AzureSqlDatabaseRecovery.md
+        - name: Start-AzureSqlDatabaseRestore
+          href: Azure/Start-AzureSqlDatabaseRestore.md
+        - name: Stop-AzureSqlDatabaseCopy
+          href: Azure/Stop-AzureSqlDatabaseCopy.md
     - name: StorSimple
       href: '/powershell-new/module/Azure#StorSimple'
       items:
@@ -1195,220 +1389,26 @@
           href: Azure/Start-AzureStorSimpleLegacyVolumeContainerMigrationPlan.md
         - name: Stop-AzureStorSimpleJob
           href: Azure/Stop-AzureStorSimpleJob.md
-    - name: Automation
-      href: '/powershell-new/module/Azure#Automation'
+    - name: TrafficManager
+      href: '/powershell-new/module/Azure#TrafficManager'
       items:
-        - name: Get-AzureAutomationAccount
-          href: Azure/Get-AzureAutomationAccount.md
-        - name: Get-AzureAutomationCertificate
-          href: Azure/Get-AzureAutomationCertificate.md
-        - name: Get-AzureAutomationConnection
-          href: Azure/Get-AzureAutomationConnection.md
-        - name: Get-AzureAutomationCredential
-          href: Azure/Get-AzureAutomationCredential.md
-        - name: Get-AzureAutomationJob
-          href: Azure/Get-AzureAutomationJob.md
-        - name: Get-AzureAutomationJobOutput
-          href: Azure/Get-AzureAutomationJobOutput.md
-        - name: Get-AzureAutomationModule
-          href: Azure/Get-AzureAutomationModule.md
-        - name: Get-AzureAutomationRunbook
-          href: Azure/Get-AzureAutomationRunbook.md
-        - name: Get-AzureAutomationRunbookDefinition
-          href: Azure/Get-AzureAutomationRunbookDefinition.md
-        - name: Get-AzureAutomationSchedule
-          href: Azure/Get-AzureAutomationSchedule.md
-        - name: Get-AzureAutomationScheduledRunbook
-          href: Azure/Get-AzureAutomationScheduledRunbook.md
-        - name: Get-AzureAutomationVariable
-          href: Azure/Get-AzureAutomationVariable.md
-        - name: New-AzureAutomationAccount
-          href: Azure/New-AzureAutomationAccount.md
-        - name: New-AzureAutomationCertificate
-          href: Azure/New-AzureAutomationCertificate.md
-        - name: New-AzureAutomationConnection
-          href: Azure/New-AzureAutomationConnection.md
-        - name: New-AzureAutomationCredential
-          href: Azure/New-AzureAutomationCredential.md
-        - name: New-AzureAutomationModule
-          href: Azure/New-AzureAutomationModule.md
-        - name: New-AzureAutomationRunbook
-          href: Azure/New-AzureAutomationRunbook.md
-        - name: New-AzureAutomationSchedule
-          href: Azure/New-AzureAutomationSchedule.md
-        - name: New-AzureAutomationVariable
-          href: Azure/New-AzureAutomationVariable.md
-        - name: Publish-AzureAutomationRunbook
-          href: Azure/Publish-AzureAutomationRunbook.md
-        - name: Register-AzureAutomationScheduledRunbook
-          href: Azure/Register-AzureAutomationScheduledRunbook.md
-        - name: Remove-AzureAutomationAccount
-          href: Azure/Remove-AzureAutomationAccount.md
-        - name: Remove-AzureAutomationCertificate
-          href: Azure/Remove-AzureAutomationCertificate.md
-        - name: Remove-AzureAutomationCredential
-          href: Azure/Remove-AzureAutomationCredential.md
-        - name: Remove-AzureAutomationModule
-          href: Azure/Remove-AzureAutomationModule.md
-        - name: Remove-AzureAutomationRunbook
-          href: Azure/Remove-AzureAutomationRunbook.md
-        - name: Remove-AzureAutomationSchedule
-          href: Azure/Remove-AzureAutomationSchedule.md
-        - name: Remove-AzureAutomationVariable
-          href: Azure/Remove-AzureAutomationVariable.md
-        - name: Resume-AzureAutomationJob
-          href: Azure/Resume-AzureAutomationJob.md
-        - name: Set-AzureAutomationCertificate
-          href: Azure/Set-AzureAutomationCertificate.md
-        - name: Set-AzureAutomationCredential
-          href: Azure/Set-AzureAutomationCredential.md
-        - name: Set-AzureAutomationModule
-          href: Azure/Set-AzureAutomationModule.md
-        - name: Set-AzureAutomationRunbook
-          href: Azure/Set-AzureAutomationRunbook.md
-        - name: Set-AzureAutomationRunbookDefinition
-          href: Azure/Set-AzureAutomationRunbookDefinition.md
-        - name: Set-AzureAutomationSchedule
-          href: Azure/Set-AzureAutomationSchedule.md
-        - name: Set-AzureAutomationVariable
-          href: Azure/Set-AzureAutomationVariable.md
-        - name: Start-AzureAutomationRunbook
-          href: Azure/Start-AzureAutomationRunbook.md
-        - name: Stop-AzureAutomationJob
-          href: Azure/Stop-AzureAutomationJob.md
-        - name: Suspend-AzureAutomationJob
-          href: Azure/Suspend-AzureAutomationJob.md
-        - name: Unregister-AzureAutomationScheduledRunbook
-          href: Azure/Unregister-AzureAutomationScheduledRunbook.md
-    - name: RecoveryServices
-      href: '/powershell-new/module/Azure#RecoveryServices'
-      items:
-        - name: Get-AzureSiteRecoveryJob
-          href: Azure/Get-AzureSiteRecoveryJob.md
-        - name: Get-AzureSiteRecoveryNetwork
-          href: Azure/Get-AzureSiteRecoveryNetwork.md
-        - name: Get-AzureSiteRecoveryNetworkMapping
-          href: Azure/Get-AzureSiteRecoveryNetworkMapping.md
-        - name: Get-AzureSiteRecoveryProtectionContainer
-          href: Azure/Get-AzureSiteRecoveryProtectionContainer.md
-        - name: Get-AzureSiteRecoveryProtectionEntity
-          href: Azure/Get-AzureSiteRecoveryProtectionEntity.md
-        - name: Get-AzureSiteRecoveryRecoveryPlan
-          href: Azure/Get-AzureSiteRecoveryRecoveryPlan.md
-        - name: Get-AzureSiteRecoveryRecoveryPlanFile
-          href: Azure/Get-AzureSiteRecoveryRecoveryPlanFile.md
-        - name: Get-AzureSiteRecoveryServer
-          href: Azure/Get-AzureSiteRecoveryServer.md
-        - name: Get-AzureSiteRecoverySite
-          href: Azure/Get-AzureSiteRecoverySite.md
-        - name: Get-AzureSiteRecoveryStorage
-          href: Azure/Get-AzureSiteRecoveryStorage.md
-        - name: Get-AzureSiteRecoveryStorageMapping
-          href: Azure/Get-AzureSiteRecoveryStorageMapping.md
-        - name: Get-AzureSiteRecoveryVault
-          href: Azure/Get-AzureSiteRecoveryVault.md
-        - name: Get-AzureSiteRecoveryVaultSettings
-          href: Azure/Get-AzureSiteRecoveryVaultSettings.md
-        - name: Get-AzureSiteRecoveryVaultSettingsFile
-          href: Azure/Get-AzureSiteRecoveryVaultSettingsFile.md
-        - name: Get-AzureSiteRecoveryVM
-          href: Azure/Get-AzureSiteRecoveryVM.md
-        - name: Import-AzureSiteRecoveryVaultSettingsFile
-          href: Azure/Import-AzureSiteRecoveryVaultSettingsFile.md
-        - name: New-AzureSiteRecoveryNetworkMapping
-          href: Azure/New-AzureSiteRecoveryNetworkMapping.md
-        - name: New-AzureSiteRecoveryProtectionProfileObject
-          href: Azure/New-AzureSiteRecoveryProtectionProfileObject.md
-        - name: New-AzureSiteRecoveryRecoveryPlan
-          href: Azure/New-AzureSiteRecoveryRecoveryPlan.md
-        - name: New-AzureSiteRecoveryStorageMapping
-          href: Azure/New-AzureSiteRecoveryStorageMapping.md
-        - name: New-AzureSiteRecoveryVault
-          href: Azure/New-AzureSiteRecoveryVault.md
-        - name: Remove-AzureSiteRecoveryNetworkMapping
-          href: Azure/Remove-AzureSiteRecoveryNetworkMapping.md
-        - name: Remove-AzureSiteRecoveryRecoveryPlan
-          href: Azure/Remove-AzureSiteRecoveryRecoveryPlan.md
-        - name: Remove-AzureSiteRecoveryStorageMapping
-          href: Azure/Remove-AzureSiteRecoveryStorageMapping.md
-        - name: Restart-AzureSiteRecoveryJob
-          href: Azure/Restart-AzureSiteRecoveryJob.md
-        - name: Resume-AzureSiteRecoveryJob
-          href: Azure/Resume-AzureSiteRecoveryJob.md
-        - name: Set-AzureSiteRecoveryProtectionEntity
-          href: Azure/Set-AzureSiteRecoveryProtectionEntity.md
-        - name: Set-AzureSiteRecoveryVM
-          href: Azure/Set-AzureSiteRecoveryVM.md
-        - name: Start-AzureSiteRecoveryCommitFailoverJob
-          href: Azure/Start-AzureSiteRecoveryCommitFailoverJob.md
-        - name: Start-AzureSiteRecoveryPlannedFailoverJob
-          href: Azure/Start-AzureSiteRecoveryPlannedFailoverJob.md
-        - name: Start-AzureSiteRecoveryProtectionProfileAssociationJob
-          href: Azure/Start-AzureSiteRecoveryProtectionProfileAssociationJob.md
-        - name: Start-AzureSiteRecoveryProtectionProfileDissociationJob
-          href: Azure/Start-AzureSiteRecoveryProtectionProfileDissociationJob.md
-        - name: Start-AzureSiteRecoveryTestFailoverJob
-          href: Azure/Start-AzureSiteRecoveryTestFailoverJob.md
-        - name: Start-AzureSiteRecoveryUnplannedFailoverJob
-          href: Azure/Start-AzureSiteRecoveryUnplannedFailoverJob.md
-        - name: Stop-AzureSiteRecoveryJob
-          href: Azure/Stop-AzureSiteRecoveryJob.md
-        - name: Update-AzureSiteRecoveryProtectionDirection
-          href: Azure/Update-AzureSiteRecoveryProtectionDirection.md
-        - name: Update-AzureSiteRecoveryProtectionEntity
-          href: Azure/Update-AzureSiteRecoveryProtectionEntity.md
-        - name: Update-AzureSiteRecoveryRecoveryPlan
-          href: Azure/Update-AzureSiteRecoveryRecoveryPlan.md
-    - name: Sql
-      href: '/powershell-new/module/Azure#Sql'
-      items:
-        - name: Get-AzureSqlDatabase
-          href: Azure/Get-AzureSqlDatabase.md
-        - name: Get-AzureSqlDatabaseCopy
-          href: Azure/Get-AzureSqlDatabaseCopy.md
-        - name: Get-AzureSqlDatabaseImportExportStatus
-          href: Azure/Get-AzureSqlDatabaseImportExportStatus.md
-        - name: Get-AzureSqlDatabaseOperation
-          href: Azure/Get-AzureSqlDatabaseOperation.md
-        - name: Get-AzureSqlDatabaseServer
-          href: Azure/Get-AzureSqlDatabaseServer.md
-        - name: Get-AzureSqlDatabaseServerFirewallRule
-          href: Azure/Get-AzureSqlDatabaseServerFirewallRule.md
-        - name: Get-AzureSqlDatabaseServerQuota
-          href: Azure/Get-AzureSqlDatabaseServerQuota.md
-        - name: Get-AzureSqlDatabaseServiceObjective
-          href: Azure/Get-AzureSqlDatabaseServiceObjective.md
-        - name: Get-AzureSqlRecoverableDatabase
-          href: Azure/Get-AzureSqlRecoverableDatabase.md
-        - name: New-AzureSqlDatabase
-          href: Azure/New-AzureSqlDatabase.md
-        - name: New-AzureSqlDatabaseServer
-          href: Azure/New-AzureSqlDatabaseServer.md
-        - name: New-AzureSqlDatabaseServerContext
-          href: Azure/New-AzureSqlDatabaseServerContext.md
-        - name: New-AzureSqlDatabaseServerFirewallRule
-          href: Azure/New-AzureSqlDatabaseServerFirewallRule.md
-        - name: Remove-AzureSqlDatabase
-          href: Azure/Remove-AzureSqlDatabase.md
-        - name: Remove-AzureSqlDatabaseServer
-          href: Azure/Remove-AzureSqlDatabaseServer.md
-        - name: Remove-AzureSqlDatabaseServerFirewallRule
-          href: Azure/Remove-AzureSqlDatabaseServerFirewallRule.md
-        - name: Set-AzureSqlDatabase
-          href: Azure/Set-AzureSqlDatabase.md
-        - name: Set-AzureSqlDatabaseServer
-          href: Azure/Set-AzureSqlDatabaseServer.md
-        - name: Set-AzureSqlDatabaseServerFirewallRule
-          href: Azure/Set-AzureSqlDatabaseServerFirewallRule.md
-        - name: Start-AzureSqlDatabaseCopy
-          href: Azure/Start-AzureSqlDatabaseCopy.md
-        - name: Start-AzureSqlDatabaseExport
-          href: Azure/Start-AzureSqlDatabaseExport.md
-        - name: Start-AzureSqlDatabaseImport
-          href: Azure/Start-AzureSqlDatabaseImport.md
-        - name: Start-AzureSqlDatabaseRecovery
-          href: Azure/Start-AzureSqlDatabaseRecovery.md
-        - name: Start-AzureSqlDatabaseRestore
-          href: Azure/Start-AzureSqlDatabaseRestore.md
-        - name: Stop-AzureSqlDatabaseCopy
-          href: Azure/Stop-AzureSqlDatabaseCopy.md
+        - name: Add-AzureTrafficManagerEndpoint
+          href: Azure/Add-AzureTrafficManagerEndpoint.md
+        - name: Disable-AzureTrafficManagerProfile
+          href: Azure/Disable-AzureTrafficManagerProfile.md
+        - name: Enable-AzureTrafficManagerProfile
+          href: Azure/Enable-AzureTrafficManagerProfile.md
+        - name: Get-AzureTrafficManagerProfile
+          href: Azure/Get-AzureTrafficManagerProfile.md
+        - name: New-AzureTrafficManagerProfile
+          href: Azure/New-AzureTrafficManagerProfile.md
+        - name: Remove-AzureTrafficManagerEndpoint
+          href: Azure/Remove-AzureTrafficManagerEndpoint.md
+        - name: Remove-AzureTrafficManagerProfile
+          href: Azure/Remove-AzureTrafficManagerProfile.md
+        - name: Set-AzureTrafficManagerEndpoint
+          href: Azure/Set-AzureTrafficManagerEndpoint.md
+        - name: Set-AzureTrafficManagerProfile
+          href: Azure/Set-AzureTrafficManagerProfile.md
+        - name: Test-AzureTrafficManagerDomainName
+          href: Azure/Test-AzureTrafficManagerDomainName.md
