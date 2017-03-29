@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 115A7612-4856-47AE-AEE4-918350CD7009
 online version:
 schema: 2.0.0
-updated_at: 03/11/2017 02:03 AM
-ms.date: 03/11/2017
+updated_at: 03/29/2017 18:03 PM
+ms.date: 03/29/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmRoleDefinition.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Set-AzureRmRoleDefinition.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/04f63f6e685743ace2c57eb157574e34e8610b1c
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/1b0e8fcdd474515f4a6eeac956865e25badf43bd
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -63,7 +63,7 @@ Following is a sample updated role definition json for Set-AzureRmRoleDefinition
 ## EXAMPLES
 
 ### --------------------------  Update using PSRoleDefinitionObject  --------------------------
-@{paragraph=PS C:\\\>}
+
 
 ```
 PS C:\> $roleDef = Get-AzureRmRoleDefinition "Contoso On-Call"
@@ -75,7 +75,7 @@ PS C:\> $roleDef = Get-AzureRmRoleDefinition "Contoso On-Call"
 ```
 
 ### --------------------------  Create using JSON file  --------------------------
-@{paragraph=PS C:\\\>}
+
 
 ```
 PS C:\> Set-AzureRmRoleDefinition -InputFile C:\Temp\roleDefinition.json

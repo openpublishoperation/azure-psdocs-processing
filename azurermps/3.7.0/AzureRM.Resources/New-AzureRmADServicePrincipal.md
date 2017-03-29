@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: D602F910-B26F-473D-B5B6-C7BDFB0A14CB
 online version:
 schema: 2.0.0
-updated_at: 03/28/2017 19:03 PM
-ms.date: 03/28/2017
+updated_at: 03/29/2017 18:03 PM
+ms.date: 03/29/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADServicePrincipal.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/New-AzureRmADServicePrincipal.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/26f9c2e427e255459b9a3cbc5605a773bb3666e1
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/1b0e8fcdd474515f4a6eeac956865e25badf43bd
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -96,7 +96,7 @@ In order to update the application specific parameters please use Set-AzureRmADA
 ## EXAMPLES
 
 ### Example 1:
-@{paragraph=PS C:\\\>}
+
 
 ```
 New-AzureRmADServicePrincipal -ApplicationId 34a28ad2-dec4-4a41-bc3b-d22ddf90000e
@@ -109,7 +109,7 @@ DisplayName                    Type                           ObjectId
 DemoApp                        ServicePrincipal               f95b6f5c-fc98-4af0-bb8a-34a14ca1dca1
 
 ### Example 2:
-@{paragraph=PS C:\\\>}
+
 
 ```
 New-AzureRmADServicePrincipal -DisplayName SPForNoExistingApp

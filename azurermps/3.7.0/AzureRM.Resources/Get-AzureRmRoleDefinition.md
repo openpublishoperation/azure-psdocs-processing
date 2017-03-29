@@ -3,11 +3,11 @@ external help file: Microsoft.Azure.Commands.Resources.dll-Help.xml
 ms.assetid: 7740AC3B-F643-4F8D-8DC5-ACBF59323BD8
 online version:
 schema: 2.0.0
-updated_at: 03/23/2017 19:03 PM
-ms.date: 03/23/2017
+updated_at: 03/29/2017 18:03 PM
+ms.date: 03/29/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Get-AzureRmRoleDefinition.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v3.7.0/Get-AzureRmRoleDefinition.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/41ada73c47a1e6470a5d53dd3067fc8dd972eb71
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/1b0e8fcdd474515f4a6eeac956865e25badf43bd
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -48,7 +48,7 @@ To inspect individual operations that a role grants access to, review the Action
 ## EXAMPLES
 
 ### Example 1:
-@{paragraph=PS C:\\\>}
+
 
 ```
 PS C:\> Get-AzureRmRoleDefinition -Name Reader
@@ -57,7 +57,7 @@ PS C:\> Get-AzureRmRoleDefinition -Name Reader
 Get the Reader role definition
 
 ### Example 2:
-@{paragraph=PS C:\\\>}
+
 
 ```
 PS C:\> Get-AzureRmRoleDefinition
