@@ -14,6 +14,7 @@ ms.topic: conceptual
 author: cabailey
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: cabailey
 open_to_public_contributors: false
 Clear-RMSAuthentication: AzureInformationProtection
 Get-AIPFileStatus: AzureInformationProtection

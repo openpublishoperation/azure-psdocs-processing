@@ -12,6 +12,7 @@ ms.topic: reference
 author: cabailey
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: cabailey
 open_to_public_contributors: false
 ---
 
