@@ -1070,6 +1070,32 @@
           href: Azure/Update-AzureVM.md
         - name: Update-AzureVMImage
           href: Azure/Update-AzureVMImage.md
+        - name: Add-AzureRmAccount
+          href: AzureRM.Profile/Add-AzureRmAccount.md
+        - name: Add-AzureRmEnvironment
+          href: AzureRM.Profile/Add-AzureRmEnvironment.md
+        - name: Disable-AzureRmDataCollection
+          href: AzureRM.Profile/Disable-AzureRmDataCollection.md
+        - name: Enable-AzureRmDataCollection
+          href: AzureRM.Profile/Enable-AzureRmDataCollection.md
+        - name: Get-AzureRmContext
+          href: AzureRM.Profile/Get-AzureRmContext.md
+        - name: Get-AzureRmEnvironment
+          href: AzureRM.Profile/Get-AzureRmEnvironment.md
+        - name: Get-AzureRmSubscription
+          href: AzureRM.Profile/Get-AzureRmSubscription.md
+        - name: Get-AzureRmTenant
+          href: AzureRM.Profile/Get-AzureRmTenant.md
+        - name: Remove-AzureRmEnvironment
+          href: AzureRM.Profile/Remove-AzureRmEnvironment.md
+        - name: Save-AzureRmProfile
+          href: AzureRM.Profile/Save-AzureRmProfile.md
+        - name: Select-AzureRmProfile
+          href: AzureRM.Profile/Select-AzureRmProfile.md
+        - name: Set-AzureRmContext
+          href: AzureRM.Profile/Set-AzureRmContext.md
+        - name: Set-AzureRmEnvironment
+          href: AzureRM.Profile/Set-AzureRmEnvironment.md
     - name: RecoveryServices
       href: '/powershell-new/module/Azure#RecoveryServices'
       items:
