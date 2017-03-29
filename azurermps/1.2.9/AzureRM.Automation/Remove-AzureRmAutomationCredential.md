@@ -11,6 +11,7 @@ ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: erickson-doug
 open_to_public_contributors: false
 ---
 

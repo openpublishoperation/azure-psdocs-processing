@@ -9,6 +9,9 @@ ms.devlang: powershell
 ms.topic: reference
 ms.author: sewhee
 ms.manager: carmonm
+content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ServiceManagement/docs-conceptual/overview.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ServiceManagement/docs-conceptual/overview.md
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/7b4409694656900a99f35560a78b87c1ef3c7778
 ---
 
 # Overview of the Azure PowerShell Service Management module

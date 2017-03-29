@@ -9,9 +9,12 @@ ms.service:
 ms.product: azure
 ms.devlang: powershell
 ms.topic: reference
-ms.workload:
+ms.workload: null
 ms.date: 03/22/2017
 ms.author: sewhee
+content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/release-notes-azureps.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/release-notes-azureps.md
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/f1dcbb5f78f7ea1bc953c94b3415c1e55eb41854
 ---
 
 # Release notes

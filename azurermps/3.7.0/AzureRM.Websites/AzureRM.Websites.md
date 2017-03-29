@@ -12,6 +12,7 @@ ms.topic: conceptual
 author: erickson-doug
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
+manager: erickson-doug
 open_to_public_contributors: false
 Edit-AzureRmWebAppBackupConfiguration: App Service
 Get-AzureRmAppServicePlan: App Service

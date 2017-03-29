@@ -10,6 +10,9 @@ ms.devlang: powershell
 ms.topic: reference
 ms.date: 03/22/2017
 ms.author: sewhee
+content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/other-install.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/other-install.md
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/178b98f94e9523bc6d743a48ea40ce379bb5bbdc
 ---
 
 # Other installation methods
