@@ -6,7 +6,7 @@ updated_at: 03/29/2017 04:03 AM
 ms.date: 03/29/2017
 content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/v2/New-AzureADMSGroup.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/v2/New-AzureADMSGroup.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/5c1d8dd0741d6bd6a8687f67227daffe45f8c220
+gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/6736f295edae681312c8b24262f13af33ce6408e
 ms.topic: reference
 author: erickson-doug
 ms.author: PowerShellHelpPub
@@ -113,7 +113,7 @@ Accept wildcard characters: False
 
 ### -MailNickname
 Specifies a mail nickname for the group.
-If MailEnabled is $False, you must specify a mail nickname.
+If MailEnabled is $False you must still specify a mail nickname.
 
 ```yaml
 Type: String
