@@ -12,7 +12,7 @@ ms.date: 03/22/2017
 ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/get-started-azureps.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/get-started-azureps.md
-gitcommit: https://github.com/Azure/azure-docs-powershell/blob/77ca2f48449718398335d29a755f7bc7168ec8f7
+gitcommit: https://github.com/Azure/azure-docs-powershell/blob/77aac5a379fd627fd8dc6bb2236e2f69d748c6e8
 open_to_public_contributors: false
 ---
 # Getting started with Azure PowerShell
@@ -21,7 +21,6 @@ Azure PowerShell is designed for managing and administering Azure resources from
 and for building automation scripts that work against the Azure Resource Manager. This article
 helps get you started using it, and teaches you the core concepts behind it.
 
-This article assumes that you have already installed Azure PowerShell and loaded the module.
 
 ## Install Azure PowerShell
 The first step is to make sure you have the latest version of the Azure PowerShell installed:
