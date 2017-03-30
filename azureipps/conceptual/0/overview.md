@@ -13,6 +13,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell-aip/blob/master/Azure%20Information%20Protection/docs-conceptual/overview.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-aip/blob/master/Azure%20Information%20Protection/docs-conceptual/overview.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-aip/blob/ba4c6dcd31c8cbc755c4a1fa59d875efe8476913
+open_to_public_contributors: false
 ---
 
 # Azure Information Protection

@@ -13,6 +13,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell-elasticdb/blob/master/ElasticDB/docs-conceptual/overview.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-elasticdb/blob/master/ElasticDB/docs-conceptual/overview.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-elasticdb/blob/31ddf7e6cc0880910211bac2c8517601791800e1
+open_to_public_contributors: false
 ---
 
 # Azure ElasticDB PowerShell
