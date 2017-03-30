@@ -1,3 +1,8 @@
+---
+content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/docs-conceptual/overview.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/docs-conceptual/overview.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-azuread/blob/4ba1e9d8a6306ad18b51de42a7a4b577742fa0e7
+---
 # Azure Active Directory PowerShell
 
 Azure Active Directory PowerShell is the most commonly used user interface for IT Pros to manage their Azure Active Directory. These cmdlets cover a broad range of functionality that provide capabilities to retrieve data from the directory, create new objects in the directory or change existing objects and configure the directory and its features.
