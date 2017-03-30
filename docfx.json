@@ -361,7 +361,9 @@
       }
     },
     "globalMetadata": {
-      "showPowerShellPicker": "true"
+      "showPowerShellPicker": "true",
+      "brand": "azure",
+      "searchScope": ["Azure"]      
     },
     "dest": "testMultipleVersion"
   }
