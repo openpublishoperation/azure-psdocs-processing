@@ -1,6 +1,9 @@
 ---
 layout: HubPage
 hide_bc: true
+brand: powershell
+searchScope:
+    - PowerShell
 author: mattlusherro
 ms.author: apexprodleads
 ms.date: 03-24-2017
