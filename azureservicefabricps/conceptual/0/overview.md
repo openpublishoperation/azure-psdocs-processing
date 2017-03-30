@@ -13,6 +13,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/docs-conceptual/overview.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/docs-conceptual/overview.md
 gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/e63cf826edada2ef41fc5d5e04c7160a1c25c682
+open_to_public_contributors: false
 ---
 
 # Azure Service Fabric
