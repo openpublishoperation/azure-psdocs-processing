@@ -257,7 +257,9 @@
     },
     "exportRawModel": true,
     "globalMetadata": {
-      "showPowerShellPicker": "true"
+      "showPowerShellPicker": "true",
+      "searchScope": ["azure"],
+      "brand": "azure"
     },
     "dest": "testMultipleVersion"
   }
