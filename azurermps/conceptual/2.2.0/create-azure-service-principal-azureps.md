@@ -15,6 +15,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/create-azure-service-principal-azureps.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/create-azure-service-principal-azureps.md
 gitcommit: https://github.com/Azure/azure-docs-powershell/blob/51b84a74e43efe3a0637e29b992acc62bf0a6505
+open_to_public_contributors: false
 ---
 
 # Create an Azure service principal with Azure PowerShell

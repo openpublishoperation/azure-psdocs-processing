@@ -13,6 +13,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/queries-azureps.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/queries-azureps.md
 gitcommit: https://github.com/Azure/azure-docs-powershell/blob/f1dcbb5f78f7ea1bc953c94b3415c1e55eb41854
+open_to_public_contributors: false
 ---
 
 # Querying for Azure resources

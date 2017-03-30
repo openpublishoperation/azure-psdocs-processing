@@ -13,6 +13,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/formatting-output.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/formatting-output.md
 gitcommit: https://github.com/Azure/azure-docs-powershell/blob/8e3e60d275038dfca0c605c3792ba89bc1b4defe
+open_to_public_contributors: false
 ---
 
 # Formatting query results

@@ -15,6 +15,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/release-notes-azureps.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/release-notes-azureps.md
 gitcommit: https://github.com/Azure/azure-docs-powershell/blob/2c631126ead3c931b3305b9529c038af471ed0bd
+open_to_public_contributors: false
 ---
 
 # Release notes

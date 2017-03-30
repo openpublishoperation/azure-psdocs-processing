@@ -13,6 +13,7 @@ ms.author: sewhee
 content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/manage-subscriptions-azureps.md
 original_content_git_url: https://github.com/Azure/azure-docs-powershell/blob/master/azureps-cmdlets-docs/ResourceManager/docs-conceptual/manage-subscriptions-azureps.md
 gitcommit: https://github.com/Azure/azure-docs-powershell/blob/51b84a74e43efe3a0637e29b992acc62bf0a6505
+open_to_public_contributors: false
 ---
 
 # Manage multiple Azure subscriptions
