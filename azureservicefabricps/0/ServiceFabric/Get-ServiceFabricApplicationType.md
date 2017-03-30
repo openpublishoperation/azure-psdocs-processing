@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 377D093A-8D81-4CDA-842B-EF8A9FF2585C
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationType.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationType.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/06/2017 23:03 PM
+ms.date: 03/06/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationType.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationType.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/8edb37da7f57a0f756588b48267ba97e13b21d02
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub

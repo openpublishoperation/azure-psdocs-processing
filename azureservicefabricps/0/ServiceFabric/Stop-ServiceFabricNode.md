@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 4BC03E59-F564-4678-A6DE-83974795422C
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Stop-ServiceFabricNode.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Stop-ServiceFabricNode.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/13/2017 21:03 PM
+ms.date: 03/13/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Stop-ServiceFabricNode.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Stop-ServiceFabricNode.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/16a82fb62f024a7a246aebb83519e457a923b5e1
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub

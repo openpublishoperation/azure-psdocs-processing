@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: CF581EAB-D109-4C2A-AD37-A142B63D79FD
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationManifest.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationManifest.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/06/2017 22:03 PM
+ms.date: 03/06/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationManifest.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricApplicationManifest.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/590b7cbe1169bc37115a8b4a74004402b4cb56ac
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub

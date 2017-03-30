@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 03B1C1AE-DF27-4EA0-8423-7224A9174AA3
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricReplicaHealth.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricReplicaHealth.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/07/2017 02:03 AM
+ms.date: 03/07/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricReplicaHealth.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Get-ServiceFabricReplicaHealth.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/c9918e862685779553206b72ba4d711a6f2e8375
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub

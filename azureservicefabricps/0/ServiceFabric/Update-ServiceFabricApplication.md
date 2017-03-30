@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 38C23E3E-4A54-4C9A-B349-A338006A12DE
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricApplication.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricApplication.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/10/2017 19:03 PM
+ms.date: 03/10/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricApplication.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Update-ServiceFabricApplication.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/deeef17c4bb2eafe924fdbe3ccf8feb1219d5797
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub

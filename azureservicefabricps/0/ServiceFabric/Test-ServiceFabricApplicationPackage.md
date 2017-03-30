@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 81C3B5F4-6B48-47CB-AC09-3193F3F86E25
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Test-ServiceFabricApplicationPackage.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/Test-ServiceFabricApplicationPackage.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/06/2017 23:03 PM
+ms.date: 03/06/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Test-ServiceFabricApplicationPackage.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/Test-ServiceFabricApplicationPackage.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/332aa469323cc891bd7a5321bb3197615f899d06
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub

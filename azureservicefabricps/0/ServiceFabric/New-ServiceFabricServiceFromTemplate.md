@@ -3,9 +3,11 @@ external help file: Microsoft.ServiceFabric.Powershell.dll-Help.xml
 ms.assetid: 0A8D8356-C8A1-4EA7-9E0C-3C7A483EB72E
 online version:
 schema: 2.0.0
-content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/New-ServiceFabricServiceFromTemplate.md
-original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/service-fabric-cmdlets/ServiceFabric/vlatest/New-ServiceFabricServiceFromTemplate.md
-gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/
+updated_at: 03/24/2017 18:03 PM
+ms.date: 03/24/2017
+content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/New-ServiceFabricServiceFromTemplate.md
+original_content_git_url: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/master/Service-Fabric-cmdlets/ServiceFabric/vlatest/New-ServiceFabricServiceFromTemplate.md
+gitcommit: https://github.com/Azure/azure-docs-powershell-servicefabric/blob/88c0d2240a33e93992c7f3beac793933017bb52a
 ms.topic: reference
 author: oanapl
 ms.author: PowerShellHelpPub
